@@ -1,0 +1,798 @@
+[
+    {
+        "id": "990256838",
+        "tienda": "Fravega",
+        "nombre": "Auriculares Inalámbricos Aiwa TWA-100 Negro",
+        "genero": "Unisex",
+        "precio_original": 44999.0,
+        "precio_oferta": 12999.0,
+        "precio_minimo_historico": 12999.0,
+        "descuento": 71.1,
+        "link": "https://www.fravega.com/auriculares-inalambricos-aiwa-twa-100-negro-596089/p",
+        "imagen": "https://fravega.vteximg.com.br/arquivos/ids/45262434/auriculares-inalambricos-aiwa-twa-100-negro-596089.jpg?v=638640902943670000",
+        "talles": [
+            "Auriculares Inalámbricos Aiwa TWA-100 Negro"
+        ]
+    },
+    {
+        "id": "990525284",
+        "tienda": "Fravega",
+        "nombre": "Organizador De Zapatos Y Ropa Con 8 Ganchos Y 5 Niveles 80x172x26cm Marca HomeCo. Color Negro",
+        "genero": "Unisex",
+        "precio_original": 67040.48,
+        "precio_oferta": 20000.0,
+        "precio_minimo_historico": 20000.0,
+        "descuento": 70.2,
+        "link": "https://www.fravega.com/organizador-de-zapatos-y-ropa-con-8-ganchos-y-5-niveles-80x172x26cm-marca-homeco-color-negro-22635122/p",
+        "imagen": "https://fravega.vteximg.com.br/arquivos/ids/45868020/organizador-de-zapatos-y-ropa-con-8-ganchos-y-5-niveles-80x172x26cm-marca-homeco-color-negro-22635122.jpg?v=638973581094500000",
+        "talles": [
+            "Organizador De Zapatos Y Ropa Con 8 Ganchos Y 5 Niveles 80x172x26cm Marca HomeCo. Color Negro"
+        ]
+    },
+    {
+        "id": "14935",
+        "tienda": "Chelsea",
+        "nombre": "Medias Chelsea Mujer",
+        "genero": "Mujer",
+        "precio_original": 2599.0,
+        "precio_oferta": 780.0,
+        "precio_minimo_historico": 780.0,
+        "descuento": 70.0,
+        "link": "https://www.chelsea.com.ar/medias-chelsea-mujer-moda-911860w/p",
+        "imagen": "https://chelseaio.vteximg.com.br/arquivos/ids/497865/911860W_1.jpg?v=638872288516030000",
+        "talles": [
+            "911860W60UNI"
+        ]
+    },
+    {
+        "id": "671",
+        "tienda": "Simmons",
+        "nombre": "Colchón Simmons en Caja YOLO Pocket Resortes individuales",
+        "genero": "Unisex",
+        "precio_original": 2089527.0,
+        "precio_oferta": 629209.0,
+        "precio_minimo_historico": 619910.0,
+        "descuento": 69.9,
+        "link": "https://www.simmons.com.ar/colchon-yolobysimmons-pocket-caja-2plazas-190x140/p",
+        "imagen": "https://simmonsarg.vteximg.com.br/arquivos/ids/167707/Yolo_resortes_web.png?v=639020115775670000",
+        "talles": [
+            "2 Plazas 190x140"
+        ]
+    },
+    {
+        "id": "655",
+        "tienda": "Simmons",
+        "nombre": "Colchón en Caja YOLO by Simmons Espuma Alta Densidad",
+        "genero": "Unisex",
+        "precio_original": 1243892.0,
+        "precio_oferta": 387395.0,
+        "precio_minimo_historico": 381669.0,
+        "descuento": 68.9,
+        "link": "https://www.simmons.com.ar/colchon-yolobysimmons-en-caja/p",
+        "imagen": "https://simmonsarg.vteximg.com.br/arquivos/ids/165917/yolo_web.png?v=639070154744900000",
+        "talles": [
+            "1 Plaza 190x80",
+            "2 Plazas 190x140",
+            "Queen Size 200x160"
+        ]
+    },
+    {
+        "id": "2581",
+        "tienda": "La Cardeuse",
+        "nombre": "Sommier La Cardeuse Línea Native 800 Queen 160x200",
+        "genero": "Unisex",
+        "precio_original": 6702743.0,
+        "precio_oferta": 2211905.0,
+        "precio_minimo_historico": 2211905.0,
+        "descuento": 67.0,
+        "link": "https://www.lacardeuse.com.ar/88160200na8-sommier-queen-160x200-resortes-linea-native-800/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1583669/Copia-de-Diseno-sin-titulo--28-.png?v=639160971065200000",
+        "talles": [
+            "Sommier La Cardeuse Línea Native 800 Queen 160x200 -"
+        ]
+    },
+    {
+        "id": "2547",
+        "tienda": "La Cardeuse",
+        "nombre": "Sommier La Cardeuse Línea Native 400 King 200x200",
+        "genero": "Unisex",
+        "precio_original": 4498891.0,
+        "precio_oferta": 1484634.0,
+        "precio_minimo_historico": 1484634.0,
+        "descuento": 67.0,
+        "link": "https://www.lacardeuse.com.ar/88200200na4-sommier-king-200x200-linea-native-400/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1583693/Copia-de-Diseno-sin-titulo.png?v=639160893325000000",
+        "talles": [
+            "Sommier La Cardeuse Línea Native 400 King 200x200 -"
+        ]
+    },
+    {
+        "id": "2531",
+        "tienda": "La Cardeuse",
+        "nombre": "Sommier La Cardeuse Línea Native 400 Queen 160x200",
+        "genero": "Unisex",
+        "precio_original": 3773097.0,
+        "precio_oferta": 1245122.0,
+        "precio_minimo_historico": 1245122.0,
+        "descuento": 67.0,
+        "link": "https://www.lacardeuse.com.ar/88160200na4-sommier-queen-160x200-resortes-linea-native-400/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1583526/Copia-de-Diseno-sin-titulo--8-.png?v=639076402621230000",
+        "talles": [
+            "Sommier La Cardeuse Línea Native 400 Queen 160x200 -"
+        ]
+    },
+    {
+        "id": "2521",
+        "tienda": "La Cardeuse",
+        "nombre": "Sommier La Cardeuse Línea Native 400  2 Plazas 140x190",
+        "genero": "Unisex",
+        "precio_original": 3080514.0,
+        "precio_oferta": 1016570.0,
+        "precio_minimo_historico": 1016570.0,
+        "descuento": 67.0,
+        "link": "https://www.lacardeuse.com.ar/88140190na4-sommier-2-plazas-140x190-native-400/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1583568/Copia-de-Diseno-sin-titulo--18-.png?v=639160904709300000",
+        "talles": [
+            "Sommier La Cardeuse Línea Native 400  2 Plazas 140x190 -"
+        ]
+    },
+    {
+        "id": "2481",
+        "tienda": "La Cardeuse",
+        "nombre": "Colchón La Cardeuse Línea Native 800 Queen 160x200",
+        "genero": "Unisex",
+        "precio_original": 4979497.0,
+        "precio_oferta": 1643234.0,
+        "precio_minimo_historico": 1643234.0,
+        "descuento": 67.0,
+        "link": "https://www.lacardeuse.com.ar/na160200800-colchon-queen-160x200-resortes-linea-native-800/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1583646/Copia-de-Diseno-sin-titulo--24-.png?v=639160971651900000",
+        "talles": [
+            "Colchón La Cardeuse Línea Native 800 Queen 160x200 -"
+        ]
+    },
+    {
+        "id": "2471",
+        "tienda": "La Cardeuse",
+        "nombre": "Colchón La Cardeuse Línea Native 800 2 Plazas 140x190",
+        "genero": "Unisex",
+        "precio_original": 4015732.0,
+        "precio_oferta": 1325192.0,
+        "precio_minimo_historico": 1325192.0,
+        "descuento": 67.0,
+        "link": "https://www.lacardeuse.com.ar/na140190800-colchon-2-plazas-140x190-con-resortes-pocket-linea-native-800/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1583637/Copia-de-Diseno-sin-titulo--24-.png?v=639160972067030000",
+        "talles": [
+            "Colchón La Cardeuse Línea Native 800 2 Plazas 140x190 -"
+        ]
+    },
+    {
+        "id": "2421",
+        "tienda": "La Cardeuse",
+        "nombre": "Colchón La Cardeuse Línea Native 400 2 Plazas 140x190",
+        "genero": "Unisex",
+        "precio_original": 2120591.0,
+        "precio_oferta": 699795.0,
+        "precio_minimo_historico": 699795.0,
+        "descuento": 67.0,
+        "link": "https://www.lacardeuse.com.ar/na140190400-colchon-2-plazas-140x190-native-400/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1583544/Copia-de-Diseno-sin-titulo--9-.png?v=639076409982000000",
+        "talles": [
+            "Colchón La Cardeuse Línea Native 400 2 Plazas 140x190"
+        ]
+    },
+    {
+        "id": "2597",
+        "tienda": "La Cardeuse",
+        "nombre": "Sommier La Cardeuse Línea Native 800 King 200x200",
+        "genero": "Unisex",
+        "precio_original": 8920972.0,
+        "precio_oferta": 2943921.0,
+        "precio_minimo_historico": 2943921.0,
+        "descuento": 67.0,
+        "link": "https://www.lacardeuse.com.ar/88200200na8-sommier-king-200x200-resortes-linea-native-800/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1583675/Copia-de-Diseno-sin-titulo--28-.png?v=639160970859870000",
+        "talles": [
+            "Sommier La Cardeuse Línea Native 800 King 200x200 -"
+        ]
+    },
+    {
+        "id": "2571",
+        "tienda": "La Cardeuse",
+        "nombre": "Sommier La Cardeuse Línea Native 800 2 Plazas 140x190",
+        "genero": "Unisex",
+        "precio_original": 5585633.0,
+        "precio_oferta": 1843259.0,
+        "precio_minimo_historico": 1843259.0,
+        "descuento": 67.0,
+        "link": "https://www.lacardeuse.com.ar/88140190na8-sommier-2-plazas-140x190-resortes-linea-native-800/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1583705/Copia-de-Diseno-sin-titulo--30-.png?v=639077089419430000",
+        "talles": [
+            "Sommier La Cardeuse Línea Native 800 2 Plazas 140x190 -"
+        ]
+    },
+    {
+        "id": "2497",
+        "tienda": "La Cardeuse",
+        "nombre": "Colchón La Cardeuse Línea Native 800 King 200x200",
+        "genero": "Unisex",
+        "precio_original": 6413667.0,
+        "precio_oferta": 2116510.0,
+        "precio_minimo_historico": 2116510.0,
+        "descuento": 67.0,
+        "link": "https://www.lacardeuse.com.ar/na200200800-colchon-king-200x200-resortes-linea-native-800/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1583642/Copia-de-Diseno-sin-titulo--24-.png?v=639160971806300000",
+        "talles": [
+            "Colchón La Cardeuse Línea Native 800 King 200x200 -"
+        ]
+    },
+    {
+        "id": "2451",
+        "tienda": "La Cardeuse",
+        "nombre": "Colchón La Cardeuse Línea Native 800 1 Plaza 080x190",
+        "genero": "Unisex",
+        "precio_original": 2501679.0,
+        "precio_oferta": 825554.0,
+        "precio_minimo_historico": 825554.0,
+        "descuento": 67.0,
+        "link": "https://www.lacardeuse.com.ar/na080190800-colchon-1-plaza-080x190-resortes-linea-native-800/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1583699/Copia de Diseno sin titulo -1-.png?v=639076499013330000",
+        "talles": [
+            "Colchón La Cardeuse Línea Native 800 1 Plaza 080x190 -"
+        ]
+    },
+    {
+        "id": "2401",
+        "tienda": "La Cardeuse",
+        "nombre": "Colchón La Cardeuse Línea Native 400 1 plaza 080x190",
+        "genero": "Unisex",
+        "precio_original": 1731637.0,
+        "precio_oferta": 571440.0,
+        "precio_minimo_historico": 571440.0,
+        "descuento": 67.0,
+        "link": "https://www.lacardeuse.com.ar/na080190400-colchon-1-plaza-080x190-resortes-linea-native-400/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1583532/Copia-de-Diseno-sin-titulo--11-.png?v=639076406729470000",
+        "talles": [
+            "Colchón La Cardeuse Línea Native 400 1 plaza 080x190 -"
+        ]
+    },
+    {
+        "id": "665",
+        "tienda": "Simmons",
+        "nombre": "Colchón y Sommier Simmons Hotel Bilt",
+        "genero": "Unisex",
+        "precio_original": 3118205.0,
+        "precio_oferta": 1029008.0,
+        "precio_minimo_historico": 1013801.0,
+        "descuento": 67.0,
+        "link": "https://www.simmons.com.ar/sommier-bilt-hotel/p",
+        "imagen": "https://simmonsarg.vteximg.com.br/arquivos/ids/168817/BILT_COLCHON-Y-SOMMOER.png?v=639143672729170000",
+        "talles": [
+            "2 Plazas 190x140",
+            "Queen Size 200x160",
+            "King Size 200x200"
+        ]
+    },
+    {
+        "id": "664",
+        "tienda": "Simmons",
+        "nombre": "Colchón Simmons Hotel  Bilt",
+        "genero": "Unisex",
+        "precio_original": 2144658.0,
+        "precio_oferta": 707737.0,
+        "precio_minimo_historico": 697278.0,
+        "descuento": 67.0,
+        "link": "https://www.simmons.com.ar/colchon-bilt-hotel/p",
+        "imagen": "https://simmonsarg.vteximg.com.br/arquivos/ids/165529/Hotel-bilt-Colchon_2025_.png?v=638947637826570000",
+        "talles": [
+            "2 Plazas 190x140",
+            "Queen Size 200x160",
+            "King Size 200x200"
+        ]
+    },
+    {
+        "id": "10062",
+        "tienda": "Topper",
+        "nombre": "SHORT HOMBRE TRAINING PRO FLEECE",
+        "genero": "Hombre",
+        "precio_original": 59999.0,
+        "precio_oferta": 19900.0,
+        "precio_minimo_historico": 19900.0,
+        "descuento": 66.8,
+        "link": "https://www.topper.com.ar/short-hombre-training-pro-fleece-167701/p",
+        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/498414/167701_1.jpg?v=638954572013070000",
+        "talles": [
+            "Talle: L - Color: azul stone",
+            "Talle: XL - Color: azul stone",
+            "Talle: S - Color: azul stone",
+            "Talle: M - Color: azul stone"
+        ]
+    },
+    {
+        "id": "20955",
+        "tienda": "Tascani",
+        "nombre": "Jean Relax Tintta Celeste",
+        "genero": "Unisex",
+        "precio_original": 178000.0,
+        "precio_oferta": 65000.0,
+        "precio_minimo_historico": 65000.0,
+        "descuento": 63.5,
+        "link": "https://www.tascani.com.ar/jean-relaxtintta/p",
+        "imagen": "https://tascani.vteximg.com.br/arquivos/ids/196038/TASCANI195_32164.jpg?v=638902706522200000",
+        "talles": [
+            "26",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "36",
+            "38"
+        ]
+    },
+    {
+        "id": "29398",
+        "tienda": "Coppel",
+        "nombre": "Pantalón Nexport Jogger Azul Hombre",
+        "genero": "Hombre",
+        "precio_original": 34999.0,
+        "precio_oferta": 12999.0,
+        "precio_minimo_historico": 12999.0,
+        "descuento": 62.9,
+        "link": "https://www.coppel.com.ar/pantalon-nexport-azul-hombre-9230570/p",
+        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2843017/1R9230570F20260602082441.png?v=639160072366270000",
+        "talles": [
+            "Pantalón Nexport Jogger Azul Hombre",
+            "Pantalón Nexport Jogger Azul Hombre",
+            "Pantalón Nexport Jogger Azul Hombre"
+        ]
+    },
+    {
+        "id": "780",
+        "tienda": "Simmons",
+        "nombre": "Colchón y Sommier Spring Air Four Seasons Medium",
+        "genero": "Unisex",
+        "precio_original": 5138737.0,
+        "precio_oferta": 1927026.0,
+        "precio_minimo_historico": 1898548.0,
+        "descuento": 62.5,
+        "link": "https://www.simmons.com.ar/colchon-y-sommier-spring-air-four-seasons-medium/p",
+        "imagen": "https://simmonsarg.vteximg.com.br/arquivos/ids/166276/SPRING-AIR-COMFORT-FLEX.png?v=639065211009800000",
+        "talles": [
+            "1 Plaza 200x100",
+            "2 Plazas 190x140",
+            "Queen Size 200x160",
+            "King Size 200x180",
+            "King Size 200x200"
+        ]
+    },
+    {
+        "id": "777",
+        "tienda": "Simmons",
+        "nombre": "Colchón Spring Air Four Seasons Medium",
+        "genero": "Unisex",
+        "precio_original": 3564571.0,
+        "precio_oferta": 1336714.0,
+        "precio_minimo_historico": 1316960.0,
+        "descuento": 62.5,
+        "link": "https://www.simmons.com.ar/colchon-spring-air-four-seasons-medium/p",
+        "imagen": "https://simmonsarg.vteximg.com.br/arquivos/ids/166364/Colchon-confort-flex.png?v=639065208293530000",
+        "talles": [
+            "1 Plaza 200x100",
+            "2 Plazas 190x140",
+            "Queen Size 200x160",
+            "King Size 200x180",
+            "King Size 200x200"
+        ]
+    },
+    {
+        "id": "20760",
+        "tienda": "Tascani",
+        "nombre": "Campera Rolemon Camel",
+        "genero": "Unisex",
+        "precio_original": 295000.0,
+        "precio_oferta": 115000.0,
+        "precio_minimo_historico": 115000.0,
+        "descuento": 61.0,
+        "link": "https://www.tascani.com.ar/campera-rolemon/p",
+        "imagen": "https://tascani.vteximg.com.br/arquivos/ids/190783/TASCANI311_6837.jpg.jpg?v=638829106644370000",
+        "talles": [
+            "Extra Small",
+            "Small",
+            "Medium",
+            "Large",
+            "Extra Large"
+        ]
+    },
+    {
+        "id": "3195",
+        "tienda": "La Cardeuse",
+        "nombre": "Sommier LIP Foam King 200x200",
+        "genero": "Unisex",
+        "precio_original": 12733510.0,
+        "precio_oferta": 5093404.0,
+        "precio_minimo_historico": 5093404.0,
+        "descuento": 60.0,
+        "link": "https://www.lacardeuse.com.ar/cp2002009fo-sommier-lip-foam-200x200/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1586612/1200x799 SITIO FUNCIONA -22-.png?v=639184312515570000",
+        "talles": [
+            "Sommier LIP Foam King 200x200  -"
+        ]
+    },
+    {
+        "id": "3147",
+        "tienda": "La Cardeuse",
+        "nombre": "Colchón LIP Foam King 200x200",
+        "genero": "Unisex",
+        "precio_original": 9533121.0,
+        "precio_oferta": 3813248.0,
+        "precio_minimo_historico": 3813248.0,
+        "descuento": 60.0,
+        "link": "https://www.lacardeuse.com.ar/lp2002009fo-colchon-lip-foam-200x200/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1583800/Sin-titulo--1200-x-799-px---10-.png?v=639090233043330000",
+        "talles": [
+            "Colchón LIP Foam King 200x200  -"
+        ]
+    },
+    {
+        "id": "3131",
+        "tienda": "La Cardeuse",
+        "nombre": "Colchón LIP Foam Queen 160x200",
+        "genero": "Unisex",
+        "precio_original": 7697639.0,
+        "precio_oferta": 3079056.0,
+        "precio_minimo_historico": 3079056.0,
+        "descuento": 60.0,
+        "link": "https://www.lacardeuse.com.ar/lp1602009fo-colchon-lip-foam-160x200/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1583460/Sin-titulo--1200-x-799-px---10-.png?v=639059953095000000",
+        "talles": [
+            "Colchón LIP Foam Queen 160x200 -"
+        ]
+    },
+    {
+        "id": "3121",
+        "tienda": "La Cardeuse",
+        "nombre": "Colchón LIP Foam 2 Plazas 140x190",
+        "genero": "Unisex",
+        "precio_original": 6138796.0,
+        "precio_oferta": 2455518.0,
+        "precio_minimo_historico": 2455518.0,
+        "descuento": 60.0,
+        "link": "https://www.lacardeuse.com.ar/lp1401909fo-colchon-lip-foam-140x190/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1578351/Sin-titulo--1200-x-799-px---10-.png?v=639035629890700000",
+        "talles": [
+            "Colchón LIP Foam 2 Plazas 140x190 -"
+        ]
+    },
+    {
+        "id": "12414",
+        "tienda": "Juleriaque",
+        "nombre": "DAVIDOFF HOT WATER EDT",
+        "genero": "Unisex",
+        "precio_original": 163350.0,
+        "precio_oferta": 65340.0,
+        "precio_minimo_historico": 65340.0,
+        "descuento": 60.0,
+        "link": "https://www.juleriaque.com.ar/davidoff-hot-water-edt-903024/p",
+        "imagen": "https://juleriaque.vteximg.com.br/arquivos/ids/254041/1008032.jpg?v=638802449179470000",
+        "talles": [
+            "Davidoff Hot Water EDT 110 ml"
+        ]
+    },
+    {
+        "id": "3932",
+        "tienda": "Rouge",
+        "nombre": "So Real Cheap & Chic EDT",
+        "genero": "Mujer",
+        "precio_original": 99900.0,
+        "precio_oferta": 39960.0,
+        "precio_minimo_historico": 39960.0,
+        "descuento": 60.0,
+        "link": "https://www.perfumeriasrouge.com/so-real-cheap-chic-edt-x6u28c-1/p",
+        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/258588/X6U28frasco.jpg?v=639126315269370000",
+        "talles": [
+            "Promo 30ml",
+            "50 ml"
+        ]
+    },
+    {
+        "id": "22213",
+        "tienda": "Rouge",
+        "nombre": "CK One Essence Viva Love Parfum Intense",
+        "genero": "Unisex",
+        "precio_original": 200675.0,
+        "precio_oferta": 80270.0,
+        "precio_minimo_historico": 80270.0,
+        "descuento": 60.0,
+        "link": "https://www.perfumeriasrouge.com/ck-one-essence-viva-love-parfum-intense-co0-298-284-/p",
+        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/255610/3616306701939.jpg?v=639081410260870000",
+        "talles": [
+            "Promo 100ml"
+        ]
+    },
+    {
+        "id": "20771",
+        "tienda": "Rouge",
+        "nombre": "Hot Water EDT",
+        "genero": "Hombre",
+        "precio_original": 163350.0,
+        "precio_oferta": 65340.0,
+        "precio_minimo_historico": 65340.0,
+        "descuento": 60.0,
+        "link": "https://www.perfumeriasrouge.com/hot-water-edt-co0-016-101-p/p",
+        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/243906/3607344163773.jpg?v=638925101340030000",
+        "talles": [
+            "Promo 110ml"
+        ]
+    },
+    {
+        "id": "21216",
+        "tienda": "Tascani",
+        "nombre": "Buzo Call Out Plus Celeste",
+        "genero": "Unisex",
+        "precio_original": 139000.0,
+        "precio_oferta": 59000.0,
+        "precio_minimo_historico": 59000.0,
+        "descuento": 57.6,
+        "link": "https://www.tascani.com.ar/buzo-calloutout-celeste/p",
+        "imagen": "https://tascani.vteximg.com.br/arquivos/ids/197077/TASCANI68_50588.jpg?v=638905126319370000",
+        "talles": [
+            "Extra Small",
+            "Small",
+            "Medium",
+            "Large"
+        ]
+    },
+    {
+        "id": "22692",
+        "tienda": "Rouge",
+        "nombre": "CK One Gold EDT",
+        "genero": "Unisex",
+        "precio_original": 243000.0,
+        "precio_oferta": 104490.0,
+        "precio_minimo_historico": 104490.0,
+        "descuento": 57.0,
+        "link": "https://www.perfumeriasrouge.com/ck-one-gold-edt-cp0-298-266-p/p",
+        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/259992/3614222155409P.jpg?v=639136105652300000",
+        "talles": [
+            "Promo 200ml"
+        ]
+    },
+    {
+        "id": "5808",
+        "tienda": "Topper",
+        "nombre": "GORRO BEANIE CLASSIC TOPPER",
+        "genero": "Unisex",
+        "precio_original": 22999.0,
+        "precio_oferta": 9999.0,
+        "precio_minimo_historico": 9999.0,
+        "descuento": 56.5,
+        "link": "https://www.topper.com.ar/gorro-beanie-topper-172715/p",
+        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/259195/172715.jpg?v=637799617451670000",
+        "talles": [
+            "Talle: UNI - Color: Negro"
+        ]
+    },
+    {
+        "id": "20796",
+        "tienda": "Tascani",
+        "nombre": "Zapatillas Faehyoung Blanco",
+        "genero": "Unisex",
+        "precio_original": 198000.0,
+        "precio_oferta": 89000.0,
+        "precio_minimo_historico": 89000.0,
+        "descuento": 55.1,
+        "link": "https://www.tascani.com.ar/zapatillas-faehyoung-blanco/p",
+        "imagen": "https://tascani.vteximg.com.br/arquivos/ids/194378/TASCANI205_32221.jpg?v=638901710806200000",
+        "talles": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+        ]
+    },
+    {
+        "id": "20643",
+        "tienda": "StyleStore",
+        "nombre": "Freidora de Aire PowerXL Vortex Pro de 7.5 litros",
+        "genero": "Unisex",
+        "precio_original": 429999.0,
+        "precio_oferta": 193499.55,
+        "precio_minimo_historico": 193499.55,
+        "descuento": 55.0,
+        "link": "https://www.stylestore.com.ar/freidora-powerxl-pxlafe8001ar/p",
+        "imagen": "https://stylewatch.vteximg.com.br/arquivos/ids/275669/freidora-powerxl-PXLAFE8001AR-5.jpg.jpg?v=638767801213630000",
+        "talles": [
+            "Freidora de Aire PowerXL Vortex Pro de 7.5 litros"
+        ]
+    },
+    {
+        "id": "1286",
+        "tienda": "Juleriaque",
+        "nombre": "FRESH COUTURE GOLD EDP",
+        "genero": "Unisex",
+        "precio_original": 212000.0,
+        "precio_oferta": 95400.0,
+        "precio_minimo_historico": 95400.0,
+        "descuento": 55.0,
+        "link": "https://www.juleriaque.com.ar/fresh-gold-edp-67736/p",
+        "imagen": "https://juleriaque.vteximg.com.br/arquivos/ids/202410/fresh-gold-edp-1F78FD9FBBBC873223D5256888564C00.jpg?v=638977815983730000",
+        "talles": [
+            "Fresh Gold EDP 100 ml"
+        ]
+    },
+    {
+        "id": "572",
+        "tienda": "Simmons",
+        "nombre": "Colchón Belmo Density 2",
+        "genero": "Unisex",
+        "precio_original": 1503025.0,
+        "precio_oferta": 710179.0,
+        "precio_minimo_historico": 699684.0,
+        "descuento": 52.8,
+        "link": "https://www.simmons.com.ar/colchon-belmo-density2/p",
+        "imagen": "https://simmonsarg.vteximg.com.br/arquivos/ids/166687/BD2_Colchon_op-2.png?v=639065169385900000",
+        "talles": [
+            "1 Plaza 190x80",
+            "1 Plaza 190x90",
+            "1 Plaza 190x100",
+            "1 Plaza 200x100",
+            "2 Plazas 190x130",
+            "2 Plazas 190x140",
+            "2 Plazas 190x150",
+            "Queen Size 190x160",
+            "Queen Size 200x160",
+            "King Size 200x180",
+            "King Size 200x200"
+        ]
+    },
+    {
+        "id": "672",
+        "tienda": "Simmons",
+        "nombre": "Colchón Belmo Belspring 3",
+        "genero": "Unisex",
+        "precio_original": 2155600.0,
+        "precio_oferta": 1018521.0,
+        "precio_minimo_historico": 1003469.0,
+        "descuento": 52.8,
+        "link": "https://www.simmons.com.ar/colchon-belmo-belspring3/p",
+        "imagen": "https://simmonsarg.vteximg.com.br/arquivos/ids/168936/bb3_ambientada-colchon-solo.png?v=639148083976630000",
+        "talles": [
+            "1 Plaza 200x100",
+            "2 Plazas 190x140",
+            "2 Plazas 190x150",
+            "Queen Size 200x160",
+            "King Size 200x180",
+            "King Size 200x200"
+        ]
+    },
+    {
+        "id": "10442",
+        "tienda": "Topper",
+        "nombre": "REMERA HOMBRE TRAINING UP II",
+        "genero": "Hombre",
+        "precio_original": 39999.0,
+        "precio_oferta": 18900.0,
+        "precio_minimo_historico": 18900.0,
+        "descuento": 52.7,
+        "link": "https://www.topper.com.ar/remera-hombre-training-up-ii-168208/p",
+        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/525659/REMERA_HOMBRE_TRAINING_UP_II_168208_1.jpg?v=639130893709170000",
+        "talles": [
+            "Talle: M - Color: Azul Oceana",
+            "Talle: XL - Color: Azul Oceana",
+            "Talle: S - Color: Azul Oceana",
+            "Talle: L - Color: Azul Oceana"
+        ]
+    },
+    {
+        "id": "10441",
+        "tienda": "Topper",
+        "nombre": "REMERA HOMBRE TRAINING UP II",
+        "genero": "Hombre",
+        "precio_original": 39999.0,
+        "precio_oferta": 18900.0,
+        "precio_minimo_historico": 18900.0,
+        "descuento": 52.7,
+        "link": "https://www.topper.com.ar/remera-hombre-training-up-ii-168207/p",
+        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/525643/REMERA_HOMBRE_TRAINING_UP_II_168207_1.jpg?v=639130893599970000",
+        "talles": [
+            "Talle: S - Color: Gris Pe",
+            "Talle: XL - Color: Gris Pe",
+            "Talle: L - Color: Gris Pe",
+            "Talle: M - Color: Gris Pe"
+        ]
+    },
+    {
+        "id": "6525",
+        "tienda": "Rouge",
+        "nombre": "Eros Flame EDP",
+        "genero": "Hombre",
+        "precio_original": 421000.0,
+        "precio_oferta": 199007.0,
+        "precio_minimo_historico": 199007.0,
+        "descuento": 52.7,
+        "link": "https://www.perfumeriasrouge.com/eros-flame-edp-x741011p/p",
+        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/220755/198795-800-auto.jpg?v=638618545625930000",
+        "talles": [
+            "200 ml"
+        ]
+    },
+    {
+        "id": "7943",
+        "tienda": "Topper",
+        "nombre": "ZAPATILLAS T.350 MESH",
+        "genero": "Unisex",
+        "precio_original": 83100.0,
+        "precio_oferta": 39900.0,
+        "precio_minimo_historico": 39900.0,
+        "descuento": 52.0,
+        "link": "https://www.topper.com.ar/t-350-mesh-25824/p",
+        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/393822/025824.jpg?v=638568363110500000",
+        "talles": [
+            "Talle: 430 Color: NEGRO/MAGNET/BEIGE HUMUS",
+            "Talle: 440 Color: NEGRO/MAGNET/BEIGE HUMUS",
+            "Talle: 450 Color: NEGRO/MAGNET/BEIGE HUMUS"
+        ]
+    },
+    {
+        "id": "7239",
+        "tienda": "47 Street",
+        "nombre": "CHALECO NOAH",
+        "genero": "Unisex",
+        "precio_original": 99999.0,
+        "precio_oferta": 49999.0,
+        "precio_minimo_historico": 49999.0,
+        "descuento": 50.0,
+        "link": "https://www.47street.com.ar/361090919-chaleco-noah/p",
+        "imagen": "https://street47.vteximg.com.br/arquivos/ids/328583/CHALECO-NOAH14996.jpg?v=639137664743630000",
+        "talles": [
+            "COLOR: NEGRO - TALLE: 00",
+            "COLOR: NEGRO - TALLE: 01"
+        ]
+    },
+    {
+        "id": "7237",
+        "tienda": "47 Street",
+        "nombre": "BUZO GRIZZLY",
+        "genero": "Unisex",
+        "precio_original": 99999.0,
+        "precio_oferta": 49999.0,
+        "precio_minimo_historico": 49999.0,
+        "descuento": 50.0,
+        "link": "https://www.47street.com.ar/36i1071053-buzo-grizzly/p",
+        "imagen": "https://street47.vteximg.com.br/arquivos/ids/326354/BUZO-GRIZZLY15274.jpg?v=639125694450000000",
+        "talles": [
+            "COLOR: GRIS - TALLE: 00",
+            "COLOR: GRIS - TALLE: 01",
+            "COLOR: GRIS - TALLE: 02",
+            "COLOR: GRIS - TALLE: 03",
+            "COLOR: NEGRO - TALLE: 00",
+            "COLOR: NEGRO - TALLE: 01",
+            "COLOR: NEGRO - TALLE: 03",
+            "COLOR: AZUL - TALLE: 00",
+            "COLOR: AZUL - TALLE: 01",
+            "COLOR: AZUL - TALLE: 02",
+            "COLOR: AZUL - TALLE: 03"
+        ]
+    },
+    {
+        "id": "990356744",
+        "tienda": "Fravega",
+        "nombre": "Auriculares Admiral AD-F9 Negro",
+        "genero": "Unisex",
+        "precio_original": 12999.0,
+        "precio_oferta": 6499.0,
+        "precio_minimo_historico": 6499.0,
+        "descuento": 50.0,
+        "link": "https://www.fravega.com/auriculares-admiral-ad-f9-negro-596383/p",
+        "imagen": "https://fravega.vteximg.com.br/arquivos/ids/45988440/auriculares-admiral-ad-f9-negro-596383.jpg?v=639033899198670000",
+        "talles": [
+            "Auriculares Admiral AD-F9 Negro"
+        ]
+    }
+]
