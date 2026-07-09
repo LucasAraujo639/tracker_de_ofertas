@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import { Search, ExternalLink, Tag, ShoppingBag, Filter } from 'lucide-react';
-import datosOfertas from './todas_las_ofertas.json';
+import datosOfertas from '../productos_descuento.json';
 import type { Oferta, Categoria, SubcategoriaRopa, SizeTalle, Genero } from './types';
 import { CATEGORIAS, SUBCATEGORIAS_ROPA, SIZES_TALLE, GENEROS } from './types';
 import { enriquecerOfertas, obtenerTallesNormalizados, obtenerTallesZapatillas } from './categorias';

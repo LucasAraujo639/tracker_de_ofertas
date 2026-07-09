@@ -4,25 +4,26 @@ import type { Oferta, Categoria, SubcategoriaRopa, SizeTalle, Genero } from './t
  * Palabras clave para categorización de productos
  */
 const CATEGORIA_KEYWORDS: Record<Categoria, string[]> = {
-  'Electrodomésticos': ['tostadora', 'refrigerador', 'lavarropas', 'heladera', 'microondas', 'horno', 'licuadora', 'batidora', 'aspiradora', 'calefactor', 'aire', 'ventilador', 'plancha', 'secarropas', 'cava', 'alacena', 'cinta', 'caminadora'],
-  'Ropa': ['camisa', 'remera', 'short', 'pantalón', 'zapatilla', 'zapato', 'bota', 'sandalia', 'buzo', 'sudadera', 'chamarra', 'campera', 'chomba', 'pollera', 'falda', 'blusa', 'camiseta', 'medias', 'abrigo', 'saco', 'blazer', 'vestido', 'funda'],
-  'Electrónica': ['celular', 'smartphone', 'tablet', 'laptop', 'computadora', 'cable', 'cargador', 'adaptador', 'auriculares', 'parlante', 'micrófono', 'monitor', 'teclado', 'mouse', 'webcam', 'samsung', 'iphone', 'galaxy', 'realme', 'motorola', 'poco', 'funda', 'protector'],
-  'Juguetes': ['lego', 'toy', 'muñeca', 'auto', 'juego', 'rompecabezas', 'puzzle', 'peluche', 'figura', 'robot', 'consola', 'joystick', 'frozen', 'disney', 'barbie', 'hot wheels'],
-  'Muebles': ['escritorio', 'silla', 'mesa', 'estante', 'biblioteca', 'aparador', 'ropero', 'armario', 'cama', 'sommier', 'colchón', 'sofá', 'sillón', 'banco', 'estantería'],
-  'Hogar': ['almohada', 'sábana', 'toalla', 'cortina', 'espejo', 'lámpara', 'vela', 'frazada', 'manta', 'sombrilla', 'paragüas', 'escoba', 'recogedor', 'balde', 'servilleta', 'mantel'],
-  'Deportes': ['pelota', 'raqueta', 'guantes', 'bicicleta', 'patín', 'balón', 'botín', 'rodillera', 'mochila', 'bolsa', 'casco', 'bola', 'red', 'arco'],
+  'Electrodomésticos': ['tostadora', 'refrigerador', 'lavarropas', 'heladera', 'microondas', 'horno', 'licuadora', 'batidora', 'aspiradora', 'calefactor', 'aire', 'ventilador', 'plancha', 'secarropas', 'cava', 'alacena', 'cinta', 'caminadora', 'cocina', 'anafe', 'pava', 'termo', 'exprimidor', 'procesadora'],
+  'Ropa': ['camisa', 'remera', 'short', 'pantalón', 'zapatilla', 'zapato', 'bota', 'sandalia', 'buzo', 'sudadera', 'chamarra', 'campera', 'chomba', 'pollera', 'falda', 'blusa', 'camiseta', 'medias', 'abrigo', 'saco', 'blazer', 'vestido', 'funda', 'parka', 'rompevientos', 'chaleco', 'traje', 'bikini', 'malla', 'deportivo', 'running', 'training', 'jogging', 'hoodie', 'musculosa', 'pijama', 'boxer', 'slip', 'bombacha', 'top', 'enterito', 'mono'],
+  'Electrónica': ['celular', 'smartphone', 'tablet', 'laptop', 'computadora', 'cable', 'cargador', 'adaptador', 'auriculares', 'parlante', 'micrófono', 'monitor', 'teclado', 'mouse', 'webcam', 'samsung', 'iphone', 'galaxy', 'realme', 'motorola', 'poco', 'funda', 'protector', 'notebook', 'smartwatch', 'reloj', 'smartband', 'tv', 'televisor', 'led', 'hdmi', 'usb', 'disco', 'memoria', 'ssd'],
+  'Juguetes': ['lego', 'toy', 'muñeca', 'auto', 'juego', 'rompecabezas', 'puzzle', 'peluche', 'figura', 'robot', 'consola', 'joystick', 'frozen', 'disney', 'barbie', 'hot wheels', 'playmobil', 'hasbro', 'matel', 'didáctico', 'bloques', 'cartas', 'tablero', 'mazo'],
+  'Muebles': ['escritorio', 'silla', 'mesa', 'estante', 'biblioteca', 'aparador', 'ropero', 'armario', 'cama', 'sommier', 'colchón', 'sofá', 'sillón', 'banco', 'estantería', 'cajonera', 'cómoda', 'velador', 'mueble', 'placard', 'modular', 'rack'],
+  'Hogar': ['almohada', 'sábana', 'toalla', 'cortina', 'espejo', 'lámpara', 'vela', 'frazada', 'manta', 'sombrilla', 'paragüas', 'escoba', 'recogedor', 'balde', 'servilleta', 'mantel', 'acolchado', 'funda', 'edredón', 'tapiz', 'alfombra', 'colcha', 'protector', 'organizador', 'canasto', 'perchero'],
+  'Deportes': ['pelota', 'raqueta', 'guantes', 'bicicleta', 'patín', 'balón', 'botín', 'rodillera', 'mochila', 'bolsa', 'casco', 'bola', 'red', 'arco', 'pesa', 'mancuerna', 'cinta', 'mat', 'colchoneta', 'fit', 'sport', 'deporte', 'entrenamiento', 'camping', 'termo', 'botella'],
+  'Perfumería': ['perfume', 'colonia', 'fragancia', 'maquillaje', 'cosmético', 'labial', 'rímel', 'delineador', 'sombra', 'base', 'polvo', 'crema', 'shampoo', 'acondicionador', 'jabón', 'desodorante', 'protector solar', 'after shave', 'esmalte', 'cuidado', 'hidratante', 'serum', 'tónico'],
   'Todas': [],
   'Otros': [],
 };
 
 const SUBCATEGORIA_ROPA_KEYWORDS: Record<SubcategoriaRopa, string[]> = {
-  'Camisas': ['camisa', 'shirt', 'polo'],
-  'Remeras': ['remera', 'camiseta', 't-shirt', 'tshirt', 'polera'],
+  'Camisas': ['camisa', 'shirt', 'polo', 'chomba', 'blazer', 'saco', 'americana'],
+  'Remeras': ['remera', 'camiseta', 't-shirt', 'tshirt', 'polera', 'musculosa', 'top', 'algodón'],
   'Shorts': ['short', 'bermuda'],
-  'Pantalones': ['pantalón', 'jeans', 'pants', 'jogging', 'bermuda'],
-  'Zapatillas': ['zapatilla', 'sneaker', 'deportiva', 'calzado', 'zapato', 'botín', 'bota'],
-  'Accesorios': ['gorro', 'gorra', 'sombrero', 'bufanda', 'corbata', 'pañuelo', 'cinturón', 'bolsa', 'mochila', 'riñonera', 'cartera'],
-  'Buzos': ['buzo', 'sudadera', 'hoodie', 'chamarra', 'campera', 'chaqueta', 'abrigo', 'saco'],
+  'Pantalones': ['pantalón', 'jeans', 'pants', 'jogging', 'joggin', 'calza', 'leggings'],
+  'Zapatillas': ['zapatilla', 'sneaker', 'deportiva', 'calzado', 'zapato', 'botín', 'bota', 'running', 'training', 'walking'],
+  'Accesorios': ['gorro', 'gorra', 'sombrero', 'bufanda', 'corbata', 'pañuelo', 'cinturón', 'bolsa', 'mochila', 'riñonera', 'cartera', 'mochi', 'morral'],
+  'Buzos': ['buzo', 'sudadera', 'hoodie', 'chamarra', 'campera', 'chaqueta', 'abrigo', 'saco', 'parka', 'rompevientos', 'cazadora'],
   'Todas': [],
 };
 

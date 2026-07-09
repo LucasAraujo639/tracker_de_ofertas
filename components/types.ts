@@ -25,6 +25,7 @@ export type Categoria =
   | 'Muebles'
   | 'Hogar'
   | 'Deportes'
+  | 'Perfumería'
   | 'Otros';
 
 export type SubcategoriaRopa = 
@@ -56,6 +57,7 @@ export const CATEGORIAS: Record<Categoria, string> = {
   'Muebles': '🪑 Muebles',
   'Hogar': '🏠 Hogar',
   'Deportes': '⚽ Deportes',
+  'Perfumería': '🧴 Perfumería',
   'Otros': '📦 Otros',
 };
 

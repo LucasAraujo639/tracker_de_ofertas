@@ -1,5 +1,131 @@
 [
     {
+        "id": "990495967",
+        "tienda": "Fravega",
+        "nombre": "Ludo Clasico Linea Green Box De Ruibal 2054",
+        "genero": "Unisex",
+        "precio_original": 4632391.0,
+        "precio_oferta": 35799.0,
+        "descuento": 99.2,
+        "link": "https://www.fravega.com/ludo-clasico-linea-green-box-de-ruibal-2054-22558251/p",
+        "imagen": "https://fravega.vteximg.com.br/arquivos/ids/45764264/ludo-clasico-linea-green-box-de-ruibal-2054-22558251.jpg?v=638936399803700000",
+        "talles": [
+            "Ludo Clasico Linea Green Box De Ruibal 2054"
+        ]
+    },
+    {
+        "id": "990346109",
+        "tienda": "Fravega",
+        "nombre": "Palabras 3d Palabras Cruzadas Top Toys",
+        "genero": "Unisex",
+        "precio_original": 6728671.0,
+        "precio_oferta": 51999.0,
+        "descuento": 99.2,
+        "link": "https://www.fravega.com/palabras-3d-palabras-cruzadas-top-toys-21696569/p",
+        "imagen": "https://fravega.vteximg.com.br/arquivos/ids/45289766/palabras-3d-palabras-cruzadas-top-toys-21696569.jpg?v=638653766613070000",
+        "talles": [
+            "Palabras 3d Palabras Cruzadas Top Toys"
+        ]
+    },
+    {
+        "id": "990501321",
+        "tienda": "Fravega",
+        "nombre": "Sombrilla Rojo  inclinable aluminizada 1,80 + tirabuzon",
+        "genero": "Unisex",
+        "precio_original": 9547263.6,
+        "precio_oferta": 82106.47,
+        "descuento": 99.1,
+        "link": "https://www.fravega.com/sombrilla-rojo-inclinable-aluminizada-1-80-tirabuzon--22542614/p",
+        "imagen": "https://fravega.vteximg.com.br/arquivos/ids/45786035/sombrilla-rojo-inclinable-aluminizada-1-80-tirabuzon--22542614.jpg?v=638948339415370000",
+        "talles": [
+            "Sombrilla Rojo  inclinable aluminizada 1,80 + tirabuzon"
+        ]
+    },
+    {
+        "id": "990336225",
+        "tienda": "Fravega",
+        "nombre": "Smart Tv Qled Google Tcl 55 Pulgadas 4k Uhd L55c655-f",
+        "genero": "Unisex",
+        "precio_original": 99999999.0,
+        "precio_oferta": 1099678.84,
+        "descuento": 98.9,
+        "link": "https://www.fravega.com/smart-tv-qled-google-tcl-55-pulgadas-4k-uhd-l55c655-f-21490572/p",
+        "imagen": "https://fravega.vteximg.com.br/arquivos/ids/46230920/smart-tv-qled-google-tcl-55-pulgadas-4k-uhd-l55c655-f-21490572.jpg?v=639126402562900000",
+        "talles": [
+            "Smart Tv Qled Google Tcl 55 Pulgadas 4k Uhd L55c655-f"
+        ]
+    },
+    {
+        "id": "990055928",
+        "tienda": "Fravega",
+        "nombre": "Camara De Seguridad Wifi Infrarojo Suono Blanco",
+        "genero": "Unisex",
+        "precio_original": 1450000.0,
+        "precio_oferta": 39668.6,
+        "descuento": 97.3,
+        "link": "https://www.fravega.com/camara-de-seguridad-wifi-infrarojo-suono-blanco-20067452/p",
+        "imagen": "https://fravega.vteximg.com.br/arquivos/ids/41573832/camara-de-seguridad-wifi-infrarojo-suono-blanco-20067452.jpg?v=638422307608370000",
+        "talles": [
+            "Camara De Seguridad Wifi Infrarojo Suono Blanco"
+        ]
+    },
+    {
+        "id": "990449767",
+        "tienda": "Fravega",
+        "nombre": "Tostadora Atma TO015IDP Dos Rebanadas",
+        "genero": "Unisex",
+        "precio_original": 2000000.0,
+        "precio_oferta": 79999.0,
+        "descuento": 96.0,
+        "link": "https://www.fravega.com/tostadora-atma-to015idp-dos-rebanadas--22495225/p",
+        "imagen": "https://fravega.vteximg.com.br/arquivos/ids/45615966/tostadora-atma-to015idp-dos-rebanadas--22495225.jpg?v=638850706030900000",
+        "talles": [
+            "Tostadora Atma TO015IDP Dos Rebanadas"
+        ]
+    },
+    {
+        "id": "990127249",
+        "tienda": "Fravega",
+        "nombre": "Cava Electrica Compresor Philco 52 Botellas Phcav052n",
+        "genero": "Unisex",
+        "precio_original": 9000000.0,
+        "precio_oferta": 579998.84,
+        "descuento": 93.6,
+        "link": "https://www.fravega.com/cava-electrica-compresor-philco-52-botellas-phcav052n-20305740/p",
+        "imagen": "https://fravega.vteximg.com.br/arquivos/ids/44772514/cava-electrica-compresor-philco-52-botellas-phcav052n-20305740.jpg?v=638480165750170000",
+        "talles": [
+            "Cava Electrica Compresor Philco 52 Botellas Phcav052n"
+        ]
+    },
+    {
+        "id": "990330820",
+        "tienda": "Fravega",
+        "nombre": "Consola Retro Game Stick M15 Plus  Pro + 2 Joysticks + 20mil Juegos FULL Emulador 3D",
+        "genero": "Unisex",
+        "precio_original": 1219999.0,
+        "precio_oferta": 79999.0,
+        "descuento": 93.4,
+        "link": "https://www.fravega.com/consola-retro-game-stick-m15-plus-pro-2-joysticks-20mil-juegos-full-emulador-3d--21456157/p",
+        "imagen": "https://fravega.vteximg.com.br/arquivos/ids/45539707/consola-retro-game-stick-m15-plus-pro-2-joysticks-20mil-juegos-full-emulador-3d--21456157.jpg?v=638793989624170000",
+        "talles": [
+            "Consola Retro Game Stick M15 Plus Pro + 2 Joysticks + 20mil Juegos FULL Emulador 3D"
+        ]
+    },
+    {
+        "id": "990153340",
+        "tienda": "Fravega",
+        "nombre": "Escritorio Moderno EES120",
+        "genero": "Unisex",
+        "precio_original": 1904600.0,
+        "precio_oferta": 154080.0,
+        "descuento": 91.9,
+        "link": "https://www.fravega.com/escritorio-moderno-ees120-20479531/p",
+        "imagen": "https://fravega.vteximg.com.br/arquivos/ids/45778834/escritorio-moderno-ees120-20479531.jpg?v=638942478478430000",
+        "talles": [
+            "Escritorio Moderno EES120"
+        ]
+    },
+    {
         "id": "990357411",
         "tienda": "Fravega",
         "nombre": "Ludo + Subidas Y Bajadas Frozen Il - Tapimovil",
@@ -25,6 +151,20 @@
         "imagen": "https://fravega.vteximg.com.br/arquivos/ids/20905019/test-20001558.jpg?v=637928852376970000",
         "talles": [
             "test"
+        ]
+    },
+    {
+        "id": "990463981",
+        "tienda": "Fravega",
+        "nombre": "Bburago 1:18 Ferrari Sf-23, Leclerc 18-16812",
+        "genero": "Unisex",
+        "precio_original": 299990.0,
+        "precio_oferta": 27490.0,
+        "descuento": 90.8,
+        "link": "https://www.fravega.com/bburago-1-18-ferrari-sf-23-leclerc-18-16812-990463981/p",
+        "imagen": "https://fravega.vteximg.com.br/arquivos/ids/45668890/image-4497eb8b5617401b9c2ccd472c41148a.jpg?v=638880988598230000",
+        "talles": [
+            "Bburago 1:18 Ferrari Sf-23, Leclerc 18-16812"
         ]
     },
     {
@@ -84,32 +224,16 @@
         ]
     },
     {
-        "id": "2072532",
-        "tienda": "Fravega",
-        "nombre": "Sommier ZIN Estelar 140x190 Espuma reforzado",
+        "id": "25665",
+        "tienda": "Coppel",
+        "nombre": "Short Negro Niña PLH",
         "genero": "Unisex",
-        "precio_original": 6000000.0,
-        "precio_oferta": 689900.0,
-        "descuento": 88.5,
-        "link": "https://www.fravega.com/sommier-zin-estelar-140x190-espuma-reforzado-20003104/p",
-        "imagen": "https://fravega.vteximg.com.br/arquivos/ids/45298038/sommier-zin-estelar-140x190-espuma-reforzado-20003104.jpg?v=638657547612200000",
-        "talles": [
-            "Sommier ZIN Estelar 140x190 Espuma reforzado"
-        ]
-    },
-    {
-        "id": "990721899",
-        "tienda": "Fravega",
-        "nombre": "Nebulizador Philco Ultrasónico Portatil Mesh H100r. Color Blanco",
-        "genero": "Unisex",
-        "precio_original": 178199.0,
-        "precio_oferta": 20660.33,
-        "descuento": 88.4,
-        "link": "https://www.fravega.com/nebulizador-philco-ultrasonico-portatil-mesh-h100r--color-blanco-990721899/p",
-        "imagen": "https://fravega.vteximg.com.br/arquivos/ids/46437177/image-f8e5afbd4c3b4905aabe5e5859e65256.jpg?v=639185329463000000",
-        "talles": [
-            "Nebulizador Philco Ultrasónico Portatil Mesh H100r. Color Blanco"
-        ]
+        "precio_original": 21249.0,
+        "precio_oferta": 2499.0,
+        "descuento": 88.2,
+        "link": "https://www.coppel.com.ar/short-negro-nina-plh-4103890/p",
+        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2845459/2R4103890F20260618112628.png?v=639174004142370000",
+        "talles": []
     },
     {
         "id": "24944",
@@ -126,20 +250,6 @@
         ]
     },
     {
-        "id": "21213",
-        "tienda": "Coppel",
-        "nombre": "Mochila Frozen Ana Y Elsa 42x32x14cm",
-        "genero": "Unisex",
-        "precio_original": 54999.0,
-        "precio_oferta": 7999.0,
-        "descuento": 85.5,
-        "link": "https://www.coppel.com.ar/mochila-frozen-ana-y-elsa-7151080/p",
-        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/1983892/1R7151080F20240214110435.png?v=638440411062230000",
-        "talles": [
-            "Mochila Frozen Ana Y Elsa 42x32x14cm"
-        ]
-    },
-    {
         "id": "19656",
         "tienda": "Tascani",
         "nombre": "Jean Carrot Tean Night Negro",
@@ -152,6 +262,20 @@
         "talles": [
             "26",
             "29"
+        ]
+    },
+    {
+        "id": "30772",
+        "tienda": "Coppel",
+        "nombre": "Remera Manga Larga Baby Colors Estrellas Gris Bebé",
+        "genero": "Unisex",
+        "precio_original": 12999.0,
+        "precio_oferta": 1999.0,
+        "descuento": 84.6,
+        "link": "https://www.coppel.com.ar/blusa-baby-colors-20wb314-gris-bebe--5088880/p",
+        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2842167/1R5088880F20260528080256.png?v=639155738564900000",
+        "talles": [
+            "Remera Manga Larga Baby Colors Estrellas Gris Bebé"
         ]
     },
     {
@@ -180,21 +304,9 @@
         "link": "https://www.tascani.com.ar/camisa-atilio-noche/p",
         "imagen": "https://tascani.vteximg.com.br/arquivos/ids/176895/tascani20510434.jpg?v=638810935318330000",
         "talles": [
-            "Small"
-        ]
-    },
-    {
-        "id": "25665",
-        "tienda": "Coppel",
-        "nombre": "Short Negro Niña PLH",
-        "genero": "Unisex",
-        "precio_original": 21249.0,
-        "precio_oferta": 3999.0,
-        "descuento": 81.2,
-        "link": "https://www.coppel.com.ar/short-negro-nina-plh-4103890/p",
-        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2845459/2R4103890F20260618112628.png?v=639174004142370000",
-        "talles": [
-            "Short Negro Niña PLH"
+            "Small",
+            "Medium",
+            "Large"
         ]
     },
     {
@@ -240,6 +352,20 @@
         "talles": [
             "12",
             "16"
+        ]
+    },
+    {
+        "id": "36619",
+        "tienda": "Coppel",
+        "nombre": "Puzzles Pack 2 Unidades Ariel Sirenita 24 Y 36 Piezas",
+        "genero": "Unisex",
+        "precio_original": 9999.0,
+        "precio_oferta": 1999.0,
+        "descuento": 80.0,
+        "link": "https://www.coppel.com.ar/2-puzzles-24-y-36-piezas-puzzle-16x20-cm-tamano-7204420/p",
+        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2590199/2R7204420F20251212124021.png?v=639014002277030000",
+        "talles": [
+            "Puzzles Pack 2 Unidades Ariel Sirenita 24 Y 36 Piezas"
         ]
     },
     {
@@ -346,21 +472,22 @@
         "link": "https://www.coppel.com.ar/blusa-musculosa-docha-tricolor-dama-3246260/p",
         "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2175140/1R3246260F20250212155255.png?v=638749905088270000",
         "talles": [
+            "Blusa Musculosa Docha Tricolor Dama",
             "Blusa Musculosa Docha Tricolor Dama"
         ]
     },
     {
-        "id": "15052",
-        "tienda": "Arredo",
-        "nombre": "Set de Comida infantil",
-        "genero": "Unisex",
-        "precio_original": 44990.0,
-        "precio_oferta": 9999.0,
+        "id": "32621",
+        "tienda": "Coppel",
+        "nombre": "Bandolera Negro Hombre",
+        "genero": "Hombre",
+        "precio_original": 26999.0,
+        "precio_oferta": 5999.0,
         "descuento": 77.8,
-        "link": "https://www.arredo.com.ar/set-de-comida-infantil-831299998/p",
-        "imagen": "https://arredo.vteximg.com.br/arquivos/ids/1439662/83121U99998-B_5.jpg?v=639100068432000000",
+        "link": "https://www.coppel.com.ar/pack-x-3-medias-eurosocks-dama--3245010/p",
+        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2845179/1R3245010F20260617122253.png?v=639173173837430000",
         "talles": [
-            "Color Beige - Unico"
+            "Bandolera Negro Hombre"
         ]
     },
     {
@@ -375,6 +502,20 @@
         "imagen": "https://tascani.vteximg.com.br/arquivos/ids/176313/tascani111000298.jpg?v=638887028160700000",
         "talles": [
             "Small"
+        ]
+    },
+    {
+        "id": "31150",
+        "tienda": "Coppel",
+        "nombre": "Cartera Thinner Plateada Dama",
+        "genero": "Mujer",
+        "precio_original": 34999.0,
+        "precio_oferta": 7999.0,
+        "descuento": 77.1,
+        "link": "https://www.coppel.com.ar/cartera-thinner-plateada-dama-3231460/p",
+        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2373293/1R3231460F20250701135346.png?v=638870006166500000",
+        "talles": [
+            "Cartera Thinner Plateada Dama"
         ]
     },
     {
@@ -498,8 +639,8 @@
         "imagen": "https://sarkanyar.vteximg.com.br/arquivos/ids/203759/IMG_0759-rew.jpg?v=638974324008270000",
         "talles": [
             "SIX G NG 35",
-            "SIX G NG 36",
             "SIX G NG 38",
+            "SIX G NG 39",
             "SIX G NG 40"
         ]
     },
@@ -634,6 +775,20 @@
         ]
     },
     {
+        "id": "27653",
+        "tienda": "Coppel",
+        "nombre": "Top Atomik Bend Bordo Mujer",
+        "genero": "Mujer",
+        "precio_original": 48999.0,
+        "precio_oferta": 12999.0,
+        "descuento": 73.5,
+        "link": "https://www.coppel.com.ar/top-atomik-bend-mujer-9314700/p",
+        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2197351/1R9314700F20250220121828.png?v=638772921687430000",
+        "talles": [
+            "Top Atomik Bend Bordo Mujer"
+        ]
+    },
+    {
         "id": "46177",
         "tienda": "Naldo",
         "nombre": "Sombrilla Outdoors Upright 3m Bordo",
@@ -645,6 +800,39 @@
         "imagen": "https://naldoar.vteximg.com.br/arquivos/ids/204467/u3000p-bordo-da531f1581490c0e6517589161117333-1024-1024.jpg?v=638973410520870000",
         "talles": [
             "Sombrilla Outdoors Upright 3m Bordo"
+        ]
+    },
+    {
+        "id": "36234",
+        "tienda": "Coppel",
+        "nombre": "Monedero Bebe Pu Solapa Negro Mujer",
+        "genero": "Mujer",
+        "precio_original": 14999.0,
+        "precio_oferta": 3999.0,
+        "descuento": 73.3,
+        "link": "https://www.coppel.com.ar/monedero-bebe-de-pu-con-costuras-solapa-con-colgan-3256650/p",
+        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2725481/4R3256650F20260203133923.png?v=639076289975830000",
+        "talles": [
+            "Monedero Bebe Pu Solapa Negro Mujer"
+        ]
+    },
+    {
+        "id": "2798",
+        "tienda": "Sarkany",
+        "nombre": "Plataforma Cork",
+        "genero": "Unisex",
+        "precio_original": 370000.0,
+        "precio_oferta": 99000.0,
+        "descuento": 73.2,
+        "link": "https://www.rickysarkany.com/plataforma-cork-cebra-marron/p",
+        "imagen": "https://sarkanyar.vteximg.com.br/arquivos/ids/200725/IMG_7274REW.jpg?v=638938947359100000",
+        "talles": [
+            "CORK P MC 35",
+            "CORK P MC 36",
+            "CORK P MC 37",
+            "CORK P MC 38",
+            "CORK P MC 39",
+            "CORK P MC 40"
         ]
     },
     {
@@ -685,39 +873,6 @@
         ]
     },
     {
-        "id": "2798",
-        "tienda": "Sarkany",
-        "nombre": "Plataforma Cork",
-        "genero": "Unisex",
-        "precio_original": 370000.0,
-        "precio_oferta": 99000.0,
-        "descuento": 73.2,
-        "link": "https://www.rickysarkany.com/plataforma-cork-cebra-marron/p",
-        "imagen": "https://sarkanyar.vteximg.com.br/arquivos/ids/200725/IMG_7274REW.jpg?v=638938947359100000",
-        "talles": [
-            "CORK P MC 35",
-            "CORK P MC 36",
-            "CORK P MC 37",
-            "CORK P MC 38",
-            "CORK P MC 39",
-            "CORK P MC 40"
-        ]
-    },
-    {
-        "id": "46598",
-        "tienda": "Naldo",
-        "nombre": "Grifería de Cocina Monocomando FV Kansas Cromo",
-        "genero": "Unisex",
-        "precio_original": 259451.0,
-        "precio_oferta": 70548.0,
-        "descuento": 72.8,
-        "link": "https://www.naldo.com.ar/griferia-de-cocina-monocomando-fv-kansas-cromo-46598/p",
-        "imagen": "https://naldoar.vteximg.com.br/arquivos/ids/207927/image-2031754038fd4bd59fb0613a3c9e7bd3.jpg?v=639020084728700000",
-        "talles": [
-            "Grifería de Cocina Monocomando FV Kansas Cromo"
-        ]
-    },
-    {
         "id": "46696",
         "tienda": "Naldo",
         "nombre": "Colgante Tiny Love Christopher Jitter",
@@ -729,6 +884,21 @@
         "imagen": "https://naldoar.vteximg.com.br/arquivos/ids/209292/image-49e87151bfb24262bdf341cac94f8a83.jpg?v=639039135109530000",
         "talles": [
             "Colgante Tiny Love Christopher Jitter"
+        ]
+    },
+    {
+        "id": "25663",
+        "tienda": "Coppel",
+        "nombre": "Short Blanco Niña PLH",
+        "genero": "Unisex",
+        "precio_original": 21249.0,
+        "precio_oferta": 5899.0,
+        "descuento": 72.2,
+        "link": "https://www.coppel.com.ar/short-blanco-nina-plh-4103870/p",
+        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2845458/2R4103870F20260618112553.png?v=639174004141430000",
+        "talles": [
+            "Short Blanco Niña PLH",
+            "Short Blanco Niña PLH"
         ]
     },
     {
@@ -802,6 +972,24 @@
         ]
     },
     {
+        "id": "2802",
+        "tienda": "Sarkany",
+        "nombre": "Plataforma Cress",
+        "genero": "Unisex",
+        "precio_original": 350000.0,
+        "precio_oferta": 99000.0,
+        "descuento": 71.7,
+        "link": "https://www.rickysarkany.com/plataforma-cress-negro/p",
+        "imagen": "https://sarkanyar.vteximg.com.br/arquivos/ids/203819/IMG_5154rew.jpg?v=638974325318730000",
+        "talles": [
+            "CRESS S NG 35",
+            "CRESS S NG 36",
+            "CRESS S NG 37",
+            "CRESS S NG 39",
+            "CRESS S NG 40"
+        ]
+    },
+    {
         "id": "2690",
         "tienda": "Sarkany",
         "nombre": "Plataforma Heru",
@@ -818,24 +1006,6 @@
             "HERU C NG 38",
             "HERU C NG 39",
             "HERU C NG 40"
-        ]
-    },
-    {
-        "id": "2802",
-        "tienda": "Sarkany",
-        "nombre": "Plataforma Cress",
-        "genero": "Unisex",
-        "precio_original": 350000.0,
-        "precio_oferta": 99000.0,
-        "descuento": 71.7,
-        "link": "https://www.rickysarkany.com/plataforma-cress-negro/p",
-        "imagen": "https://sarkanyar.vteximg.com.br/arquivos/ids/203819/IMG_5154rew.jpg?v=638974325318730000",
-        "talles": [
-            "CRESS S NG 35",
-            "CRESS S NG 36",
-            "CRESS S NG 37",
-            "CRESS S NG 39",
-            "CRESS S NG 40"
         ]
     },
     {
@@ -887,6 +1057,8 @@
         "link": "https://www.coppel.com.ar/short-nexport-infantil-9222220/p",
         "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2424676/1R9222220F20250912095635.png?v=638932895180300000",
         "talles": [
+            "Short Nexport Entrenamiento Hombre",
+            "Short Nexport Entrenamiento Hombre",
             "Short Nexport Entrenamiento Hombre"
         ]
     },
@@ -905,47 +1077,17 @@
         ]
     },
     {
-        "id": "28141",
-        "tienda": "Coppel",
-        "nombre": "Short Atomik Biker Sprint Gris Oscuro Hombre",
-        "genero": "Hombre",
-        "precio_original": 54899.0,
-        "precio_oferta": 15999.0,
+        "id": "2178",
+        "tienda": "Levi's",
+        "nombre": "Levi's L Backpack",
+        "genero": "Unisex",
+        "precio_original": 149000.0,
+        "precio_oferta": 43400.0,
         "descuento": 70.9,
-        "link": "https://www.coppel.com.ar/short-atomik-biker-sprint-gris-oscuro-hombre-9315370/p",
-        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2201377/1R9315370F20250224163444.png?v=638798900941200000",
+        "link": "https://www.levi.com.ar/levi-s-l-backpack-8785800040/p",
+        "imagen": "https://levisarg.vteximg.com.br/arquivos/ids/876731/8785800040_1.jpg?v=638699636981200000",
         "talles": [
-            "Short Atomik Biker Sprint Gris Oscuro Hombre",
-            "Short Atomik Biker Sprint Gris Oscuro Hombre"
-        ]
-    },
-    {
-        "id": "33012",
-        "tienda": "Coppel",
-        "nombre": "Remera Diosa Luna Bolsillo Blanco Mujer",
-        "genero": "Mujer",
-        "precio_original": 23999.0,
-        "precio_oferta": 6999.0,
-        "descuento": 70.8,
-        "link": "https://www.coppel.com.ar/remera-diosa-luna-bolsillo-blanco-mujer-3260240/p",
-        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2841849/5R3260240F20260527083754.png?v=639154903604930000",
-        "talles": [
-            "Remera Diosa Luna Bolsillo Blanco Mujer",
-            "Remera Diosa Luna Bolsillo Blanco Mujer"
-        ]
-    },
-    {
-        "id": "24858",
-        "tienda": "Coppel",
-        "nombre": "Zapatos Estoril Color Negro Mujer",
-        "genero": "Mujer",
-        "precio_original": 46999.0,
-        "precio_oferta": 13899.0,
-        "descuento": 70.4,
-        "link": "https://www.coppel.com.ar/zapato-dama-color-negro-estoril--8104710/p",
-        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2603854/1R8104710F20251218114442.png?v=639016988431930000",
-        "talles": [
-            "Zapatos Estoril Color Negro Mujer"
+            "U"
         ]
     },
     {
@@ -991,22 +1133,6 @@
             "SP332060TD50240",
             "SP332060TD50300",
             "SP332060TD50320"
-        ]
-    },
-    {
-        "id": "3602",
-        "tienda": "Chelsea",
-        "nombre": "Pollera System Gabardina Colors Mujer",
-        "genero": "Mujer",
-        "precio_original": 39999.0,
-        "precio_oferta": 12000.0,
-        "descuento": 70.0,
-        "link": "https://www.chelsea.com.ar/pollera-system-gabardina-colors-sp332060kv-mujer-moda/p",
-        "imagen": "https://chelseaio.vteximg.com.br/arquivos/ids/235193/SP332060KV_1.jpg?v=639038289531230000",
-        "talles": [
-            "SP332060KV70240",
-            "SP332060KV70260",
-            "SP332060KV70300"
         ]
     },
     {
@@ -1092,48 +1218,6 @@
         ]
     },
     {
-        "id": "31295",
-        "tienda": "Coppel",
-        "nombre": "Ladrillo Gigante X16 Piezas",
-        "genero": "Unisex",
-        "precio_original": 52999.0,
-        "precio_oferta": 15999.0,
-        "descuento": 69.8,
-        "link": "https://www.coppel.com.ar/ladrillo-gigante-x16-piezas-7201750/p",
-        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2381571/1R7201750F20250708070505.png?v=638875796029800000",
-        "talles": [
-            "Ladrillo Gigante X16 Piezas"
-        ]
-    },
-    {
-        "id": "31795",
-        "tienda": "Coppel",
-        "nombre": "Morral Girls Attitude Rojo Niña",
-        "genero": "Unisex",
-        "precio_original": 19799.0,
-        "precio_oferta": 5999.0,
-        "descuento": 69.7,
-        "link": "https://www.coppel.com.ar/morral-girls-attitude-rojo-nina--4105040/p",
-        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2385267/1R4105040F20250718084312.png?v=638887817293530000",
-        "talles": [
-            "Morral Girls Attitude Rojo Niña"
-        ]
-    },
-    {
-        "id": "30330",
-        "tienda": "Coppel",
-        "nombre": "Tapado Girls Attitude 24FW Gris Niña",
-        "genero": "Unisex",
-        "precio_original": 45999.0,
-        "precio_oferta": 13999.0,
-        "descuento": 69.6,
-        "link": "https://www.coppel.com.ar/tapado-girls-attitude-24fw-gris-nina--4097590/p",
-        "imagen": "https://coppelar.vteximg.com.br/arquivos/ids/2840823/1R4097590F20260521060439.png?v=639149619571170000",
-        "talles": [
-            "Tapado Girls Attitude 24FW Gris Niña"
-        ]
-    },
-    {
         "id": "787",
         "tienda": "Simmons",
         "nombre": "Colchón en Caja Yolo by Simmons Pocket + base sommier plegable",
@@ -1156,7 +1240,7 @@
         "precio_oferta": 15999.0,
         "descuento": 69.2,
         "link": "https://www.sportline.com.ar/print-rash-top-027577000034718/p",
-        "imagen": "https://sportline.vteximg.com.br/arquivos/ids/872236/027577000034718_1.jpg?v=638096191736970000",
+        "imagen": "https://sportline.vteximg.com.br/arquivos/ids/1918379/027577000034718_1.jpg.jpg?v=639191652759730000",
         "talles": [
             "2A",
             "3A",
@@ -1173,7 +1257,7 @@
         "precio_oferta": 15999.0,
         "descuento": 69.2,
         "link": "https://www.sportline.com.ar/print-rash-top-027577000034753/p",
-        "imagen": "https://sportline.vteximg.com.br/arquivos/ids/872241/027577000034753_1.jpg?v=638096191891230000",
+        "imagen": "https://sportline.vteximg.com.br/arquivos/ids/1914279/027577000034753_1.jpg.jpg?v=639191277024300000",
         "talles": [
             "3A",
             "4A",
@@ -2102,6 +2186,20 @@
         ]
     },
     {
+        "id": "2005805",
+        "tienda": "Compra Cierta",
+        "nombre": "Base Sommier - Queen (160x200 cm) - Gris Claro",
+        "genero": "Unisex",
+        "precio_original": 1485200.0,
+        "precio_oferta": 519800.0,
+        "descuento": 65.0,
+        "link": "https://www.compracierta.com.ar/base-sommier---queen--160x200-cm----gris-claro-2005805/p",
+        "imagen": "https://compraciertaar.vteximg.com.br/arquivos/ids/223417/image-2d70183f6a38451ba509f2a88cffcf98.jpg?v=637847034658730000",
+        "talles": [
+            "Base Sommier - Queen (160x200 cm) - Gris Claro"
+        ]
+    },
+    {
         "id": "2005795",
         "tienda": "Compra Cierta",
         "nombre": "Base Sommier - Queen (160x200 cm) - Gris Oscuro",
@@ -2169,6 +2267,20 @@
         "imagen": "https://compraciertaar.vteximg.com.br/arquivos/ids/223186/image-27d9e357e4044ce8bdd222f7e3f32bf2.jpg?v=637847034531500000",
         "talles": [
             "Base Sommier - King (180x200 cm) - Gris Claro"
+        ]
+    },
+    {
+        "id": "2005759",
+        "tienda": "Compra Cierta",
+        "nombre": "Base Sommier - 1 Plaza (80x190 cm) - Gris Oscuro",
+        "genero": "Unisex",
+        "precio_original": 735400.0,
+        "precio_oferta": 257400.0,
+        "descuento": 65.0,
+        "link": "https://www.compracierta.com.ar/base-sommier---1-plaza--80x190-cm----gris-oscuro-2005759/p",
+        "imagen": "https://compraciertaar.vteximg.com.br/arquivos/ids/223265/image-505429410693417d8f44475db3448b0e.jpg?v=637847034587330000",
+        "talles": [
+            "Base Sommier - 1 Plaza (80x190 cm) - Gris Oscuro"
         ]
     },
     {
@@ -2284,6 +2396,20 @@
         ]
     },
     {
+        "id": "14114",
+        "tienda": "Juleriaque",
+        "nombre": "EYE PALETTE SPECTRUM MIDNIGHT",
+        "genero": "Unisex",
+        "precio_original": 115990.0,
+        "precio_oferta": 40596.5,
+        "descuento": 65.0,
+        "link": "https://www.juleriaque.com.ar/eye-palette-spectrum-903853/p",
+        "imagen": "https://juleriaque.vteximg.com.br/arquivos/ids/280991/3011481-2.jpg?v=639166442465100000",
+        "talles": [
+            "Mugler Eye Palette Spectrum Midnight"
+        ]
+    },
+    {
         "id": "6797",
         "tienda": "Rouge",
         "nombre": "Clean Reserve Limpiador equilibrante buriti",
@@ -2301,7 +2427,7 @@
         "id": "5847",
         "tienda": "Rouge",
         "nombre": "Woman EDP",
-        "genero": "Mujer",
+        "genero": "Unisex",
         "precio_original": 283000.0,
         "precio_oferta": 99050.0,
         "descuento": 65.0,
@@ -2309,20 +2435,6 @@
         "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/222410/8018365250468.jpg?v=638641670170600000",
         "talles": [
             "100 ml"
-        ]
-    },
-    {
-        "id": "6783",
-        "tienda": "Rouge",
-        "nombre": "Clean Reserve Radiant Nectar EDP 50 ml Set",
-        "genero": "Unisex",
-        "precio_original": 125900.0,
-        "precio_oferta": 44065.0,
-        "descuento": 65.0,
-        "link": "https://www.perfumeriasrouge.com/clean-reserve-radiant-nectar-edp-50-ml-set-x89170020320/p",
-        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/198233/874034013387_2.jpg?v=638156975584700000",
-        "talles": [
-            "Set"
         ]
     },
     {
@@ -2340,6 +2452,20 @@
         ]
     },
     {
+        "id": "6791",
+        "tienda": "Rouge",
+        "nombre": "Clean Reserve Acondicionador esencial Buriti & Tucuma",
+        "genero": "Unisex",
+        "precio_original": 32800.0,
+        "precio_oferta": 11480.0,
+        "descuento": 65.0,
+        "link": "https://www.perfumeriasrouge.com/clean-reserve-acondicionador-esencial-buriti-tucuma-x80593100000/p",
+        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/198271/874034012724_1.jpg?v=638156975738530000",
+        "talles": [
+            "296 ml"
+        ]
+    },
+    {
         "id": "6789",
         "tienda": "Rouge",
         "nombre": "Clean Reserve Rain Blend EDP",
@@ -2349,34 +2475,6 @@
         "descuento": 65.0,
         "link": "https://www.perfumeriasrouge.com/clean-reserve-rain-blend-edp-x80330920001/p",
         "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/198261/874034007508_1.jpg?v=638156975698700000",
-        "talles": [
-            "100 ml"
-        ]
-    },
-    {
-        "id": "6800",
-        "tienda": "Rouge",
-        "nombre": "Clean Reserve Sueded Oud EDP",
-        "genero": "Unisex",
-        "precio_original": 203000.0,
-        "precio_oferta": 71050.0,
-        "descuento": 65.0,
-        "link": "https://www.perfumeriasrouge.com/clean-reserve-sueded-oud-edp-x80330220000/p",
-        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/198316/874034007430_1.jpg?v=638156975923730000",
-        "talles": [
-            "100 ml"
-        ]
-    },
-    {
-        "id": "6796",
-        "tienda": "Rouge",
-        "nombre": "Clean Reserve Warm Cotton Blend EDP",
-        "genero": "Unisex",
-        "precio_original": 203000.0,
-        "precio_oferta": 71050.0,
-        "descuento": 65.0,
-        "link": "https://www.perfumeriasrouge.com/clean-reserve-warm-cotton-blend-edp-x80330720001/p",
-        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/198296/874034007485_1.jpg?v=638156975843100000",
         "talles": [
             "100 ml"
         ]
@@ -2396,51 +2494,6 @@
         ]
     },
     {
-        "id": "14497",
-        "tienda": "Rouge",
-        "nombre": "Mystic Geranium EDP",
-        "genero": "Unisex",
-        "precio_original": 318000.0,
-        "precio_oferta": 111300.0,
-        "descuento": 65.0,
-        "link": "https://www.perfumeriasrouge.com/mystic-geranium-edp-x42600267101c/p",
-        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/212570/195106001294.jpg?v=638483583475430000",
-        "talles": [
-            "90 ml",
-            "50 ml"
-        ]
-    },
-    {
-        "id": "14496",
-        "tienda": "Rouge",
-        "nombre": "Electric Sky EDP",
-        "genero": "Unisex",
-        "precio_original": 228000.0,
-        "precio_oferta": 79800.0,
-        "descuento": 65.0,
-        "link": "https://www.perfumeriasrouge.com/electric-sky-edp-x42600288101c/p",
-        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/212624/195106001607.jpg?v=638484392037500000",
-        "talles": [
-            "50 ml",
-            "90 ml"
-        ]
-    },
-    {
-        "id": "14495",
-        "tienda": "Rouge",
-        "nombre": "Divine Moon EDP",
-        "genero": "Unisex",
-        "precio_original": 318000.0,
-        "precio_oferta": 111300.0,
-        "descuento": 65.0,
-        "link": "https://www.perfumeriasrouge.com/divine-moon-edp-x42600261101c/p",
-        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/212566/195106001232.jpg?v=638483583449970000",
-        "talles": [
-            "90 ml",
-            "50 ml"
-        ]
-    },
-    {
         "id": "6801",
         "tienda": "Rouge",
         "nombre": "Clean Reserve Gel de baño purificante Buriti & Aloe",
@@ -2452,6 +2505,20 @@
         "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/198321/874034012748_1.jpg?v=638156975944330000",
         "talles": [
             "296 ml"
+        ]
+    },
+    {
+        "id": "6800",
+        "tienda": "Rouge",
+        "nombre": "Clean Reserve Sueded Oud EDP",
+        "genero": "Unisex",
+        "precio_original": 203000.0,
+        "precio_oferta": 71050.0,
+        "descuento": 65.0,
+        "link": "https://www.perfumeriasrouge.com/clean-reserve-sueded-oud-edp-x80330220000/p",
+        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/198316/874034007430_1.jpg?v=638156975923730000",
+        "talles": [
+            "100 ml"
         ]
     },
     {
@@ -2469,6 +2536,35 @@
         ]
     },
     {
+        "id": "6785",
+        "tienda": "Rouge",
+        "nombre": "Clean Reserve Shampoo esencial Reserve Buriti & Tucuma",
+        "genero": "Unisex",
+        "precio_original": 32800.0,
+        "precio_oferta": 11480.0,
+        "descuento": 65.0,
+        "link": "https://www.perfumeriasrouge.com/clean-reserve-shampoo-esencial-reserve-buriti-tucuma-x80583100000/p",
+        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/198242/874034012717_1.jpg?v=638156975623630000",
+        "talles": [
+            "296 ml"
+        ]
+    },
+    {
+        "id": "14497",
+        "tienda": "Rouge",
+        "nombre": "Mystic Geranium EDP",
+        "genero": "Unisex",
+        "precio_original": 318000.0,
+        "precio_oferta": 111300.0,
+        "descuento": 65.0,
+        "link": "https://www.perfumeriasrouge.com/mystic-geranium-edp-x42600267101c/p",
+        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/212570/195106001294.jpg?v=638483583475430000",
+        "talles": [
+            "90 ml",
+            "50 ml"
+        ]
+    },
+    {
         "id": "2061148",
         "tienda": "Sportline",
         "nombre": "Botines Con Tapones Umbro Velocita 6 Club Junior Niño",
@@ -2477,7 +2573,7 @@
         "precio_oferta": 47969.0,
         "descuento": 64.0,
         "link": "https://www.sportline.com.ar/velocita-6-club-junior-016055001016125/p",
-        "imagen": "https://sportline.vteximg.com.br/arquivos/ids/1475489/016055001016125_1.jpg?v=638733001751600000",
+        "imagen": "https://sportline.vteximg.com.br/arquivos/ids/1916949/016055001016125_1.jpg.jpg?v=639191588556570000",
         "talles": [
             "29"
         ]
@@ -2491,52 +2587,9 @@
         "precio_oferta": 20099.0,
         "descuento": 64.0,
         "link": "https://www.sportline.com.ar/game-jr-22-016055001025112/p",
-        "imagen": "https://sportline.vteximg.com.br/arquivos/ids/1477003/016055001025112_1.jpg?v=638733100350170000",
+        "imagen": "https://sportline.vteximg.com.br/arquivos/ids/1916957/016055001025112_1.jpg.jpg?v=639191588789130000",
         "talles": [
             "29"
-        ]
-    },
-    {
-        "id": "9602",
-        "tienda": "Topper",
-        "nombre": "ZAPATILLAS JUNO",
-        "genero": "Unisex",
-        "precio_original": 109900.0,
-        "precio_oferta": 39900.0,
-        "descuento": 63.7,
-        "link": "https://www.topper.com.ar/zapatillas-juno-052238/p",
-        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/452226/52238_1.jpg?v=638893981573400000",
-        "talles": [
-            "Talle: 450 - Color: GRIS ANTAR/NEGRO/PLATA",
-            "Talle: 440 - Color: GRIS ANTAR/NEGRO/PLATA"
-        ]
-    },
-    {
-        "id": "8975",
-        "tienda": "Topper",
-        "nombre": "ZAPATILLAS JUNO",
-        "genero": "Unisex",
-        "precio_original": 109900.0,
-        "precio_oferta": 39900.0,
-        "descuento": 63.7,
-        "link": "https://www.topper.com.ar/zapatillas-juno-052387/p",
-        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/433610/052387_1.jpg?v=638721134378530000",
-        "talles": [
-            "Talle: 460 - Color: BEIGE BIRCH/VERDE LAUREL"
-        ]
-    },
-    {
-        "id": "9620",
-        "tienda": "Topper",
-        "nombre": "ZAPATILLAS ROCKET SUEDE",
-        "genero": "Unisex",
-        "precio_original": 109900.0,
-        "precio_oferta": 39900.0,
-        "descuento": 63.7,
-        "link": "https://www.topper.com.ar/zapatillas-rocket-suede-052240/p",
-        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/503689/52240_1.jpg?v=638991530687900000",
-        "talles": [
-            "Talle: 450 - Color: ROJO WINE/BEIGE BIRCH"
         ]
     },
     {
@@ -2551,20 +2604,6 @@
         "imagen": "https://naldoar.vteximg.com.br/arquivos/ids/209362/image-02af65023e394090a4a83acb748c0e74.jpg?v=639039144204130000",
         "talles": [
             "Juguete de arrastre Tiny Love Leonardo"
-        ]
-    },
-    {
-        "id": "8618",
-        "tienda": "Topper",
-        "nombre": "ZAPATILLAS GROVE HIGH",
-        "genero": "Unisex",
-        "precio_original": 109000.0,
-        "precio_oferta": 39900.0,
-        "descuento": 63.4,
-        "link": "https://www.topper.com.ar/zapatillas-grove-high-050240/p",
-        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/416631/050240_1.jpg?v=638588219648100000",
-        "talles": [
-            "Talle: 350 - Color: NEGRO/GRIS MAGNET"
         ]
     },
     {
@@ -2593,20 +2632,6 @@
         "imagen": "https://sportline.vteximg.com.br/arquivos/ids/1611569/801020000026282_1.jpg?v=638864307196000000",
         "talles": [
             "35"
-        ]
-    },
-    {
-        "id": "46600",
-        "tienda": "Naldo",
-        "nombre": "Grifería de Bidet Monocomando FV Melincue Cromo",
-        "genero": "Unisex",
-        "precio_original": 311929.0,
-        "precio_oferta": 115000.0,
-        "descuento": 63.1,
-        "link": "https://www.naldo.com.ar/griferia-de-bidet-monocomando-fv-melincue-cromo-46600/p",
-        "imagen": "https://naldoar.vteximg.com.br/arquivos/ids/207932/image-eb8f6c8d952f44428586bedccc9f0bf3.jpg?v=639020085286670000",
-        "talles": [
-            "Grifería de Bidet Monocomando FV Melincue Cromo"
         ]
     },
     {
@@ -2810,22 +2835,8 @@
             "Talle: 450 - Color: PLATA/VERDE ICE/GRIS MAGNET",
             "Talle: 420 - Color: PLATA/VERDE ICE/GRIS MAGNET",
             "Talle: 430 - Color: PLATA/VERDE ICE/GRIS MAGNET",
+            "Talle: 410 - Color: PLATA/VERDE ICE/GRIS MAGNET",
             "Talle: 440 - Color: PLATA/VERDE ICE/GRIS MAGNET"
-        ]
-    },
-    {
-        "id": "8031",
-        "tienda": "Topper",
-        "nombre": "BOTINES STINGRAY III MACH 5 IN",
-        "genero": "Unisex",
-        "precio_original": 104900.0,
-        "precio_oferta": 39900.0,
-        "descuento": 62.0,
-        "link": "https://www.topper.com.ar/stingray-iii-mach-5-in-89902/p",
-        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/316964/089902.jpg?v=638435090841630000",
-        "talles": [
-            "Talle: 440 Color: NEGRO/BLANCO/PINK GLO",
-            "Talle: 450 Color: NEGRO/BLANCO/PINK GLO"
         ]
     },
     {
@@ -2914,7 +2925,7 @@
         "precio_oferta": 9999.0,
         "descuento": 61.5,
         "link": "https://www.sportline.com.ar/kids-max-street-035085415608830/p",
-        "imagen": "https://sportline.vteximg.com.br/arquivos/ids/1042350/035085415608830_1.jpg?v=638281091208230000",
+        "imagen": "https://sportline.vteximg.com.br/arquivos/ids/1918795/035085415608830_1.jpg.jpg?v=639191671076770000",
         "talles": [
             "26",
             "28",
@@ -3028,33 +3039,99 @@
         ]
     },
     {
-        "id": "9647",
-        "tienda": "Topper",
-        "nombre": "ZAPATILLAS TERRANO II",
-        "genero": "Unisex",
-        "precio_original": 99900.0,
-        "precio_oferta": 39900.0,
-        "descuento": 60.1,
-        "link": "https://www.topper.com.ar/zapatillas-terrano-ii-026436/p",
-        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/465886/26436_1.jpg?v=638912968368970000",
+        "id": "47418",
+        "tienda": "Grid",
+        "nombre": "ZAPATILLAS NIKE SPORTSWEAR KILLSHOT 2 MUJER",
+        "genero": "Mujer",
+        "precio_original": 199999.0,
+        "precio_oferta": 79999.0,
+        "descuento": 60.0,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-killshot-2-moda-mujer-3280522/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1695234/328-0522_1.jpg?v=638911161226670000",
         "talles": [
-            "Talle: 460 - Color: GRIS CITY/BEIGE BUFF",
-            "Talle: 430 - Color: GRIS CITY/BEIGE BUFF",
-            "Talle: 450 - Color: GRIS CITY/BEIGE BUFF"
+            "328-0522/05.5",
+            "328-0522/06 *",
+            "328-0522/07.5"
         ]
     },
     {
-        "id": "8647",
-        "tienda": "Topper",
-        "nombre": "ZAPATILLAS TERRANO II",
-        "genero": "Unisex",
-        "precio_original": 99900.0,
-        "precio_oferta": 39900.0,
-        "descuento": 60.1,
-        "link": "https://www.topper.com.ar/zapatillas-terrano-ii-089111/p",
-        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/418292/089111_1.jpg?v=638588227098200000",
+        "id": "46726",
+        "tienda": "Grid",
+        "nombre": "Zapatillas Nike Sportswear KILLSHOT 2 MUJER",
+        "genero": "Mujer",
+        "precio_original": 199999.0,
+        "precio_oferta": 79999.0,
+        "descuento": 60.0,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-killshot-2-moda-mujer-3280452/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1680710/328-0452_1.jpg?v=638887258737300000",
         "talles": [
-            "Talle: 450 - Color: GRIS CHIP/GRIS LUNAR/GRIS ALLOY"
+            "328-0452/05 *",
+            "328-0452/07 *",
+            "328-0452/08 *",
+            "328-0452/09.5",
+            "328-0452/10 *"
+        ]
+    },
+    {
+        "id": "46540",
+        "tienda": "Grid",
+        "nombre": "Zapatillas Nike Sportswear KILLSHOT 2 MUJER",
+        "genero": "Mujer",
+        "precio_original": 199999.0,
+        "precio_oferta": 79999.0,
+        "descuento": 60.0,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-killshot-2-moda-mujer-3280443/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1676350/328-0443_1.jpg?v=638881846056200000",
+        "talles": [
+            "328-0443/05 *",
+            "328-0443/06 *",
+            "328-0443/06.5",
+            "328-0443/07 *",
+            "328-0443/07.5",
+            "328-0443/08 *",
+            "328-0443/10 *"
+        ]
+    },
+    {
+        "id": "47409",
+        "tienda": "Grid",
+        "nombre": "ZAPATILLAS NIKE SPORTSWEAR KILLSHOT 2 HOMBRE",
+        "genero": "Hombre",
+        "precio_original": 199999.0,
+        "precio_oferta": 79999.0,
+        "descuento": 60.0,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-killshot-2-moda-hombre-3280504/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1695091/328-0504_1.jpg?v=638908664298030000",
+        "talles": [
+            "328-0504/07.5",
+            "328-0504/08 *",
+            "328-0504/08.5",
+            "328-0504/09 *",
+            "328-0504/09.5",
+            "328-0504/10 *",
+            "328-0504/10.5",
+            "328-0504/11 *",
+            "328-0504/11.5"
+        ]
+    },
+    {
+        "id": "47395",
+        "tienda": "Grid",
+        "nombre": "ZAPATILLAS NIKE SPORTSWEAR KILLSHOT 2 HOMBRE",
+        "genero": "Hombre",
+        "precio_original": 199999.0,
+        "precio_oferta": 79999.0,
+        "descuento": 60.0,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-killshot-2-moda-hombre-3280505/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1694598/328-0505_1.jpg?v=638908635206230000",
+        "talles": [
+            "328-0505/07 *",
+            "328-0505/08 *",
+            "328-0505/08.5",
+            "328-0505/09 *",
+            "328-0505/09.5",
+            "328-0505/10.5",
+            "328-0505/11 *"
         ]
     },
     {
@@ -3066,7 +3143,7 @@
         "precio_oferta": 9999.0,
         "descuento": 60.0,
         "link": "https://www.sportline.com.ar/slim-gloss-035085414617320/p",
-        "imagen": "https://sportline.vteximg.com.br/arquivos/ids/1862841/035085414617320_1.jpg.jpg?v=639127783039330000",
+        "imagen": "https://sportline.vteximg.com.br/arquivos/ids/1918784/035085414617320_1.jpg.jpg?v=639191670848770000",
         "talles": [
             "26"
         ]
@@ -3102,31 +3179,33 @@
         ]
     },
     {
-        "id": "8649",
-        "tienda": "Topper",
-        "nombre": "ZAPATILLAS TERRE CORK",
+        "id": "42726",
+        "tienda": "Naldo",
+        "nombre": "Reposera Mir Plástica Plegable A-9 Blanca",
         "genero": "Unisex",
-        "precio_original": 99700.0,
-        "precio_oferta": 39900.0,
+        "precio_original": 56748.0,
+        "precio_oferta": 22699.0,
         "descuento": 60.0,
-        "link": "https://www.topper.com.ar/zapatillas-terre-cork-050642/p",
-        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/428455/050642_1.jpg?v=638669390069930000",
+        "link": "https://www.naldo.com.ar/reposera-plastica-plegable-a-9-blanca-105235-1/p",
+        "imagen": "https://naldoar.vteximg.com.br/arquivos/ids/208591/1.jpg?v=639034906677300000",
         "talles": [
-            "Talle: 450 - Color: BLANCO"
+            "Reposera Mir Plástica Plegable A-9 Blanca"
         ]
     },
     {
-        "id": "189",
-        "tienda": "Electrolux",
-        "nombre": "Panel Calefactor Vitroconvector Electrolux Turbo PVE60 2 Potencias",
+        "id": "48501",
+        "tienda": "Naldo",
+        "nombre": "Ford Raptor a batería 6v Cosco",
         "genero": "Unisex",
-        "precio_original": 249999.0,
-        "precio_oferta": 99999.0,
+        "precio_original": 499999.0,
+        "precio_oferta": 199999.0,
         "descuento": 60.0,
-        "link": "https://www.tienda.electrolux.com.ar/turboconvector-de-ptc-electrolux-pve60-2-potencias-/p",
-        "imagen": "https://electroluxar.vteximg.com.br/arquivos/ids/156991/PVE60.jpg?v=636909418999430000",
+        "link": "https://www.naldo.com.ar/ford-raptor-a-bateria-6v-cosco-48501/p",
+        "imagen": "https://naldoar.vteximg.com.br/arquivos/ids/223276/image-a1ad00a282b74dbaab3b8bb93c5019e5.jpg?v=639178106952030000",
         "talles": [
-            "Panel Calefactor Vitroconvector Electrolux Turbo PVE60 2 Potencias"
+            "Ford Raptor a batería 6v Cosco Negra",
+            "Ford Raptor a batería 6v Cosco Roja",
+            "Ford Raptor a batería 6v Cosco Blanca"
         ]
     },
     {
@@ -3155,6 +3234,20 @@
         "imagen": "https://arredo.vteximg.com.br/arquivos/ids/1487774/83431U00193-KC_16.jpg?v=639185062111900000",
         "talles": [
             "Color Crudo - UNICO"
+        ]
+    },
+    {
+        "id": "1513563",
+        "tienda": "Easy",
+        "nombre": "Centro de Entretenimiento Koba Natural/Blanco 180.5x160x34.8 Cm M+Desing",
+        "genero": "Unisex",
+        "precio_original": 299000.0,
+        "precio_oferta": 119600.0,
+        "descuento": 60.0,
+        "link": "https://www.easy.com.ar/centro-entr-koba-180-5x160x34-8-freij-ar/p",
+        "imagen": "https://arcencohogar.vteximg.com.br/arquivos/ids/424588/1513563-1.jpg?v=639168174107630000",
+        "talles": [
+            "Centro de Entretenimiento Koba Natural/Blanco 180.5x160x34.8 Cm M+Desing"
         ]
     },
     {
@@ -3354,45 +3447,17 @@
         ]
     },
     {
-        "id": "1493135",
-        "tienda": "Easy",
-        "nombre": "Colchón + Sommier Espuma Arno Pillow 1.5 Plazas 100x190x59 Cm Kavanag",
-        "genero": "Unisex",
-        "precio_original": 1379000.0,
-        "precio_oferta": 551600.0,
-        "descuento": 60.0,
-        "link": "https://www.easy.com.ar/colchon-arno-c-pillow-sommier-100x190cm/p",
-        "imagen": "https://arcencohogar.vteximg.com.br/arquivos/ids/403879/1493135-1.jpg?v=638925893349370000",
-        "talles": [
-            "Colchón Espuma Pillow+Sommier 1 1/2 Plazas 100X190 Cm Arno Pillow Kavanag"
-        ]
-    },
-    {
-        "id": "3121",
+        "id": "3147",
         "tienda": "La Cardeuse",
-        "nombre": "Colchón LIP Foam 2 Plazas 140x190",
+        "nombre": "Colchón LIP Foam King 200x200",
         "genero": "Unisex",
-        "precio_original": 6138796.0,
-        "precio_oferta": 2455518.0,
+        "precio_original": 9533121.0,
+        "precio_oferta": 3813248.0,
         "descuento": 60.0,
-        "link": "https://www.lacardeuse.com.ar/lp1401909fo-colchon-lip-foam-140x190/p",
-        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1578351/Sin-titulo--1200-x-799-px---10-.png?v=639035629890700000",
+        "link": "https://www.lacardeuse.com.ar/lp2002009fo-colchon-lip-foam-200x200/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1587653/Sin-titulo--1200-x-799-px---10-.png?v=639191272887930000",
         "talles": [
-            "Colchón LIP Foam 2 Plazas 140x190 -"
-        ]
-    },
-    {
-        "id": "3167",
-        "tienda": "La Cardeuse",
-        "nombre": "Sommier LIP Foam 2 Plazas 130x200",
-        "genero": "Unisex",
-        "precio_original": 8239883.0,
-        "precio_oferta": 3295953.0,
-        "descuento": 60.0,
-        "link": "https://www.lacardeuse.com.ar/cp1302009fo-sommier-lip-foam-130x200/p",
-        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1586255/1200x799-SITIO-FUNCIONA--14-.png?v=639160910289500000",
-        "talles": [
-            "Sommier LIP Foam 2 Plazas 130x200 -"
+            "Colchón LIP Foam King 200x200  -"
         ]
     },
     {
@@ -3404,7 +3469,7 @@
         "precio_oferta": 4095996.0,
         "descuento": 60.0,
         "link": "https://www.lacardeuse.com.ar/cp1601909fo-sommier-lip-foam-160x190/p",
-        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1586671/1200x799 SITIO FUNCIONA -22-.png?v=639184314536900000",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1586913/1200x799-SITIO-FUNCIONA--22-.png?v=639189478039400000",
         "talles": [
             "Sommier LIP Foam Queen 160x190  -"
         ]
@@ -3418,9 +3483,23 @@
         "precio_oferta": 4543646.0,
         "descuento": 60.0,
         "link": "https://www.lacardeuse.com.ar/cp1801909fo-sommier-lip-foam-180x190/p",
-        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1586644/1200x799 SITIO FUNCIONA -22-.png?v=639184313746970000",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1586878/1200x799-SITIO-FUNCIONA--22-.png?v=639189475052670000",
         "talles": [
             "Sommier LIP Foam King 180x190  -"
+        ]
+    },
+    {
+        "id": "3131",
+        "tienda": "La Cardeuse",
+        "nombre": "Colchón LIP Foam Queen 160x200",
+        "genero": "Unisex",
+        "precio_original": 7697639.0,
+        "precio_oferta": 3079056.0,
+        "descuento": 60.0,
+        "link": "https://www.lacardeuse.com.ar/lp1602009fo-colchon-lip-foam-160x200/p",
+        "imagen": "https://lacardeuse.vteximg.com.br/arquivos/ids/1587593/Sin-titulo--1200-x-799-px---10-.png?v=639191250404000000",
+        "talles": [
+            "Colchón LIP Foam Queen 160x200 -"
         ]
     },
     {
@@ -3438,35 +3517,6 @@
         ]
     },
     {
-        "id": "14114",
-        "tienda": "Juleriaque",
-        "nombre": "EYE PALETTE SPECTRUM MIDNIGHT",
-        "genero": "Unisex",
-        "precio_original": 115990.0,
-        "precio_oferta": 46396.0,
-        "descuento": 60.0,
-        "link": "https://www.juleriaque.com.ar/eye-palette-spectrum-903853/p",
-        "imagen": "https://juleriaque.vteximg.com.br/arquivos/ids/280991/3011481-2.jpg?v=639166442465100000",
-        "talles": [
-            "Mugler Eye Palette Spectrum Midnight"
-        ]
-    },
-    {
-        "id": "3932",
-        "tienda": "Rouge",
-        "nombre": "So Real Cheap & Chic EDT",
-        "genero": "Mujer",
-        "precio_original": 99900.0,
-        "precio_oferta": 39960.0,
-        "descuento": 60.0,
-        "link": "https://www.perfumeriasrouge.com/so-real-cheap-chic-edt-x6u28c-1/p",
-        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/258588/X6U28frasco.jpg?v=639126315269370000",
-        "talles": [
-            "Promo 30ml",
-            "50 ml"
-        ]
-    },
-    {
         "id": "22213",
         "tienda": "Rouge",
         "nombre": "CK One Essence Viva Love Parfum Intense",
@@ -3478,6 +3528,35 @@
         "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/255610/3616306701939.jpg?v=639081410260870000",
         "talles": [
             "Promo 100ml"
+        ]
+    },
+    {
+        "id": "3932",
+        "tienda": "Rouge",
+        "nombre": "So Real Cheap & Chic EDT",
+        "genero": "Unisex",
+        "precio_original": 99900.0,
+        "precio_oferta": 39960.0,
+        "descuento": 60.0,
+        "link": "https://www.perfumeriasrouge.com/so-real-cheap-chic-edt-x6u28c-1/p",
+        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/258588/X6U28frasco.jpg?v=639126315269370000",
+        "talles": [
+            "Promo 30ml",
+            "50 ml"
+        ]
+    },
+    {
+        "id": "20771",
+        "tienda": "Rouge",
+        "nombre": "Hot Water EDT",
+        "genero": "Unisex",
+        "precio_original": 163350.0,
+        "precio_oferta": 65340.0,
+        "descuento": 60.0,
+        "link": "https://www.perfumeriasrouge.com/hot-water-edt-co0-016-101-p/p",
+        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/243906/3607344163773.jpg?v=638925101340030000",
+        "talles": [
+            "Promo 110ml"
         ]
     },
     {
@@ -3495,35 +3574,6 @@
         ]
     },
     {
-        "id": "8928",
-        "tienda": "Topper",
-        "nombre": "ZAPATILLAS ARAKA KOTK",
-        "genero": "Unisex",
-        "precio_original": 123900.0,
-        "precio_oferta": 49900.0,
-        "descuento": 59.7,
-        "link": "https://www.topper.com.ar/zapatillas-araka-kotk-052384/p",
-        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/442729/ZAPATILLAS_ARAKA_KOTK_052384_7.jpg?v=638823053986600000",
-        "talles": [
-            "Talle: 460 - Color: BLANCO/NEGRO"
-        ]
-    },
-    {
-        "id": "9570",
-        "tienda": "Topper",
-        "nombre": "ZAPATILLAS ARAKA KOTK",
-        "genero": "Unisex",
-        "precio_original": 123900.0,
-        "precio_oferta": 49900.0,
-        "descuento": 59.7,
-        "link": "https://www.topper.com.ar/zapatillas-araka-kotk-050616/p",
-        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/450930/50616_1.jpg?v=638893975651700000",
-        "talles": [
-            "Talle: 460 - Color: GRIS MICROCHIP/BLANCO/NEGRO",
-            "Talle: 450 - Color: GRIS MICROCHIP/BLANCO/NEGRO"
-        ]
-    },
-    {
         "id": "7010",
         "tienda": "Topper",
         "nombre": "ZAPATILLAS TEMPLE",
@@ -3535,20 +3585,6 @@
         "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/296331/029679.jpg?v=638157095455000000",
         "talles": [
             "Talle: 450 - Color: NEGRO/ GRIS STORMY"
-        ]
-    },
-    {
-        "id": "2085675",
-        "tienda": "Sportline",
-        "nombre": "Camiseta Atomik Basket Titular San Lorenzo 25 Hombre",
-        "genero": "Hombre",
-        "precio_original": 99000.0,
-        "precio_oferta": 39999.0,
-        "descuento": 59.6,
-        "link": "https://www.sportline.com.ar/basket-titular-san-lorenzo-25-0147800042801w7/p",
-        "imagen": "https://sportline.vteximg.com.br/arquivos/ids/1549331/0147800042801W7_1.jpg?v=638812523239830000",
-        "talles": [
-            "XL"
         ]
     },
     {
@@ -3597,18 +3633,20 @@
         ]
     },
     {
-        "id": "5689",
-        "tienda": "47 Street",
-        "nombre": "CANGURO PUNK CREATURES",
+        "id": "2066495",
+        "tienda": "Sportline",
+        "nombre": "Ojotas Havaianas Kids Max Niño",
         "genero": "Unisex",
-        "precio_original": 119999.0,
-        "precio_oferta": 50400.0,
-        "descuento": 58.0,
-        "link": "https://www.47street.com.ar/38n1073307-canguro-punk-creatures/p",
-        "imagen": "https://street47.vteximg.com.br/arquivos/ids/253186/s_-CANGURO-PUNK-CREATURES---PORTADAS13529.jpg.jpg?v=638878487927400000",
+        "precio_original": 23999.0,
+        "precio_oferta": 9999.0,
+        "descuento": 58.3,
+        "link": "https://www.sportline.com.ar/kids-max-035085410090790/p",
+        "imagen": "https://sportline.vteximg.com.br/arquivos/ids/1918740/035085410090790_1.jpg.jpg?v=639191669756970000",
         "talles": [
-            "COLOR: ROSA - TALLE: 01",
-            "COLOR: ROSA - TALLE: 02"
+            "26",
+            "28",
+            "30",
+            "32"
         ]
     },
     {
@@ -3626,31 +3664,53 @@
         ]
     },
     {
-        "id": "2005819",
-        "tienda": "Compra Cierta",
-        "nombre": "Sommier y Colchón Jazz - 1 Plaza y Media (90x190 cm)",
+        "id": "4419",
+        "tienda": "Rouge",
+        "nombre": "The Dreamer EDT",
         "genero": "Unisex",
-        "precio_original": 3535500.0,
-        "precio_oferta": 1488800.0,
-        "descuento": 57.9,
-        "link": "https://www.compracierta.com.ar/sommier-y-colchon-jazz---1-plaza-y-media--90x190-cm--2005819/p",
-        "imagen": "https://compraciertaar.vteximg.com.br/arquivos/ids/225422/1-1-.jpg?v=637903959592070000",
+        "precio_original": 266000.0,
+        "precio_oferta": 111720.0,
+        "descuento": 58.0,
+        "link": "https://www.perfumeriasrouge.com/the-dreamer-edt-100ml--1/p",
+        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/219261/8018365156005.jpg?v=638602757110130000",
         "talles": [
-            "Sommier y Colchón Jazz - 1 Plaza y Media (90x190 cm)"
+            "100 ml"
         ]
     },
     {
-        "id": "2005767",
-        "tienda": "Compra Cierta",
-        "nombre": "Sommier y Colchón Jazz - 1 Plaza (80x190 cm)",
-        "genero": "Unisex",
-        "precio_original": 3181300.0,
-        "precio_oferta": 1343000.0,
-        "descuento": 57.8,
-        "link": "https://www.compracierta.com.ar/sommier-y-colchon-jazz---1-plaza--80x190-cm--2005767/p",
-        "imagen": "https://compraciertaar.vteximg.com.br/arquivos/ids/225418/1-1-.jpg?v=637903954163500000",
+        "id": "47950",
+        "tienda": "Grid",
+        "nombre": "ZAPATILLAS NIKE SPORTSWEAR FIELD GEN HOMBRE",
+        "genero": "Hombre",
+        "precio_original": 189999.0,
+        "precio_oferta": 79999.0,
+        "descuento": 57.9,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-field-gen-moda-hombre-3280581/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1712604/328-0581_1.jpg?v=638929566173000000",
         "talles": [
-            "Sommier y Colchón Jazz - 1 Plaza (80x190 cm)"
+            "328-0581/07 *",
+            "328-0581/07.5",
+            "328-0581/08 *",
+            "328-0581/08.5",
+            "328-0581/09 *",
+            "328-0581/09.5",
+            "328-0581/10 *",
+            "328-0581/10.5",
+            "328-0581/11 *"
+        ]
+    },
+    {
+        "id": "10077",
+        "tienda": "Topper",
+        "nombre": "SHORT MUJER RUNNING II",
+        "genero": "Mujer",
+        "precio_original": 34999.0,
+        "precio_oferta": 14900.0,
+        "descuento": 57.4,
+        "link": "https://www.topper.com.ar/short-mujer-running-ii-167998/p",
+        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/482467/167998_1.jpg?v=638925200883730000",
+        "talles": [
+            "Talle: L - Color: crudo tofu"
         ]
     },
     {
@@ -3668,31 +3728,17 @@
         ]
     },
     {
-        "id": "48420",
-        "tienda": "Grid",
-        "nombre": "ZAPATILLAS ADIDAS ORIGINALS GAZELLE INDOOR MUJER",
-        "genero": "Mujer",
-        "precio_original": 209999.0,
-        "precio_oferta": 89999.0,
-        "descuento": 57.1,
-        "link": "https://www.grid.com.ar/zapatillas-adidas-originals-gazelle-indoor-moda-mujer-2680927/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1752723/268-0927_1.jpg?v=638944254038630000",
+        "id": "22692",
+        "tienda": "Rouge",
+        "nombre": "CK One Gold EDT",
+        "genero": "Unisex",
+        "precio_original": 243000.0,
+        "precio_oferta": 104490.0,
+        "descuento": 57.0,
+        "link": "https://www.perfumeriasrouge.com/ck-one-gold-edt-cp0-298-266-p/p",
+        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/259992/3614222155409P.jpg?v=639136105652300000",
         "talles": [
-            "268-0927/07.5"
-        ]
-    },
-    {
-        "id": "48427",
-        "tienda": "Grid",
-        "nombre": "ZAPATILLAS ADIDAS ORIGINALS GAZELLE INDOOR MUJER",
-        "genero": "Mujer",
-        "precio_original": 209999.0,
-        "precio_oferta": 89999.0,
-        "descuento": 57.1,
-        "link": "https://www.grid.com.ar/zapatillas-adidas-originals-gazelle-indoor-moda-mujer-2680926/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1756572/268-0926_1.jpg?v=638944847258000000",
-        "talles": [
-            "268-0926/03.5"
+            "Promo 200ml"
         ]
     },
     {
@@ -3729,6 +3775,296 @@
         "imagen": "https://essential.vteximg.com.br/arquivos/ids/1554811/266-4322_1.jpg?v=638780758118970000",
         "talles": [
             "266-4322/8-9Y"
+        ]
+    },
+    {
+        "id": "5808",
+        "tienda": "Topper",
+        "nombre": "GORRO BEANIE CLASSIC TOPPER",
+        "genero": "Unisex",
+        "precio_original": 22999.0,
+        "precio_oferta": 9999.0,
+        "descuento": 56.5,
+        "link": "https://www.topper.com.ar/gorro-beanie-topper-172715/p",
+        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/259195/172715.jpg?v=637799617451670000",
+        "talles": [
+            "Talle: UNI - Color: Negro"
+        ]
+    },
+    {
+        "id": "9006",
+        "tienda": "Topper",
+        "nombre": "BOTINES STINGRAY III MACH 1 FG",
+        "genero": "Unisex",
+        "precio_original": 90800.0,
+        "precio_oferta": 39900.0,
+        "descuento": 56.1,
+        "link": "https://www.topper.com.ar/zapatillas-stingray-iii-mach-1-fg-025865/p",
+        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/444333/ZAPATILLAS_STINGRAY_III_MACH_1_FG_025865_1.jpg?v=638842095928300000",
+        "talles": [
+            "Talle: 430 - Color: BEIGE PAP/NEGRO/AZUL WING",
+            "Talle: 450 - Color: BEIGE PAP/NEGRO/AZUL WING",
+            "Talle: 440 - Color: BEIGE PAP/NEGRO/AZUL WING",
+            "Talle: 420 - Color: BEIGE PAP/NEGRO/AZUL WING"
+        ]
+    },
+    {
+        "id": "8032",
+        "tienda": "Topper",
+        "nombre": "BOTINES STINGRAY III MACH 1 FG",
+        "genero": "Unisex",
+        "precio_original": 90800.0,
+        "precio_oferta": 39900.0,
+        "descuento": 56.1,
+        "link": "https://www.topper.com.ar/stingray-iii-mach-1-fg-29955/p",
+        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/317026/029955.jpg?v=638435090993070000",
+        "talles": [
+            "Talle: 440 Color: NEGRO/BLANCO/PINK GLO",
+            "Talle: 450 Color: NEGRO/BLANCO/PINK GLO"
+        ]
+    },
+    {
+        "id": "20145",
+        "tienda": "Rouge",
+        "nombre": "Fresh Gold EDP 100 ml + Black Trousse",
+        "genero": "Unisex",
+        "precio_original": 212000.0,
+        "precio_oferta": 93280.0,
+        "descuento": 56.0,
+        "link": "https://www.perfumeriasrouge.com/fresh-gold-edp-100ml-black-trousse-x6s32pkit2/p",
+        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/238275/X6S32PKIT2.jpg?v=638864873881570000",
+        "talles": [
+            "KITG"
+        ]
+    },
+    {
+        "id": "45325",
+        "tienda": "Grid",
+        "nombre": "Zapatillas Nike Sportswear FIELD GENERAL HOMBRE",
+        "genero": "Hombre",
+        "precio_original": 179999.0,
+        "precio_oferta": 79999.0,
+        "descuento": 55.6,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-field-general-moda-hombre-3280396/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1626542/328-0396_1.jpg?v=638842012289400000",
+        "talles": [
+            "328-0396/07.5",
+            "328-0396/08 *",
+            "328-0396/08.5",
+            "328-0396/09 *"
+        ]
+    },
+    {
+        "id": "45264",
+        "tienda": "Grid",
+        "nombre": "Zapatillas Nike Sportswear FIELD MUJER",
+        "genero": "Mujer",
+        "precio_original": 179999.0,
+        "precio_oferta": 79999.0,
+        "descuento": 55.6,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-field-moda-mujer-3280393/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1625496/328-0393_1.jpg?v=638841393178730000",
+        "talles": [
+            "328-0393/05 *",
+            "328-0393/05.5",
+            "328-0393/06 *",
+            "328-0393/06.5",
+            "328-0393/07 *",
+            "328-0393/07.5",
+            "328-0393/08 *",
+            "328-0393/08.5",
+            "328-0393/09 *",
+            "328-0393/09.5",
+            "328-0393/10 *"
+        ]
+    },
+    {
+        "id": "45260",
+        "tienda": "Grid",
+        "nombre": "Zapatillas Nike Sportswear FIELD GENERAL MUJER",
+        "genero": "Mujer",
+        "precio_original": 179999.0,
+        "precio_oferta": 79999.0,
+        "descuento": 55.6,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-field-general-moda-mujer-3280392/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1625396/328-0392_1.jpg?v=638841387500430000",
+        "talles": [
+            "328-0392/05 *",
+            "328-0392/05.5",
+            "328-0392/06 *",
+            "328-0392/06.5",
+            "328-0392/07 *",
+            "328-0392/07.5",
+            "328-0392/08 *",
+            "328-0392/09 *",
+            "328-0392/09.5",
+            "328-0392/10 *"
+        ]
+    },
+    {
+        "id": "45259",
+        "tienda": "Grid",
+        "nombre": "Zapatillas Nike Sportswear FIELD GENERAL MUJER",
+        "genero": "Mujer",
+        "precio_original": 179999.0,
+        "precio_oferta": 79999.0,
+        "descuento": 55.6,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-field-general-moda-mujer-3280391/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1625371/328-0391_1.jpg?v=638841385988100000",
+        "talles": [
+            "328-0391/05 *",
+            "328-0391/05.5",
+            "328-0391/06 *",
+            "328-0391/06.5",
+            "328-0391/07 *",
+            "328-0391/07.5",
+            "328-0391/08 *",
+            "328-0391/08.5",
+            "328-0391/09 *",
+            "328-0391/09.5",
+            "328-0391/10 *"
+        ]
+    },
+    {
+        "id": "45256",
+        "tienda": "Grid",
+        "nombre": "Zapatillas Nike Sportswear FIELD MUJER",
+        "genero": "Mujer",
+        "precio_original": 179999.0,
+        "precio_oferta": 79999.0,
+        "descuento": 55.6,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-field-moda-mujer-3280394/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1625316/328-0394_1.jpg?v=638841381417700000",
+        "talles": [
+            "328-0394/05 *",
+            "328-0394/05.5",
+            "328-0394/06 *",
+            "328-0394/06.5",
+            "328-0394/07 *",
+            "328-0394/07.5",
+            "328-0394/08.5",
+            "328-0394/09 *",
+            "328-0394/09.5"
+        ]
+    },
+    {
+        "id": "47240",
+        "tienda": "Grid",
+        "nombre": "ZAPATILLAS NIKE SPORTSWEAR AIR MAX DN8 HOMBRE",
+        "genero": "Hombre",
+        "precio_original": 449999.0,
+        "precio_oferta": 199999.0,
+        "descuento": 55.6,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-air-max-dn8-moda-hombre-3280494/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1692086/328-0494_1.jpg?v=638905185227830000",
+        "talles": [
+            "328-0494/07 *",
+            "328-0494/08 *",
+            "328-0494/08.5",
+            "328-0494/09 *",
+            "328-0494/10.5",
+            "328-0494/11.5"
+        ]
+    },
+    {
+        "id": "47934",
+        "tienda": "Grid",
+        "nombre": "ZAPATILLAS NIKE SPORTSWEAR AIR MAX DN8 MUJER",
+        "genero": "Mujer",
+        "precio_original": 449999.0,
+        "precio_oferta": 199999.0,
+        "descuento": 55.6,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-air-max-dn8-moda-mujer-3280577/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1712017/328-0577_1.jpg?v=638929263501700000",
+        "talles": [
+            "328-0577/05 *",
+            "328-0577/05.5",
+            "328-0577/06 *",
+            "328-0577/06.5",
+            "328-0577/07 *",
+            "328-0577/07.5",
+            "328-0577/08 *",
+            "328-0577/08.5",
+            "328-0577/10 *"
+        ]
+    },
+    {
+        "id": "47242",
+        "tienda": "Grid",
+        "nombre": "ZAPATILLAS NIKE SPORTSWEAR AIR MAX DN8 MUJER",
+        "genero": "Mujer",
+        "precio_original": 449999.0,
+        "precio_oferta": 199999.0,
+        "descuento": 55.6,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-air-max-dn8-moda-mujer-3280498/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1692128/328-0498_1.jpg?v=638905188745030000",
+        "talles": [
+            "328-0498/05 *",
+            "328-0498/05.5",
+            "328-0498/06 *",
+            "328-0498/06.5",
+            "328-0498/07 *",
+            "328-0498/07.5",
+            "328-0498/08 *",
+            "328-0498/08.5",
+            "328-0498/09 *"
+        ]
+    },
+    {
+        "id": "47209",
+        "tienda": "Grid",
+        "nombre": "Zapatillas Nike Sportswear AIR MAX DN8 HOMBRE",
+        "genero": "Hombre",
+        "precio_original": 449999.0,
+        "precio_oferta": 199999.0,
+        "descuento": 55.6,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-air-max-dn8-moda-hombre-3280495/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1691326/328-0495_1.jpg?v=638902692219900000",
+        "talles": [
+            "328-0495/09 *"
+        ]
+    },
+    {
+        "id": "47205",
+        "tienda": "Grid",
+        "nombre": "Zapatillas Nike Sportswear AIR MAX DN8 HOMBRE",
+        "genero": "Hombre",
+        "precio_original": 449999.0,
+        "precio_oferta": 199999.0,
+        "descuento": 55.6,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-air-max-dn8-moda-hombre-3286240/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1691220/328-6240_1.jpg?v=638902691795700000",
+        "talles": [
+            "328-6240/07 *",
+            "328-6240/07.5",
+            "328-6240/08 *",
+            "328-6240/08.5",
+            "328-6240/09 *",
+            "328-6240/09.5",
+            "328-6240/10 *",
+            "328-6240/10.5",
+            "328-6240/11.5"
+        ]
+    },
+    {
+        "id": "47204",
+        "tienda": "Grid",
+        "nombre": "Zapatillas Nike Sportswear AIR MAX DN8 MUJER",
+        "genero": "Mujer",
+        "precio_original": 449999.0,
+        "precio_oferta": 199999.0,
+        "descuento": 55.6,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-air-max-dn8-moda-mujer-3280499/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1691195/328-0499_1.jpg?v=638902691410000000",
+        "talles": [
+            "328-0499/05.5",
+            "328-0499/06 *",
+            "328-0499/06.5",
+            "328-0499/07 *",
+            "328-0499/07.5",
+            "328-0499/08 *",
+            "328-0499/09 *",
+            "328-0499/09.5"
         ]
     },
     {
@@ -3793,7 +4129,7 @@
         "id": "23647",
         "tienda": "Perfumería Pigmento",
         "nombre": "Gold Fresh Couture EDP",
-        "genero": "Mujer",
+        "genero": "Unisex",
         "precio_original": 212000.0,
         "precio_oferta": 95400.0,
         "descuento": 55.0,
@@ -3804,18 +4140,32 @@
         ]
     },
     {
-        "id": "49681",
-        "tienda": "Grid",
-        "nombre": "ZAPATILLAS ADIDAS ORIGINALS SUPERSTAR II UNISEX",
+        "id": "4366",
+        "tienda": "Rouge",
+        "nombre": "Fresh Gold EDP 100 ml",
         "genero": "Unisex",
-        "precio_original": 219999.0,
-        "precio_oferta": 99999.0,
-        "descuento": 54.5,
-        "link": "https://www.grid.com.ar/zapatillas-adidas-originals-superstar-ii-moda-unisex-2681003/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/2180715/268-1003_1.jpg?v=638996910594100000",
+        "precio_original": 212000.0,
+        "precio_oferta": 95400.0,
+        "descuento": 55.0,
+        "link": "https://www.perfumeriasrouge.com/fresh-gold-edp-100ml-ed-limitada--1/p",
+        "imagen": "https://rougeb2car.vteximg.com.br/arquivos/ids/220647/7798137236524.jpg?v=638617462229100000",
         "talles": [
-            "268-1003/08 *",
-            "268-1003/08.5"
+            "100 ml"
+        ]
+    },
+    {
+        "id": "6137",
+        "tienda": "Topper",
+        "nombre": "ZAPATILLAS GONDOR II",
+        "genero": "Unisex",
+        "precio_original": 87900.0,
+        "precio_oferta": 39900.0,
+        "descuento": 54.6,
+        "link": "https://www.topper.com.ar/027133-zapatillas-gondor-ii/p",
+        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/398300/027133.jpg?v=638569934548600000",
+        "talles": [
+            "Talle: 35",
+            "Talle: 41"
         ]
     },
     {
@@ -3833,6 +4183,43 @@
         ]
     },
     {
+        "id": "38344",
+        "tienda": "Grid",
+        "nombre": "ZAPATILLAS NIKE SPORTSWEAR TERMINATOR HIGH HOMBRE",
+        "genero": "Hombre",
+        "precio_original": 284999.0,
+        "precio_oferta": 129999.0,
+        "descuento": 54.4,
+        "link": "https://www.grid.com.ar/zapatillas-nike-sportswear-terminator-high-moda-hombre-3161071/p",
+        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1513828/316-1071_1.jpg?v=638590795587900000",
+        "talles": [
+            "316-1071/08 *",
+            "316-1071/08.5",
+            "316-1071/09 *",
+            "316-1071/09.5",
+            "316-1071/10 *",
+            "316-1071/10.5",
+            "316-1071/11 *",
+            "316-1071/11.5"
+        ]
+    },
+    {
+        "id": "9002",
+        "tienda": "Topper",
+        "nombre": "ZAPATILLAS STANCE 3",
+        "genero": "Unisex",
+        "precio_original": 87500.0,
+        "precio_oferta": 39900.0,
+        "descuento": 54.4,
+        "link": "https://www.topper.com.ar/zapatillas-stance-3-052368/p",
+        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/434828/052368_1.jpg?v=638721140167570000",
+        "talles": [
+            "Talle: 430 - Color: LIMA SHARP/AZUL DAZZ",
+            "Talle: 450 - Color: LIMA SHARP/AZUL DAZZ",
+            "Talle: 440 - Color: LIMA SHARP/AZUL DAZZ"
+        ]
+    },
+    {
         "id": "2449",
         "tienda": "Sony",
         "nombre": "INZONE Mouse-A | Mouse inalámbrico para juegos Edición Fnatic",
@@ -3847,17 +4234,20 @@
         ]
     },
     {
-        "id": "48537",
-        "tienda": "Grid",
-        "nombre": "SHORT ADIDAS PERFORMANCE CRAZYLITE HOMBRE",
-        "genero": "Hombre",
-        "precio_original": 64999.0,
-        "precio_oferta": 29999.0,
-        "descuento": 53.8,
-        "link": "https://www.grid.com.ar/short-adidas-performance-crazylite-basket-hombre-2665069/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/2481071/266-5069_1.jpg?v=639050237533730000",
+        "id": "8629",
+        "tienda": "Topper",
+        "nombre": "ZAPATILLAS NEURAL RUN",
+        "genero": "Unisex",
+        "precio_original": 108500.0,
+        "precio_oferta": 49900.0,
+        "descuento": 54.0,
+        "link": "https://www.topper.com.ar/zapatillas-neural-run-050606/p",
+        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/417249/050606_1.jpg?v=638588222323600000",
         "talles": [
-            "266-5069/XS7*"
+            "Talle: 420 - Color: VERDE GECKO/VERDE SHARP",
+            "Talle: 430 - Color: VERDE GECKO/VERDE SHARP",
+            "Talle: 410 - Color: VERDE GECKO/VERDE SHARP",
+            "Talle: 440 - Color: VERDE GECKO/VERDE SHARP"
         ]
     },
     {
@@ -3875,47 +4265,66 @@
         ]
     },
     {
-        "id": "46581",
-        "tienda": "Grid",
-        "nombre": "Musculosa Adidas Originals ESSENTIALS MUJER",
-        "genero": "Mujer",
-        "precio_original": 64999.0,
-        "precio_oferta": 29999.0,
-        "descuento": 53.8,
-        "link": "https://www.grid.com.ar/musculosa-adidas-originals-essentials-moda-mujer-2666426/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1677102/266-6426_1.jpg?v=638882058102630000",
-        "talles": [
-            "266-6426/S  *"
-        ]
-    },
-    {
-        "id": "44339",
-        "tienda": "Grid",
-        "nombre": "REMERA ADIDAS ORIGINALS CROPPED NIÑOS",
+        "id": "9021",
+        "tienda": "Topper",
+        "nombre": "ZAPATILLAS TERRE MID",
         "genero": "Unisex",
-        "precio_original": 42999.0,
-        "precio_oferta": 19999.0,
-        "descuento": 53.5,
-        "link": "https://www.grid.com.ar/remera-adidas-originals-cropped-moda-ninos-2664493/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1710691/266-4493_1.jpg?v=638931886772370000",
+        "precio_original": 86300.0,
+        "precio_oferta": 39900.0,
+        "descuento": 53.8,
+        "link": "https://www.topper.com.ar/zapatillas-terre-mid-052278/p",
+        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/435398/052278_1.jpg?v=638721143344670000",
         "talles": [
-            "266-4493/7-8Y"
+            "Talle: 450 - Color: BLANCO/BEIGE PAPIRO",
+            "Talle: 440 - Color: BLANCO/BEIGE PAPIRO"
         ]
     },
     {
-        "id": "42129",
-        "tienda": "Grid",
-        "nombre": "Remera Adidas Performance ANTHONY EDWARDS HOMBRE",
-        "genero": "Hombre",
-        "precio_original": 63999.0,
-        "precio_oferta": 29999.0,
-        "descuento": 53.1,
-        "link": "https://www.grid.com.ar/remera-adidas-performance-anthony-edwards-basket-hombre-2664095/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1534611/266-4095_1.jpg?v=638738573569900000",
+        "id": "8088",
+        "tienda": "Topper",
+        "nombre": "BOTINES STINGRAY III MACH 5 KIDS TF",
+        "genero": "Unisex",
+        "precio_original": 86300.0,
+        "precio_oferta": 39900.0,
+        "descuento": 53.8,
+        "link": "https://www.topper.com.ar/zapatillas-stingray-iii-mach-5-kids-tf-46544/p",
+        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/321256/046544.jpg?v=638435096820900000",
         "talles": [
-            "266-4095/XS *",
-            "266-4095/S  *",
-            "266-4095/L  *"
+            "Talle: 25 Color: NEGRO / BLANCO / FUCSIA GLO",
+            "Talle: 27 Color: NEGRO / BLANCO / FUCSIA GLO",
+            "Talle: 28 Color: NEGRO / BLANCO / FUCSIA GLO",
+            "Talle: 29 Color: NEGRO / BLANCO / FUCSIA GLO",
+            "Talle: 30 Color: NEGRO / BLANCO / FUCSIA GLO"
+        ]
+    },
+    {
+        "id": "8087",
+        "tienda": "Topper",
+        "nombre": "BOTINES  STINGRAY III MACH 5 KIDS TF",
+        "genero": "Unisex",
+        "precio_original": 86300.0,
+        "precio_oferta": 39900.0,
+        "descuento": 53.8,
+        "link": "https://www.topper.com.ar/zapatillas-stingray-iii-mach-5-kids-tf-46543/p",
+        "imagen": "https://topperarg.vteximg.com.br/arquivos/ids/321150/046543.jpg?v=638435096705600000",
+        "talles": [
+            "Talle: 27 Color: NARANJA SHOCK / NEGRO",
+            "Talle: 28 Color: NARANJA SHOCK / NEGRO",
+            "Talle: 29 Color: NARANJA SHOCK / NEGRO"
+        ]
+    },
+    {
+        "id": "103674",
+        "tienda": "Pardo",
+        "nombre": "Molde para Torta corazón de Aluminio y Antiadherente Starflon Máx grafito de 24 cm 1,1 L",
+        "genero": "Unisex",
+        "precio_original": 36819.0,
+        "precio_oferta": 17129.0,
+        "descuento": 53.5,
+        "link": "https://www.pardo.com.ar/molde-para-torta-corazon-de-aluminio-y-antiadherente-starflon-max-grafito-de-24-cm-11-l-103674/p",
+        "imagen": "https://pardohogar.vteximg.com.br/arquivos/ids/893661/image-3e944c7e53274fdfae60a112d9dfb5d8.jpg?v=639161722782470000",
+        "talles": [
+            "Molde para Torta Corazón Tramontina Brasil de Aluminio con Revestimiento Antiadherente Starflon Max grafito 24 cm 1,1 L"
         ]
     },
     {
@@ -3929,22 +4338,7 @@
         "link": "https://www.arredo.com.ar/almohadon-textura-cuadritos-431307130/p",
         "imagen": "https://arredo.vteximg.com.br/arquivos/ids/1478132/43131F07130-A_0.webp?v=639147237870600000",
         "talles": [
-            "Color Azul - 40X60",
-            "Color Gris - 40X60"
-        ]
-    },
-    {
-        "id": "15285",
-        "tienda": "Arredo",
-        "nombre": "Almohadón Estampado Palmeras",
-        "genero": "Unisex",
-        "precio_original": 31990.0,
-        "precio_oferta": 14990.0,
-        "descuento": 53.1,
-        "link": "https://www.arredo.com.ar/almohadon-estampado-palmeras-431307123/p",
-        "imagen": "https://arredo.vteximg.com.br/arquivos/ids/1444001/43131A07123-GC_0.webp?v=639100069998370000",
-        "talles": [
-            "Color Gris claro - 60X60"
+            "Color Azul - 40X60"
         ]
     },
     {
@@ -3962,126 +4356,17 @@
         ]
     },
     {
-        "id": "15194",
+        "id": "15285",
         "tienda": "Arredo",
-        "nombre": "Almohadón Decorativo Flores",
+        "nombre": "Almohadón Estampado Palmeras",
         "genero": "Unisex",
         "precio_original": 31990.0,
         "precio_oferta": 14990.0,
         "descuento": 53.1,
-        "link": "https://www.arredo.com.ar/almohadon-decorativo-flores-431307120/p",
-        "imagen": "https://arredo.vteximg.com.br/arquivos/ids/1443273/43131F07120-AO_0.webp?v=639100069790330000",
+        "link": "https://www.arredo.com.ar/almohadon-estampado-palmeras-431307123/p",
+        "imagen": "https://arredo.vteximg.com.br/arquivos/ids/1444001/43131A07123-GC_0.webp?v=639100069998370000",
         "talles": [
-            "Color Azul oscuro - 40X60"
-        ]
-    },
-    {
-        "id": "47505",
-        "tienda": "Grid",
-        "nombre": "REMERA ADIDAS ORIGINALS TECHFIT MUJER",
-        "genero": "Mujer",
-        "precio_original": 84999.0,
-        "precio_oferta": 39999.0,
-        "descuento": 52.9,
-        "link": "https://www.grid.com.ar/remera-adidas-originals-techfit-moda-mujer-2664934/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1698494/266-4934_1.jpg?v=638913792098300000",
-        "talles": [
-            "266-4934/XS *",
-            "266-4934/S  *",
-            "266-4934/M  *",
-            "266-4934/XL *"
-        ]
-    },
-    {
-        "id": "48042",
-        "tienda": "Grid",
-        "nombre": "SHORT ADIDAS PERFORMANCE ADIZERO SPLIT MUJER",
-        "genero": "Mujer",
-        "precio_original": 84999.0,
-        "precio_oferta": 39999.0,
-        "descuento": 52.9,
-        "link": "https://www.grid.com.ar/short-adidas-performance-adizero-split-running-mujer-2665021/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1715332/266-5021_1.jpg?v=638931944724770000",
-        "talles": [
-            "266-5021/L 3*",
-            "266-5021/XL 3"
-        ]
-    },
-    {
-        "id": "48041",
-        "tienda": "Grid",
-        "nombre": "SHORT ADIDAS PERFORMANCE ADIZERO SPLIT HOMBRE",
-        "genero": "Hombre",
-        "precio_original": 84999.0,
-        "precio_oferta": 39999.0,
-        "descuento": 52.9,
-        "link": "https://www.grid.com.ar/short-adidas-performance-adizero-split-running-hombre-2665020/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1715328/266-5020_1.jpg?v=638931955756430000",
-        "talles": [
-            "266-5020/XS *",
-            "266-5020/M  *",
-            "266-5020/L  *",
-            "266-5020/XXL*"
-        ]
-    },
-    {
-        "id": "48025",
-        "tienda": "Grid",
-        "nombre": "BUZO ADIDAS ORIGINALS ESSENTIALS PREMIUM MUJER",
-        "genero": "Mujer",
-        "precio_original": 84999.0,
-        "precio_oferta": 39999.0,
-        "descuento": 52.9,
-        "link": "https://www.grid.com.ar/remera-adidas-originals-essentials-premium-moda-mujer-2665045/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1713608/266-5045_1.jpg?v=639110936683470000",
-        "talles": [
-            "266-5045/XS *"
-        ]
-    },
-    {
-        "id": "47715",
-        "tienda": "Grid",
-        "nombre": "REMERA ADIDAS ORIGINALS HOOP YORK CITY HOMBRE",
-        "genero": "Hombre",
-        "precio_original": 84999.0,
-        "precio_oferta": 39999.0,
-        "descuento": 52.9,
-        "link": "https://www.grid.com.ar/remera-adidas-originals-hoop-york-city-moda-hombre-2664988/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1706131/266-4988_1.jpg?v=638920848219370000",
-        "talles": [
-            "266-4988/S  *"
-        ]
-    },
-    {
-        "id": "46907",
-        "tienda": "Grid",
-        "nombre": "Remera Adidas Originals BUFFY 20TH CENTURY FOX DISNEY MUJER",
-        "genero": "Mujer",
-        "precio_original": 84999.0,
-        "precio_oferta": 39999.0,
-        "descuento": 52.9,
-        "link": "https://www.grid.com.ar/remera-adidas-originals-buffy-20th-century-fox-disney-moda-mujer-2664865/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1685069/266-4865_1.jpg?v=638892979706970000",
-        "talles": [
-            "266-4865/XS *",
-            "266-4865/M  *"
-        ]
-    },
-    {
-        "id": "46895",
-        "tienda": "Grid",
-        "nombre": "Remera Adidas Originals BUFFY 20TH CENTURY FOX DISNEY MUJER",
-        "genero": "Mujer",
-        "precio_original": 84999.0,
-        "precio_oferta": 39999.0,
-        "descuento": 52.9,
-        "link": "https://www.grid.com.ar/remera-adidas-originals-buffy-20th-century-fox-disney-moda-mujer-2664861/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1684916/266-4861_1.jpg?v=638892967294800000",
-        "talles": [
-            "266-4861/XS *",
-            "266-4861/S  *",
-            "266-4861/M  *",
-            "266-4861/L  *"
+            "Color Gris claro - 60X60"
         ]
     },
     {
@@ -4182,7 +4467,7 @@
         "id": "3803",
         "tienda": "Levi's",
         "nombre": "510 Skinny",
-        "genero": "Hombre",
+        "genero": "Unisex",
         "precio_original": 209000.0,
         "precio_oferta": 99000.0,
         "descuento": 52.6,
@@ -4191,7 +4476,6 @@
         "talles": [
             "2830",
             "3030",
-            "3232",
             "3434",
             "3634",
             "3834"
@@ -4201,7 +4485,7 @@
         "id": "4407",
         "tienda": "Levi's",
         "nombre": "510 Skinny Medium Indigo Worn",
-        "genero": "Hombre",
+        "genero": "Unisex",
         "precio_original": 209000.0,
         "precio_oferta": 99000.0,
         "descuento": 52.6,
@@ -4231,67 +4515,17 @@
         ]
     },
     {
-        "id": "43156",
-        "tienda": "Grid",
-        "nombre": "Pollera Adidas Originals ESSENTIALS NIÑOS",
+        "id": "14896",
+        "tienda": "Arredo",
+        "nombre": "Funda de Acolchado Algodón Blend Jirafa Fit",
         "genero": "Unisex",
-        "precio_original": 62999.0,
-        "precio_oferta": 29999.0,
+        "precio_original": 62990.0,
+        "precio_oferta": 29990.0,
         "descuento": 52.4,
-        "link": "https://www.grid.com.ar/pollera-adidas-originals-essentials-moda-ninos-2664318/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1554745/266-4318_1.jpg?v=638780710480370000",
+        "link": "https://www.arredo.com.ar/funda-de-acolchado-algodon-blend-jirafa-fit-220008931/p",
+        "imagen": "https://arredo.vteximg.com.br/arquivos/ids/1464323/22002U08931-KC_0.webp?v=639106693785970000",
         "talles": [
-            "266-4318/7-8Y",
-            "266-4318/8-9Y",
-            "266-4318/910Y",
-            "266-4318/1314"
-        ]
-    },
-    {
-        "id": "43055",
-        "tienda": "Grid",
-        "nombre": "Buzo Adidas Originals TREFOIL CREW NIÑOS",
-        "genero": "Unisex",
-        "precio_original": 62999.0,
-        "precio_oferta": 29999.0,
-        "descuento": 52.4,
-        "link": "https://www.grid.com.ar/buzo-adidas-originals-trefoil-crew-moda-ninos-2664235/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/2601755/266-4235_1.jpg?v=639089388521470000",
-        "talles": [
-            "266-4235/8-9Y",
-            "266-4235/910Y"
-        ]
-    },
-    {
-        "id": "48812",
-        "tienda": "Grid",
-        "nombre": "ZAPATILLAS ADIDAS ORIGINALS GAZELLE INDOOR MUJER",
-        "genero": "Mujer",
-        "precio_original": 209999.0,
-        "precio_oferta": 99999.0,
-        "descuento": 52.4,
-        "link": "https://www.grid.com.ar/zapatillas-adidas-originals-gazelle-indoor-moda-mujer-2680970/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/3247406/268-0970_1.jpg.jpg?v=639173005136900000",
-        "talles": [
-            "268-0970/03 *"
-        ]
-    },
-    {
-        "id": "48431",
-        "tienda": "Grid",
-        "nombre": "ZAPATILLAS ADIDAS ORIGINALS GAZELLE INDOOR MUJER",
-        "genero": "Mujer",
-        "precio_original": 209999.0,
-        "precio_oferta": 99999.0,
-        "descuento": 52.4,
-        "link": "https://www.grid.com.ar/zapatillas-adidas-originals-gazelle-indoor-moda-mujer-2680925/p",
-        "imagen": "https://essential.vteximg.com.br/arquivos/ids/1756791/268-0925_1.jpg?v=638944853424530000",
-        "talles": [
-            "268-0925/03.5",
-            "268-0925/04 *",
-            "268-0925/04.5",
-            "268-0925/06.5",
-            "268-0925/07.5"
+            "Color Crudo - 1PL"
         ]
     },
     {
@@ -4337,17 +4571,20 @@
         ]
     },
     {
-        "id": "758",
-        "tienda": "Asics",
-        "nombre": "Zapatilla Asics Gel-Nagoya St M",
+        "id": "475",
+        "tienda": "Juleriaque",
+        "nombre": "212 MEN",
         "genero": "Unisex",
-        "precio_original": 129900.0,
-        "precio_oferta": 64900.0,
-        "descuento": 50.0,
-        "link": "https://www.asics.com.ar/1201b040-002-zapatilla-asics-gel-nagoya-st-m/p",
-        "imagen": "https://asicsar.vteximg.com.br/arquivos/ids/187592/asics_1201B040002_002_00.jpg?v=638890727510130000",
+        "precio_original": 150000.0,
+        "precio_oferta": 73500.0,
+        "descuento": 51.0,
+        "link": "https://www.juleriaque.com.ar/212-men-edt-2/p",
+        "imagen": "https://juleriaque.vteximg.com.br/arquivos/ids/201296/212-men-edt-4B2BEEEC7D428068DFBB7AC75755EE88.jpg?v=638085413214930000",
         "talles": [
-            "Zapatilla Asics Gel-Nagoya St M - Negro - 44"
+            "212 Men EDT 30 ml",
+            "212 Men EDT 200 ml",
+            "212 Men EDT 50 ml",
+            "212 Men EDT 100 ml"
         ]
     },
     {
@@ -4365,66 +4602,6 @@
         ]
     },
     {
-        "id": "583",
-        "tienda": "Asics",
-        "nombre": "Zapatillas ASICS Gt-2160",
-        "genero": "Unisex",
-        "precio_original": 279900.0,
-        "precio_oferta": 139900.0,
-        "descuento": 50.0,
-        "link": "https://www.asics.com.ar/1203a275-110-zapatillas-asics-gt-2160/p",
-        "imagen": "https://asicsar.vteximg.com.br/arquivos/ids/186040/asics_1203A275110_110_00.jpg.jpg?v=638884453605930000",
-        "talles": [
-            "Zapatillas ASICS Gt-2160 - Blanco - 45"
-        ]
-    },
-    {
-        "id": "880",
-        "tienda": "Asics",
-        "nombre": "Zapatilla Asics Gel Nimbus 27 Tokio W",
-        "genero": "Unisex",
-        "precio_original": 319900.0,
-        "precio_oferta": 159900.0,
-        "descuento": 50.0,
-        "link": "https://www.asics.com.ar/1012b913-500-zapatilla-asics-gel-nimbus-27-tokio-w/p",
-        "imagen": "https://asicsar.vteximg.com.br/arquivos/ids/193759/asics_1012B913500_500_00.jpg?v=638954634265430000",
-        "talles": [
-            "Zapatilla Asics Gel Nimbus 27 Tokio W - Crema - 355"
-        ]
-    },
-    {
-        "id": "864",
-        "tienda": "Asics",
-        "nombre": "Zapatilla Asics Gel-Nimbus 27 W",
-        "genero": "Unisex",
-        "precio_original": 319900.0,
-        "precio_oferta": 159900.0,
-        "descuento": 50.0,
-        "link": "https://www.asics.com.ar/1012b753-701-zapatilla-asics-gel-nimbus-27-w/p",
-        "imagen": "https://asicsar.vteximg.com.br/arquivos/ids/193591/asics_1012B753701_701_00.jpg?v=639105751083070000",
-        "talles": [
-            "Zapatilla Asics Gel-Nimbus 27 W - Rosa - 355"
-        ]
-    },
-    {
-        "id": "828",
-        "tienda": "Asics",
-        "nombre": "Zapatilla Asics Gel Kayano 32 Lite Show W",
-        "genero": "Unisex",
-        "precio_original": 319900.0,
-        "precio_oferta": 159900.0,
-        "descuento": 50.0,
-        "link": "https://www.asics.com.ar/1012b903-400-zapatilla-asics-gel-kayano-32-lite-show-w-1/p",
-        "imagen": "https://asicsar.vteximg.com.br/arquivos/ids/198638/asics_1012B903400_400_00.jpg?v=639051238331330000",
-        "talles": [
-            "Zapatilla Asics Gel Kayano 32 Lite Show W - Azul - 35.5",
-            "Zapatilla Asics Gel Kayano 32 Lite Show W - Azul - 37",
-            "Zapatilla Asics Gel Kayano 32 Lite Show W - Azul - 38",
-            "Zapatilla Asics Gel Kayano 32 Lite Show W - Azul - 385",
-            "Zapatilla Asics Gel Kayano 32 Lite Show W - Azul - 405"
-        ]
-    },
-    {
         "id": "830",
         "tienda": "Asics",
         "nombre": "Zapatilla Asics Gel Kayano 32 Luxe W",
@@ -4439,326 +4616,280 @@
         ]
     },
     {
-        "id": "886797",
-        "tienda": "Onsports",
-        "nombre": "Gorro Piluso Mujer Topper Benito",
-        "genero": "Mujer",
-        "precio_original": 27999.0,
-        "precio_oferta": 13999.0,
-        "descuento": 50.0,
-        "link": "https://www.onsports.com.ar/gorro-piluso-mujer-topper-benito-lifestyle-173088/p",
-        "imagen": "https://celadasa.vteximg.com.br/arquivos/ids/390823/173088-1.jpg?v=638639834260370000",
-        "talles": [
-            "173088 | 0"
-        ]
-    },
-    {
-        "id": "886796",
-        "tienda": "Onsports",
-        "nombre": "Gorro Piluso Mujer Topper Benito",
-        "genero": "Mujer",
-        "precio_original": 27999.0,
-        "precio_oferta": 13999.0,
-        "descuento": 50.0,
-        "link": "https://www.onsports.com.ar/gorro-piluso-mujer-topper-benito-lifestyle-173087/p",
-        "imagen": "https://celadasa.vteximg.com.br/arquivos/ids/390821/173087-1.jpg?v=638639833883630000",
-        "talles": [
-            "173087 | 0"
-        ]
-    },
-    {
-        "id": "889905",
-        "tienda": "Onsports",
-        "nombre": "Canilleras adidas Tiro Sg",
+        "id": "433",
+        "tienda": "Asics",
+        "nombre": "Calza ASICS Road Lite-Show Tight",
         "genero": "Unisex",
-        "precio_original": 39999.0,
-        "precio_oferta": 19999.0,
+        "precio_original": 149900.0,
+        "precio_oferta": 74950.0,
         "descuento": 50.0,
-        "link": "https://www.onsports.com.ar/canilleras-unisex-adidas-tiro-sg-futbol-ip3998-1/p",
-        "imagen": "https://celadasa.vteximg.com.br/arquivos/ids/558812/IP3998-1.jpg?v=638889604785870000",
+        "link": "https://www.asics.com.ar/2011d098-001-calza-asics-road-lite-show-tight/p",
+        "imagen": "https://asicsar.vteximg.com.br/arquivos/ids/163346/asics_2011D098001_001_00.jpg?v=639092733092070000",
         "talles": [
-            "IP3998 | L"
+            "Calza ASICS Road Lite-Show Tight - Negro - L",
+            "Calza ASICS Road Lite-Show Tight - Negro - S",
+            "Calza ASICS Road Lite-Show Tight - Negro - XL",
+            "Calza ASICS Road Lite-Show Tight - Negro - XXL",
+            "Calza ASICS Road Lite-Show Tight - Negro - M"
         ]
     },
     {
-        "id": "891660",
-        "tienda": "Onsports",
-        "nombre": "Riñonera adidas River Plate",
+        "id": "300888",
+        "tienda": "Fila",
+        "nombre": "ZAPATILLA FILA RENNO CLASSIC FEMENINO",
         "genero": "Unisex",
-        "precio_original": 44999.0,
-        "precio_oferta": 22499.0,
+        "precio_original": 89900.0,
+        "precio_oferta": 44950.0,
         "descuento": 50.0,
-        "link": "https://www.onsports.com.ar/bolso-unisex-adidas-river-plate-brossbody-futbol-jw3893-1/p",
-        "imagen": "https://celadasa.vteximg.com.br/arquivos/ids/566294/JW3893-1.jpg?v=638860469147300000",
+        "link": "https://tienda.fila.com.ar/f02l00259-zapatilla-fila-renno-classic-femenino/p",
+        "imagen": "https://filaar.vteximg.com.br/arquivos/ids/6898588/fila_F02L00259_6613_00.jpg?v=638797157328000000",
         "talles": [
-            "JW3893 | 0"
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - BORGONHA/ROSA EMPOEIRADA/BEIGE - 35",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - MARINO/ROXO VIOLETA/GRIS AZUL - 35",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - MARINO/ROXO VIOLETA/GRIS AZUL - 37",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - MARINO/ROXO VIOLETA/GRIS AZUL - 39",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - MARINO/ROXO VIOLETA/GRIS AZUL - 40",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - MARINO/ROXO VIOLETA/GRIS AZUL - 41",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - RAW WHITE/CARAMELO OSCURO - 35",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - RAW WHITE/CARAMELO OSCURO - 36",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - RAW WHITE/CARAMELO OSCURO - 37",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - RAW WHITE/CARAMELO OSCURO - 38",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - RAW WHITE/CARAMELO OSCURO - 39",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - RAW WHITE/CARAMELO OSCURO - 40",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - RAW WHITE/CARAMELO OSCURO - 41",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - PLATA/BLANCO/ROSA - 35",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - PLATA/BLANCO/ROSA - 37",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - PLATA/BLANCO/ROSA - 38",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - PLATA/BLANCO/ROSA - 39",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - PLATA/BLANCO/ROSA - 40",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - PLATA/BLANCO/ROSA - 41",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - MARINO/ROXO VIOLETA/GRIS AZUL - 35",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - MARINO/ROXO VIOLETA/GRIS AZUL - 37",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - MARINO/ROXO VIOLETA/GRIS AZUL - 38",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - MARINO/ROXO VIOLETA/GRIS AZUL - 39",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - MARINO/ROXO VIOLETA/GRIS AZUL - 40",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - MARINO/ROXO VIOLETA/GRIS AZUL - 41",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - ROSE CLARO/ROSE/RAW WHITE - 35",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - ROSE CLARO/ROSE/RAW WHITE - 36",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - ROSE CLARO/ROSE/RAW WHITE - 37",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - ROSE CLARO/ROSE/RAW WHITE - 38",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - ROSE CLARO/ROSE/RAW WHITE - 39",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - ROSE CLARO/ROSE/RAW WHITE - 40",
+            "ZAPATILLA FILA RENNO CLASSIC FEMENINO - ROSE CLARO/ROSE/RAW WHITE - 41"
         ]
     },
     {
-        "id": "889436",
-        "tienda": "Onsports",
-        "nombre": "Guantes Arquero Hombre adidas Copa Club",
+        "id": "300809",
+        "tienda": "Fila",
+        "nombre": "REMERA MUJER FILA ESSENTIAL 1911",
+        "genero": "Mujer",
+        "precio_original": 38900.0,
+        "precio_oferta": 19450.0,
+        "descuento": 50.0,
+        "link": "https://tienda.fila.com.ar/f12tr00004-remera-mujer-fila-essential-1911/p",
+        "imagen": "https://filaar.vteximg.com.br/arquivos/ids/6895596/fila_F12TR00004_6613_00.jpg?v=638767834803030000",
+        "talles": [
+            "REMERA MUJER FILA ESSENTIAL 1911 - GRIS MEDIO/BLANCO MELANGE - L",
+            "REMERA MUJER FILA ESSENTIAL 1911 - NEGRO BLANCO - L",
+            "REMERA MUJER FILA ESSENTIAL 1911 - NEGRO BLANCO - M",
+            "REMERA MUJER FILA ESSENTIAL 1911 - NEGRO BLANCO - S"
+        ]
+    },
+    {
+        "id": "300668",
+        "tienda": "Fila",
+        "nombre": "CAMPERA HOMBRE FILA HERITAGE F-BOX",
         "genero": "Hombre",
-        "precio_original": 49999.0,
-        "precio_oferta": 24999.0,
+        "precio_original": 98900.0,
+        "precio_oferta": 49450.0,
         "descuento": 50.0,
-        "link": "https://www.onsports.com.ar/guantes-de-arquero-hombre-adidas-copa-club-futbol-jh3789-1/p",
-        "imagen": "https://celadasa.vteximg.com.br/arquivos/ids/528556/JH3789-1.jpg?v=638816414722730000",
+        "link": "https://tienda.fila.com.ar/f11l01185-campera-hombre-fila-heritage-f-box/p",
+        "imagen": "https://filaar.vteximg.com.br/arquivos/ids/6890391/F11L01185_185_0.jpg?v=638695229632000000",
         "talles": [
-            "JH3789 | 10",
-            "JH3789 | 9",
-            "JH3789 | 8",
-            "JH3789 | 11"
+            "CAMPERA HOMBRE FILA HERITAGE F-BOX - BLANCO/MARINO - S"
         ]
     },
     {
-        "id": "891113",
-        "tienda": "Onsports",
-        "nombre": "Guantes Arquero Hombre adidas Copa",
-        "genero": "Hombre",
-        "precio_original": 49999.0,
-        "precio_oferta": 24999.0,
-        "descuento": 50.0,
-        "link": "https://www.onsports.com.ar/guantes-hombre-adidas-copa-futbol-jh3790-1/p",
-        "imagen": "https://celadasa.vteximg.com.br/arquivos/ids/548074/JH3790-1.jpg?v=638889608581300000",
-        "talles": [
-            "JH3790 | 7",
-            "JH3790 | 8",
-            "JH3790 | 9",
-            "JH3790 | 10",
-            "JH3790 | 11"
-        ]
-    },
-    {
-        "id": "893356",
-        "tienda": "Onsports",
-        "nombre": "Guantes Arquero Hombre adidas Predator",
-        "genero": "Hombre",
-        "precio_original": 59999.0,
-        "precio_oferta": 29999.0,
-        "descuento": 50.0,
-        "link": "https://www.onsports.com.ar/guantes-de-arquero-hombre-adidas-predator-tr-futbol-jn5356-1/p",
-        "imagen": "https://celadasa.vteximg.com.br/arquivos/ids/608279/JN5356-1.jpg?v=638944837704970000",
-        "talles": [
-            "JN5356 | 10",
-            "JN5356 | 9",
-            "JN5356 | 8",
-            "JN5356 | 12",
-            "JN5356 | 11"
-        ]
-    },
-    {
-        "id": "891351",
-        "tienda": "Onsports",
-        "nombre": "Guantes Arquero Hombre adidas Predator",
-        "genero": "Hombre",
-        "precio_original": 59999.0,
-        "precio_oferta": 29999.0,
-        "descuento": 50.0,
-        "link": "https://www.onsports.com.ar/guantes-de-arquero-hombre-adidas-predator-futbol-jh3806-1/p",
-        "imagen": "https://celadasa.vteximg.com.br/arquivos/ids/628953/JH3806-1.jpg?v=638968390494000000",
-        "talles": [
-            "JH3806 | 10",
-            "JH3806 | 9",
-            "JH3806 | 8",
-            "JH3806 | 7",
-            "JH3806 | 11"
-        ]
-    },
-    {
-        "id": "10199",
-        "tienda": "Nike",
-        "nombre": "Nike \"Justo Do It\"",
+        "id": "300182",
+        "tienda": "Fila",
+        "nombre": "ZAPATILLA FILA ATHLON KIDS",
         "genero": "Unisex",
-        "precio_original": 28999.0,
-        "precio_oferta": 14499.0,
+        "precio_original": 54990.0,
+        "precio_oferta": 27495.0,
         "descuento": 50.0,
-        "link": "https://www.nike.com.ar/nike-justo-do-it-36m174-u90/p",
-        "imagen": "https://nikearprod.vteximg.com.br/arquivos/ids/1291008/36M174-U90-A-1_PREM.jpg?v=638723793267570000",
+        "link": "https://tienda.fila.com.ar/f04k00010-zapatilla-fila-athlon-kids/p",
+        "imagen": "https://filaar.vteximg.com.br/arquivos/ids/6851919/fila_F04K00010_1383_00.jpg?v=638290983810500000",
         "talles": [
-            "Talle:  6X Color: Azul"
+            "ZAPATILLA FILA ATHLON KIDS - GRAFITO/NEGRO/ROJO - 29",
+            "ZAPATILLA FILA ATHLON KIDS - GRAFITO/NEGRO/ROJO - 30",
+            "ZAPATILLA FILA ATHLON KIDS - SALMON/MARINO/BLANCO - 29"
         ]
     },
     {
-        "id": "15442",
-        "tienda": "Nike",
-        "nombre": "Nike Cheetah Crossback",
+        "id": "301112",
+        "tienda": "Fila",
+        "nombre": "POLLERA FEMENINA FILA ESSENTIAL GT",
+        "genero": "Unisex",
+        "precio_original": 32900.0,
+        "precio_oferta": 16450.0,
+        "descuento": 50.0,
+        "link": "https://tienda.fila.com.ar/f12l01970-pollera-femenina-fila-essential-gt/p",
+        "imagen": "https://filaar.vteximg.com.br/arquivos/ids/6923128/fila_F12L01970_3750_00.jpg?v=638984908244500000",
+        "talles": [
+            "POLLERA FEMENINA FILA ESSENTIAL GT - OCRE ROJO/CREMA - L"
+        ]
+    },
+    {
+        "id": "300885",
+        "tienda": "Fila",
+        "nombre": "ZAPATILLA FILA VENTURE TRACER 2 FEMENINO",
+        "genero": "Unisex",
+        "precio_original": 84900.0,
+        "precio_oferta": 42450.0,
+        "descuento": 50.0,
+        "link": "https://tienda.fila.com.ar/f02l00363-zapatilla-fila-venture-tracer-2-femenino/p",
+        "imagen": "https://filaar.vteximg.com.br/arquivos/ids/6898716/fila_F02L00363_6805_00.jpg?v=638797157764230000",
+        "talles": [
+            "ZAPATILLA FILA VENTURE TRACER 2 FEMENINO - NEGRO/FUNGI/GRIS - 40"
+        ]
+    },
+    {
+        "id": "300751",
+        "tienda": "Fila",
+        "nombre": "BUZO CANGURO HOMBRE FILA HOODIE ESSENTIAL",
+        "genero": "Hombre",
+        "precio_original": 98900.0,
+        "precio_oferta": 49450.0,
+        "descuento": 50.0,
+        "link": "https://tienda.fila.com.ar/f11ht00410-buzo-canguro-hombre-fila-hoodie-essential/p",
+        "imagen": "https://filaar.vteximg.com.br/arquivos/ids/6893957/fila_F11HT00410_160_00.jpg?v=638744504009930000",
+        "talles": [
+            "BUZO CANGURO HOMBRE FILA HOODIE ESSENTIAL - ARENA - L"
+        ]
+    },
+    {
+        "id": "300695",
+        "tienda": "Fila",
+        "nombre": "SHORTS HOMBRE FILA MATCH - 7",
+        "genero": "Hombre",
+        "precio_original": 55900.0,
+        "precio_oferta": 27950.0,
+        "descuento": 50.0,
+        "link": "https://tienda.fila.com.ar/f11tn00861-shorts-hombre-fila-match-7/p",
+        "imagen": "https://filaar.vteximg.com.br/arquivos/ids/6891284/fila_F11TN00861_3591_00.jpg?v=638736655796070000",
+        "talles": [
+            "SHORTS HOMBRE FILA MATCH - 7 - BLANCO GARDENIA/BOSQUE VERDE - S",
+            "SHORTS HOMBRE FILA MATCH - 7 - MARINO/AZUL CARBONO - S",
+            "SHORTS MASCULINO FILA MATCH - 7 - NEGRO/NEGRO - S"
+        ]
+    },
+    {
+        "id": "300511",
+        "tienda": "Fila",
+        "nombre": "CAMPERA DE ROMPEVIENTO MUJER FILA BLOCK",
         "genero": "Mujer",
-        "precio_original": 79999.0,
-        "precio_oferta": 39999.0,
+        "precio_original": 89000.0,
+        "precio_oferta": 44500.0,
         "descuento": 50.0,
-        "link": "https://www.nike.com.ar/nike-cheetah-crossback-nessc764-684/p",
-        "imagen": "https://nikearprod.vteximg.com.br/arquivos/ids/1718310/NESSC764-684_01.jpg?v=639086735637000000",
+        "link": "https://tienda.fila.com.ar/f12r00225-campera-de-rompeviento-mujer-fila-block/p",
+        "imagen": "https://filaar.vteximg.com.br/arquivos/ids/6878982/fila_F12R00225_160_01.jpg?v=638582006178700000",
         "talles": [
-            "Talle: XS Color: Rosa"
+            "CAMPERA DE ROMPEVIENTO MUJER FILA BLOCK - NEGRO - S",
+            "CAMPERA DE ROMPEVIENTO MUJER FILA BLOCK - NEGRO - M",
+            "CAMPERA DE ROMPEVIENTO MUJER FILA BLOCK - NEGRO - L",
+            "CAMPERA DE ROMPEVIENTO MUJER FILA BLOCK - NEGRO - XL"
         ]
     },
     {
-        "id": "9689",
-        "tienda": "Nike",
-        "nombre": "Nike Swim One Piece",
-        "genero": "Mujer",
-        "precio_original": 94999.0,
-        "precio_oferta": 47499.0,
+        "id": "301158",
+        "tienda": "Fila",
+        "nombre": "SHORTS FEMENINO FILA HERITAGE F-BOX",
+        "genero": "Unisex",
+        "precio_original": 45900.0,
+        "precio_oferta": 22950.0,
         "descuento": 50.0,
-        "link": "https://www.nike.com.ar/nike-swim-one-pice-ness8370-001/p",
-        "imagen": "https://nikearprod.vteximg.com.br/arquivos/ids/1264336/NESS8370-001---1.jpg?v=638980545857100000",
+        "link": "https://tienda.fila.com.ar/f12l01251-shorts-femenino-fila-heritage-f-box/p",
+        "imagen": "https://filaar.vteximg.com.br/arquivos/ids/6924636/fila_F12L01251_160_00.jpg?v=639009752858170000",
         "talles": [
-            "Talle: 34 Color: Negro",
-            "Talle: 30 Color: Negro"
+            "SHORTS FEMENINO FILA HERITAGE F-BOX - NEGRO - S"
         ]
     },
     {
-        "id": "13374",
-        "tienda": "Nike",
-        "nombre": "Nike Form",
+        "id": "300936",
+        "tienda": "Fila",
+        "nombre": "CAMPERA UNISEX FILA BOMBER COMFORT MOTOR SPORT",
+        "genero": "Unisex",
+        "precio_original": 159900.0,
+        "precio_oferta": 79950.0,
+        "descuento": 50.0,
+        "link": "https://tienda.fila.com.ar/f13l01774-campera-unisex-fila-bomber-comfort-motor-sport/p",
+        "imagen": "https://filaar.vteximg.com.br/arquivos/ids/6905254/fila_F13L01774_1690_03-.jpg?v=638845563604300000",
+        "talles": [
+            "CAMPERA UNISEX FILA BOMBER COMFORT MOTOR SPORT - CHILE ROJO - S"
+        ]
+    },
+    {
+        "id": "895269",
+        "tienda": "Onsports",
+        "nombre": "Short Hombre Puma Run Velocity 2in1",
         "genero": "Hombre",
-        "precio_original": 97999.0,
-        "precio_oferta": 48999.0,
+        "precio_original": 99999.0,
+        "precio_oferta": 49999.0,
         "descuento": 50.0,
-        "link": "https://www.nike.com.ar/nike-form-hv0431-060/p",
-        "imagen": "https://nikearprod.vteximg.com.br/arquivos/ids/1564678/HV0431-060_A_1_PREM.jpg?v=638913971683000000",
+        "link": "https://www.onsports.com.ar/short-hombre-puma-run-velocity-2in1-running-52661101-1/p",
+        "imagen": "https://celadasa.vteximg.com.br/arquivos/ids/659851/526611-01-1.jpg?v=639065919400400000",
         "talles": [
-            "Talle: S Color: Gris"
+            "526611-01 | XL",
+            "526611-01 | L",
+            "526611-01 | M",
+            "526611-01 | S"
         ]
     },
     {
-        "id": "5746",
-        "tienda": "Nike",
-        "nombre": "Nike Revolution 7",
+        "id": "896354",
+        "tienda": "Onsports",
+        "nombre": "Camiseta Hombre Puma Independiente 2026",
         "genero": "Hombre",
-        "precio_original": 119999.0,
-        "precio_oferta": 59999.0,
-        "descuento": 50.0,
-        "link": "https://www.nike.com.ar/nike-revolution-7-fb2207-001/p",
-        "imagen": "https://nikearprod.vteximg.com.br/arquivos/ids/810489/FB2207_001_A_PREM.jpg?v=638382429158400000",
-        "talles": [
-            "Talle: 6 Color: Negro"
-        ]
-    },
-    {
-        "id": "12605",
-        "tienda": "Nike",
-        "nombre": "Nike Stride",
-        "genero": "Hombre",
-        "precio_original": 119999.0,
-        "precio_oferta": 59999.0,
-        "descuento": 50.0,
-        "link": "https://www.nike.com.ar/nike-stride-dm4761-499/p",
-        "imagen": "https://nikearprod.vteximg.com.br/arquivos/ids/1519502/DM4761-499_A_1_PREM.jpg?v=638861385537930000",
-        "talles": [
-            "Talle: S Color: Azul"
-        ]
-    },
-    {
-        "id": "7712",
-        "tienda": "Nike",
-        "nombre": "Nike Club",
-        "genero": "Hombre",
-        "precio_original": 129999.0,
-        "precio_oferta": 64999.0,
-        "descuento": 50.0,
-        "link": "https://www.nike.com.ar/nike-club-fz5772-410/p",
-        "imagen": "https://nikearprod.vteximg.com.br/arquivos/ids/1077227/FZ5772_410_A_PREM.jpg?v=638623403775870000",
-        "talles": [
-            "Talle: 34 Color: Azul"
-        ]
-    },
-    {
-        "id": "7220",
-        "tienda": "Nike",
-        "nombre": "Nike Downshifter 13",
-        "genero": "Mujer",
         "precio_original": 149999.0,
         "precio_oferta": 74999.0,
         "descuento": 50.0,
-        "link": "https://www.nike.com.ar/nike-downshifter-13-fd6476-005/p",
-        "imagen": "https://nikearprod.vteximg.com.br/arquivos/ids/995067/FD6476-005_A_PREM.jpg?v=638556537589430000",
+        "link": "https://www.onsports.com.ar/camiseta-hombre-puma-independiente-2026-futbol-71437601/p",
+        "imagen": "https://celadasa.vteximg.com.br/arquivos/ids/696052/714376-01-1.jpg.jpg?v=639136224575400000",
         "talles": [
-            "Talle: 5 Color: Gris"
+            "714376-01 | XXL",
+            "714376-01 | XL",
+            "714376-01 | S",
+            "714376-01 | M"
         ]
     },
     {
-        "id": "7239",
-        "tienda": "47 Street",
-        "nombre": "CHALECO NOAH",
+        "id": "2588",
+        "tienda": "Levi's",
+        "nombre": "Curved Structured Visor Trucker - Poster Logo",
         "genero": "Unisex",
-        "precio_original": 99999.0,
-        "precio_oferta": 49999.0,
+        "precio_original": 52000.0,
+        "precio_oferta": 26000.0,
         "descuento": 50.0,
-        "link": "https://www.47street.com.ar/361090919-chaleco-noah/p",
-        "imagen": "https://street47.vteximg.com.br/arquivos/ids/328583/CHALECO-NOAH14996.jpg?v=639137664743630000",
+        "link": "https://www.levi.com.ar/curved-structured-visor-trucker---poster-logo-8751601560/p",
+        "imagen": "https://levisarg.vteximg.com.br/arquivos/ids/680744/272_641870f1d07d7.jpg?v=639186139444030000",
         "talles": [
-            "COLOR: NEGRO - TALLE: 00",
-            "COLOR: NEGRO - TALLE: 01"
+            "U"
         ]
     },
     {
-        "id": "7237",
-        "tienda": "47 Street",
-        "nombre": "BUZO GRIZZLY",
+        "id": "5605",
+        "tienda": "Levi's",
+        "nombre": "501 Original Short Disco",
         "genero": "Unisex",
-        "precio_original": 99999.0,
-        "precio_oferta": 49999.0,
+        "precio_original": 169000.0,
+        "precio_oferta": 84500.0,
         "descuento": 50.0,
-        "link": "https://www.47street.com.ar/36i1071053-buzo-grizzly/p",
-        "imagen": "https://street47.vteximg.com.br/arquivos/ids/326354/BUZO-GRIZZLY15274.jpg?v=639125694450000000",
+        "link": "https://www.levi.com.ar/501-original-short-disco-5632704730/p",
+        "imagen": "https://levisarg.vteximg.com.br/arquivos/ids/905403/WB_56327-0473_GLO_CM_FV_UR.jpg?v=638962335190370000",
         "talles": [
-            "COLOR: GRIS - TALLE: 00",
-            "COLOR: GRIS - TALLE: 01",
-            "COLOR: GRIS - TALLE: 02",
-            "COLOR: GRIS - TALLE: 03",
-            "COLOR: NEGRO - TALLE: 00",
-            "COLOR: NEGRO - TALLE: 01",
-            "COLOR: NEGRO - TALLE: 03",
-            "COLOR: AZUL - TALLE: 00",
-            "COLOR: AZUL - TALLE: 01",
-            "COLOR: AZUL - TALLE: 02",
-            "COLOR: AZUL - TALLE: 03"
-        ]
-    },
-    {
-        "id": "5622",
-        "tienda": "47 Street",
-        "nombre": "CAMPERA MERAKI",
-        "genero": "Unisex",
-        "precio_original": 199999.0,
-        "precio_oferta": 99999.0,
-        "descuento": 50.0,
-        "link": "https://www.47street.com.ar/38i1132511-campera-meraki/p",
-        "imagen": "https://street47.vteximg.com.br/arquivos/ids/328847/campera-meraki---sweater-jenn6941.jpg?v=639144970313370000",
-        "talles": [
-            "COLOR: GRIS - TALLE: 00",
-            "COLOR: GRIS - TALLE: 01",
-            "COLOR: GRIS - TALLE: 02",
-            "COLOR: NEGRO - TALLE: 00",
-            "COLOR: NEGRO - TALLE: 01",
-            "COLOR: NEGRO - TALLE: 03",
-            "COLOR: BEIGE - TALLE: 00",
-            "COLOR: BEIGE - TALLE: 01",
-            "COLOR: BEIGE - TALLE: 02",
-            "COLOR: BEIGE - TALLE: 03",
-            "COLOR: ROSA - TALLE: 00",
-            "COLOR: ROSA - TALLE: 01",
-            "COLOR: ROSA - TALLE: 02"
-        ]
-    },
-    {
-        "id": "27989",
-        "tienda": "XLShop",
-        "nombre": "PARADISE BOTA DE LLUVIA ALTA",
-        "genero": "Unisex",
-        "precio_original": 125900.0,
-        "precio_oferta": 62900.0,
-        "descuento": 50.0,
-        "link": "https://www.xlshop.com.ar/calzado-xv5wzh03z1301-paradise-bota-alta-1/p",
-        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/230614/XV5WZH03Z1301.jpg?v=638862897259030000",
-        "talles": [
-            "NEGRO",
-            "NEGRO",
-            "NEGRO",
-            "NEGRO",
-            "NEGRO"
+            "24",
+            "26",
+            "32"
         ]
     },
     {
@@ -4781,6 +4912,108 @@
         ]
     },
     {
+        "id": "27989",
+        "tienda": "XLShop",
+        "nombre": "PARADISE BOTA DE LLUVIA ALTA",
+        "genero": "Unisex",
+        "precio_original": 125900.0,
+        "precio_oferta": 62900.0,
+        "descuento": 50.0,
+        "link": "https://www.xlshop.com.ar/calzado-xv5wzh03z1301-paradise-bota-alta-1/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/230614/XV5WZH03Z1301.jpg?v=638862897259030000",
+        "talles": [
+            "NEGRO",
+            "NEGRO",
+            "NEGRO",
+            "NEGRO",
+            "NEGRO",
+            "NEGRO"
+        ]
+    },
+    {
+        "id": "27987",
+        "tienda": "XLShop",
+        "nombre": "EVERMORE BORCEGO DE LLUVIA",
+        "genero": "Unisex",
+        "precio_original": 115000.0,
+        "precio_oferta": 57500.0,
+        "descuento": 50.0,
+        "link": "https://www.xlshop.com.ar/calzado-xv5wzh02z1101-evermore-borcego/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/230660/XV5WZH02Z1101.jpg?v=638862900636230000",
+        "talles": [
+            "NEGRO",
+            "NEGRO",
+            "NEGRO"
+        ]
+    },
+    {
+        "id": "27988",
+        "tienda": "XLShop",
+        "nombre": "EVERMORE BORCEGO DE LLUVIA",
+        "genero": "Unisex",
+        "precio_original": 115000.0,
+        "precio_oferta": 57500.0,
+        "descuento": 50.0,
+        "link": "https://www.xlshop.com.ar/calzado-xv5wzh02z1107-evermore-borcego/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/230636/XV5WZH02Z1107.jpg?v=638862899357170000",
+        "talles": [
+            "VERDE",
+            "VERDE",
+            "VERDE",
+            "VERDE",
+            "VERDE"
+        ]
+    },
+    {
+        "id": "27986",
+        "tienda": "XLShop",
+        "nombre": "IVY BOTA DE LLUVIA BAJA",
+        "genero": "Unisex",
+        "precio_original": 104900.0,
+        "precio_oferta": 52500.0,
+        "descuento": 50.0,
+        "link": "https://www.xlshop.com.ar/calzado-xv5wzh01z1381-ivy-bota-baja/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/230678/XV5WZH01Z1381.jpg?v=638862902832300000",
+        "talles": [
+            "ICE",
+            "ICE",
+            "ICE",
+            "ICE",
+            "ICE"
+        ]
+    },
+    {
+        "id": "27984",
+        "tienda": "XLShop",
+        "nombre": "IVY BOTA DE LLUVIA BAJA",
+        "genero": "Unisex",
+        "precio_original": 104900.0,
+        "precio_oferta": 52500.0,
+        "descuento": 50.0,
+        "link": "https://www.xlshop.com.ar/calzado-xv5wzh01z1301-ivy-bota-baja/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/230572/XV5WZH01Z1301.jpg?v=638862888582100000",
+        "talles": [
+            "NEGRO",
+            "NEGRO"
+        ]
+    },
+    {
+        "id": "27985",
+        "tienda": "XLShop",
+        "nombre": "IVY BOTA DE LLUVIA BAJA",
+        "genero": "Unisex",
+        "precio_original": 104900.0,
+        "precio_oferta": 52500.0,
+        "descuento": 50.0,
+        "link": "https://www.xlshop.com.ar/calzado-xv5wzh01z1307-ivy-bota-baja/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/230731/XV5WZH01Z1307.jpg?v=638862964201300000",
+        "talles": [
+            "VERDE",
+            "VERDE",
+            "VERDE"
+        ]
+    },
+    {
         "id": "4520",
         "tienda": "Cetrogar",
         "nombre": "Ventilador de Techo Codini VI42B 42\" Aspas Retráctiles Blanco",
@@ -4795,6 +5028,34 @@
         ]
     },
     {
+        "id": "2369",
+        "tienda": "Sony",
+        "nombre": "INZONE Mat-D | Mousepad para juegos",
+        "genero": "Unisex",
+        "precio_original": 199999.0,
+        "precio_oferta": 99999.5,
+        "descuento": 50.0,
+        "link": "https://store.sony.com.ar/mpd-d700/p",
+        "imagen": "https://arsonyb2c.vteximg.com.br/arquivos/ids/368658/GENBA_MAT-D_01_MainImage_SSO_1000x1000px.jpg?v=638913534890200000",
+        "talles": [
+            "| MPD-D700/ZQ UC"
+        ]
+    },
+    {
+        "id": "2367",
+        "tienda": "Sony",
+        "nombre": "INZONE Mat-F | Mousepad para juegos",
+        "genero": "Unisex",
+        "precio_original": 299999.0,
+        "precio_oferta": 149999.5,
+        "descuento": 50.0,
+        "link": "https://store.sony.com.ar/mpd-f900/p",
+        "imagen": "https://arsonyb2c.vteximg.com.br/arquivos/ids/368678/GENBA_MAT-F_01_MainImage_SSO_1000x1000px.jpg?v=638913542518430000",
+        "talles": [
+            "| MPD-F900/BQ UC"
+        ]
+    },
+    {
         "id": "15192",
         "tienda": "Arredo",
         "nombre": "Almohadón Rectangular Tejido Suave",
@@ -4805,7 +5066,6 @@
         "link": "https://www.arredo.com.ar/almohadon-rectangular-tejido-suave-431307131/p",
         "imagen": "https://arredo.vteximg.com.br/arquivos/ids/1476949/43131F07131-H_0.webp?v=639142721526170000",
         "talles": [
-            "Color Blanco - 40X60",
             "Color Rosa - 40X60"
         ]
     },
@@ -4838,10 +5098,165 @@
         ]
     },
     {
+        "id": "15206",
+        "tienda": "Arredo",
+        "nombre": "Funda de Almohadón Disney Stars Princess",
+        "genero": "Unisex",
+        "precio_original": 29990.0,
+        "precio_oferta": 14990.0,
+        "descuento": 50.0,
+        "link": "https://www.arredo.com.ar/funda-de-almohadon-disney-stars-princess-400007989/p",
+        "imagen": "https://arredo.vteximg.com.br/arquivos/ids/1489292/40001C07989-GC_0.webp?v=639185067643700000",
+        "talles": [
+            "Color Gris claro - 45X45"
+        ]
+    },
+    {
+        "id": "14934",
+        "tienda": "Arredo",
+        "nombre": "Porta Maceta Textura Trama",
+        "genero": "Unisex",
+        "precio_original": 19990.0,
+        "precio_oferta": 9999.0,
+        "descuento": 50.0,
+        "link": "https://www.arredo.com.ar/porta-maceta-textura-trama-850661365/p",
+        "imagen": "https://arredo.vteximg.com.br/arquivos/ids/1440144/85061U61365-H_2.jpg?v=639100068694930000",
+        "talles": [
+            "Color Blanco - TALLE CHICO"
+        ]
+    },
+    {
+        "id": "17242",
+        "tienda": "Juleriaque",
+        "nombre": "Y MEN ICED COLOGNE INTENSE",
+        "genero": "Unisex",
+        "precio_original": 398000.0,
+        "precio_oferta": 199000.0,
+        "descuento": 50.0,
+        "link": "https://www.juleriaque.com.ar/y-men-iced-cologne-edt-intense-905304/p",
+        "imagen": "https://juleriaque.vteximg.com.br/arquivos/ids/276804/1009741.jpg?v=639135082257370000",
+        "talles": [
+            "Y Men Iced Cologne EDT Intense 100 ml"
+        ]
+    },
+    {
+        "id": "15840",
+        "tienda": "Juleriaque",
+        "nombre": "HUGO KRINK EDP Ed. Limitada",
+        "genero": "Unisex",
+        "precio_original": 220678.0,
+        "precio_oferta": 110339.0,
+        "descuento": 50.0,
+        "link": "https://www.juleriaque.com.ar/hugo-krink-edp-1009645905166/p",
+        "imagen": "https://juleriaque.vteximg.com.br/arquivos/ids/277152/1009645.jpg?v=639139511028530000",
+        "talles": [
+            "Hugo Krink EDP 125 ml"
+        ]
+    },
+    {
+        "id": "14983",
+        "tienda": "Juleriaque",
+        "nombre": "CK ONE ESSENCE VIVA LOVE EDP Ed. Limitada",
+        "genero": "Unisex",
+        "precio_original": 200675.0,
+        "precio_oferta": 100337.5,
+        "descuento": 50.0,
+        "link": "https://www.juleriaque.com.ar/ck-one-essence-viva-love-edp-1009435904512/p",
+        "imagen": "https://juleriaque.vteximg.com.br/arquivos/ids/269216/1009435.jpg?v=639017683717630000",
+        "talles": [
+            "CK One Essence Viva Love EDP 100 ml"
+        ]
+    },
+    {
+        "id": "14356",
+        "tienda": "Juleriaque",
+        "nombre": "CK DEFY PARFUM",
+        "genero": "Unisex",
+        "precio_original": 300000.0,
+        "precio_oferta": 150000.0,
+        "descuento": 50.0,
+        "link": "https://www.juleriaque.com.ar/ck-defy-parfum-904162/p",
+        "imagen": "https://juleriaque.vteximg.com.br/arquivos/ids/265557/1008958.jpg?v=638968447586730000",
+        "talles": [
+            "CK Defy Parfum 200 ml"
+        ]
+    },
+    {
+        "id": "1704",
+        "tienda": "Juleriaque",
+        "nombre": "Fuel for Life EDT",
+        "genero": "Unisex",
+        "precio_original": 133500.0,
+        "precio_oferta": 66750.0,
+        "descuento": 50.0,
+        "link": "https://www.juleriaque.com.ar/fuel-for-life-edt-78752/p",
+        "imagen": "https://juleriaque.vteximg.com.br/arquivos/ids/202931/fuel-for-life-edt-8267A4E99623D384543F5773E17A6210.jpg?v=638990643887870000",
+        "talles": [
+            "Fuel for Life EDT 125 ml"
+        ]
+    },
+    {
+        "id": "1494",
+        "tienda": "Juleriaque",
+        "nombre": "Dune Pour Homme",
+        "genero": "Unisex",
+        "precio_original": 250600.0,
+        "precio_oferta": 125300.0,
+        "descuento": 50.0,
+        "link": "https://www.juleriaque.com.ar/dune-pour-homme-edt-73461/p",
+        "imagen": "https://juleriaque.vteximg.com.br/arquivos/ids/202668/dune-pour-homme-edt-4E5689C3B84F8B4729F58E163B6B0351.jpg?v=638991625637630000",
+        "talles": [
+            "Dune Pour Homme EDT 100 ml HS21"
+        ]
+    },
+    {
+        "id": "1277",
+        "tienda": "Juleriaque",
+        "nombre": "Only The Brave EDT",
+        "genero": "Unisex",
+        "precio_original": 161000.0,
+        "precio_oferta": 80500.0,
+        "descuento": 50.0,
+        "link": "https://www.juleriaque.com.ar/only-the-brave-edt-67721/p",
+        "imagen": "https://juleriaque.vteximg.com.br/arquivos/ids/202389/only-the-brave-edt-C3F39E06D9B78BDF606C17B7CB94E0BC.jpg?v=638991573746970000",
+        "talles": [
+            "Only The Brave EDT 125 ml",
+            "Only The Brave EDT 35 ml"
+        ]
+    },
+    {
+        "id": "1257",
+        "tienda": "Juleriaque",
+        "nombre": "Blue Jeans EDT",
+        "genero": "Unisex",
+        "precio_original": 159980.0,
+        "precio_oferta": 79990.0,
+        "descuento": 50.0,
+        "link": "https://www.juleriaque.com.ar/blue-jeans-edt-67715/p",
+        "imagen": "https://juleriaque.vteximg.com.br/arquivos/ids/283269/blue-jeans-edt-2C1DFFC1A16BDA13968182A72B0C0B00.jpg?v=639185921532130000",
+        "talles": [
+            "Blue Jeans EDT 75 ml"
+        ]
+    },
+    {
+        "id": "11398",
+        "tienda": "Juleriaque",
+        "nombre": "DRAKKAR BLEU EDP",
+        "genero": "Unisex",
+        "precio_original": 83599.0,
+        "precio_oferta": 41799.5,
+        "descuento": 50.0,
+        "link": "https://www.juleriaque.com.ar/drakkar-bleu-edp-902534/p",
+        "imagen": "https://juleriaque.vteximg.com.br/arquivos/ids/261998/1006972.jpg?v=638926968477170000",
+        "talles": [
+            "Drakkar Bleu EDP 100 ml"
+        ]
+    },
+    {
         "id": "31101",
         "tienda": "Perfumería Pigmento",
         "nombre": "Hot Water EDT",
-        "genero": "Hombre",
+        "genero": "Unisex",
         "precio_original": 163333.0,
         "precio_oferta": 81666.0,
         "descuento": 50.0,
@@ -4849,6 +5264,1329 @@
         "imagen": "https://perfugroupar.vteximg.com.br/arquivos/ids/244172/hot-water-davidoff-edt-spray-37-oz-m-3607344163773_2.jpg.jpg?v=639142907569970000",
         "talles": [
             "110 Ml"
+        ]
+    },
+    {
+        "id": "30434",
+        "tienda": "Perfumería Pigmento",
+        "nombre": "Aceite Hidratante Para Labios Nectar Lip Oil",
+        "genero": "Unisex",
+        "precio_original": 20000.0,
+        "precio_oferta": 10000.0,
+        "descuento": 50.0,
+        "link": "https://www.perfumeriaspigmento.com.ar/cher-aceite-hidratante-para-labios-nectar-lip-oil/p",
+        "imagen": "https://perfugroupar.vteximg.com.br/arquivos/ids/213612/7798422002292_1.jpg?v=638696136544100000",
+        "talles": [
+            "1 Off White",
+            "2 Cinnamon"
+        ]
+    },
+    {
+        "id": "29967",
+        "tienda": "Perfumería Pigmento",
+        "nombre": "Crema Corporal Floral",
+        "genero": "Unisex",
+        "precio_original": 11000.0,
+        "precio_oferta": 5500.0,
+        "descuento": 50.0,
+        "link": "https://www.perfumeriaspigmento.com.ar/laboratorios-ferrini-crema-corporal-floral/p",
+        "imagen": "https://perfugroupar.vteximg.com.br/arquivos/ids/210532/7790299003716.png?v=638627922630130000",
+        "talles": [
+            "300 Ml"
+        ]
+    },
+    {
+        "id": "26838",
+        "tienda": "Perfumería Pigmento",
+        "nombre": "Crema Analgésica Efecto Frío  Calor",
+        "genero": "Unisex",
+        "precio_original": 21300.0,
+        "precio_oferta": 10650.0,
+        "descuento": 50.0,
+        "link": "https://www.perfumeriaspigmento.com.ar/crema-analgesica-efecto-frio-calor/p",
+        "imagen": "https://perfugroupar.vteximg.com.br/arquivos/ids/185100/7796285289133.jpg?v=638126926902300000",
+        "talles": [
+            "150 Gr"
+        ]
+    },
+    {
+        "id": "21359",
+        "tienda": "Perfumería Pigmento",
+        "nombre": "Funny EDT",
+        "genero": "Unisex",
+        "precio_original": 178000.0,
+        "precio_oferta": 89000.0,
+        "descuento": 50.0,
+        "link": "https://www.perfumeriaspigmento.com.ar/funny-edt/p",
+        "imagen": "https://perfugroupar.vteximg.com.br/arquivos/ids/196187/8011003991617.jpg?v=638355913190600000",
+        "talles": [
+            "100 Ml"
+        ]
+    },
+    {
+        "id": "21407",
+        "tienda": "Perfumería Pigmento",
+        "nombre": "Blue Jeans EDT",
+        "genero": "Unisex",
+        "precio_original": 159980.0,
+        "precio_oferta": 79990.0,
+        "descuento": 50.0,
+        "link": "https://www.perfumeriaspigmento.com.ar/blue-jeans-edt/p",
+        "imagen": "https://perfugroupar.vteximg.com.br/arquivos/ids/181187/Foto-Web-7-.jpg?v=638035027643970000",
+        "talles": [
+            "75 Ml"
+        ]
+    },
+    {
+        "id": "28685",
+        "tienda": "Perfumería Pigmento",
+        "nombre": "Azzaro Sport EDT",
+        "genero": "Unisex",
+        "precio_original": 222000.0,
+        "precio_oferta": 111000.0,
+        "descuento": 50.0,
+        "link": "https://www.perfumeriaspigmento.com.ar/azzaro-azzaro-sport-edt/p",
+        "imagen": "https://perfugroupar.vteximg.com.br/arquivos/ids/239930/3351500017997.jpg?v=639114284649800000",
+        "talles": [
+            "100 Ml"
+        ]
+    },
+    {
+        "id": "29961",
+        "tienda": "Perfumería Pigmento",
+        "nombre": "Crema Sapolán Aloe Vera",
+        "genero": "Unisex",
+        "precio_original": 12500.0,
+        "precio_oferta": 6250.0,
+        "descuento": 50.0,
+        "link": "https://www.perfumeriaspigmento.com.ar/laboratorios-ferrini-crema-sapolan-aloe-vera/p",
+        "imagen": "https://perfugroupar.vteximg.com.br/arquivos/ids/210562/7790299003655.png?v=638627940012630000",
+        "talles": [
+            "200 Ml"
+        ]
+    },
+    {
+        "id": "31100",
+        "tienda": "Perfumería Pigmento",
+        "nombre": "Defy Men EDP",
+        "genero": "Unisex",
+        "precio_original": 375000.0,
+        "precio_oferta": 187500.0,
+        "descuento": 50.0,
+        "link": "https://www.perfumeriaspigmento.com.ar/calvin-klein-defy-men-edp/p",
+        "imagen": "https://perfugroupar.vteximg.com.br/arquivos/ids/219995/182425-800-auto.webp.webp?v=638822240494530000",
+        "talles": [
+            "200 Ml"
+        ]
+    },
+    {
+        "id": "29988",
+        "tienda": "Perfumería Pigmento",
+        "nombre": "Crema Sapolán Light",
+        "genero": "Unisex",
+        "precio_original": 11250.0,
+        "precio_oferta": 5625.0,
+        "descuento": 50.0,
+        "link": "https://www.perfumeriaspigmento.com.ar/laboratorios-ferrini-crema-sapolan-light/p",
+        "imagen": "https://perfugroupar.vteximg.com.br/arquivos/ids/210572/7790299003662.png?v=638627948123400000",
+        "talles": [
+            "200 Ml"
+        ]
+    },
+    {
+        "id": "29960",
+        "tienda": "Perfumería Pigmento",
+        "nombre": "Crema Sapolán Tradicional",
+        "genero": "Unisex",
+        "precio_original": 12500.0,
+        "precio_oferta": 6250.0,
+        "descuento": 50.0,
+        "link": "https://www.perfumeriaspigmento.com.ar/laboratorios-ferrini-crema-sapolan-tradicional/p",
+        "imagen": "https://perfugroupar.vteximg.com.br/arquivos/ids/210567/7790299003648.png?v=638627944202370000",
+        "talles": [
+            "200 Ml"
+        ]
+    },
+    {
+        "id": "28253",
+        "tienda": "Perfumería Pigmento",
+        "nombre": "Rumba Fever EDT",
+        "genero": "Unisex",
+        "precio_original": 181800.0,
+        "precio_oferta": 90900.0,
+        "descuento": 50.0,
+        "link": "https://www.perfumeriaspigmento.com.ar/ted-lapidus-rumba-fever-edt/p",
+        "imagen": "https://perfugroupar.vteximg.com.br/arquivos/ids/195870/3355992009461.jpg?v=638348920272130000",
+        "talles": [
+            "100 Ml"
+        ]
+    },
+    {
+        "id": "26506",
+        "tienda": "Perfumería Pigmento",
+        "nombre": "Orissima EDP",
+        "genero": "Unisex",
+        "precio_original": 112980.0,
+        "precio_oferta": 56490.0,
+        "descuento": 50.0,
+        "link": "https://www.perfumeriaspigmento.com.ar/orissima-edp-tl/p",
+        "imagen": "https://perfugroupar.vteximg.com.br/arquivos/ids/188079/3355992007917.jpg?v=638201112517000000",
+        "talles": [
+            "30 Ml"
+        ]
+    },
+    {
+        "id": "21391",
+        "tienda": "Perfumería Pigmento",
+        "nombre": "Red Jeans EDT",
+        "genero": "Unisex",
+        "precio_original": 159980.0,
+        "precio_oferta": 79990.0,
+        "descuento": 50.0,
+        "link": "https://www.perfumeriaspigmento.com.ar/red-jeans-edt/p",
+        "imagen": "https://perfugroupar.vteximg.com.br/arquivos/ids/159896/8018365270756_1.jpg?v=637686087781100000",
+        "talles": [
+            "75 Ml"
+        ]
+    },
+    {
+        "id": "630",
+        "tienda": "Asics",
+        "nombre": "Zapatilla ASICS Gel-Peake 2",
+        "genero": "Unisex",
+        "precio_original": 214900.0,
+        "precio_oferta": 107900.0,
+        "descuento": 49.8,
+        "link": "https://www.asics.com.ar/1113a036-106-zapatilla-asics-gel-peake-2-1/p",
+        "imagen": "https://asicsar.vteximg.com.br/arquivos/ids/181049/asics_1113A036106_106_00.jpg?v=639102146280600000",
+        "talles": [
+            "Zapatilla ASICS Gel-Peake 2 - Blanco - 35"
+        ]
+    },
+    {
+        "id": "21736",
+        "tienda": "Pardo",
+        "nombre": "Colchón de Espuma 1 plaza Inducol Apis 80x190x24",
+        "genero": "Unisex",
+        "precio_original": 605732.0,
+        "precio_oferta": 307999.0,
+        "descuento": 49.2,
+        "link": "https://www.pardo.com.ar/colchon-de-espuma-1-plaza-inducol-apis-80x190x24-21736/p",
+        "imagen": "https://pardohogar.vteximg.com.br/arquivos/ids/229082/image-ea9358bc98474043966d58f01d6e367c.jpg?v=638878544367400000",
+        "talles": [
+            "Colchón de Espuma 1 plaza Inducol Apis 80x190x24"
+        ]
+    },
+    {
+        "id": "21735",
+        "tienda": "Pardo",
+        "nombre": "Colchón de Espuma 2 plazas Inducol Apis 140x190x24",
+        "genero": "Unisex",
+        "precio_original": 898765.0,
+        "precio_oferta": 456999.0,
+        "descuento": 49.2,
+        "link": "https://www.pardo.com.ar/colchon-de-espuma-2-plazas-inducol-apis-140x190x24-21735/p",
+        "imagen": "https://pardohogar.vteximg.com.br/arquivos/ids/229080/image-73a761c3b3c94354a52c83d00e52203a.jpg?v=638878544363170000",
+        "talles": [
+            "Colchón de Espuma 2 plazas Inducol Apis 140x190x24"
+        ]
+    },
+    {
+        "id": "103863",
+        "tienda": "Pardo",
+        "nombre": "Juego de Taza y Plato para Café Paola de Porcelana Decorada 100 ml 12 Piezas",
+        "genero": "Unisex",
+        "precio_original": 123599.0,
+        "precio_oferta": 65049.0,
+        "descuento": 47.4,
+        "link": "https://www.pardo.com.ar/juego-de-taza-y-plato-para-cafe-paola-de-porcelana-decorada-100-ml-12-piezas-103863/p",
+        "imagen": "https://pardohogar.vteximg.com.br/arquivos/ids/894792/image-b9e5ced178a44f3684ace5b31bcb1b4d.jpg?v=639161725537070000",
+        "talles": [
+            "Juego de Taza y Plato para Café Paola Tramontina de Porcelana Decorada 100 ml 12 Pzas"
+        ]
+    },
+    {
+        "id": "103636",
+        "tienda": "Pardo",
+        "nombre": "Juego de Taza y Plato para Cappuccino Paola de Porcelana Decorada 200 ml 12 Piezas",
+        "genero": "Unisex",
+        "precio_original": 158159.0,
+        "precio_oferta": 83239.0,
+        "descuento": 47.4,
+        "link": "https://www.pardo.com.ar/juego-de-taza-y-plato-para-cappuccino-paola-de-porcelana-decorada-200-ml-12-piezas-103636/p",
+        "imagen": "https://pardohogar.vteximg.com.br/arquivos/ids/893452/image-776b10f765e54e85a6825872a7d702ae.jpg?v=639161722278900000",
+        "talles": [
+            "Juego de Taza y Plato para Cappuccino Paola Tramontina de Porcelana Decorada 200 ml 12 Pzas"
+        ]
+    },
+    {
+        "id": "2064",
+        "tienda": "Sony",
+        "nombre": "Parlantes para Auto de 6,5 pulgadas XS-GTF1639",
+        "genero": "Unisex",
+        "precio_original": 189999.0,
+        "precio_oferta": 99977.47,
+        "descuento": 47.4,
+        "link": "https://store.sony.com.ar/xs-gtf1639/p",
+        "imagen": "https://arsonyb2c.vteximg.com.br/arquivos/ids/362960/01-GENBA-XS-GTF1639-Main-SSO.jpg?v=638303852910500000",
+        "talles": [
+            "| XS-GTF1639/Z E"
+        ]
+    },
+    {
+        "id": "2288",
+        "tienda": "Levi's",
+        "nombre": "Ex Boyfriend Trucker",
+        "genero": "Unisex",
+        "precio_original": 279000.0,
+        "precio_oferta": 149000.0,
+        "descuento": 46.6,
+        "link": "https://www.levi.com.ar/ex-boyfriend-trucker-2994400120/p",
+        "imagen": "https://levisarg.vteximg.com.br/arquivos/ids/610284/272_6327b31ac986f.jpg?v=639102381712170000",
+        "talles": [
+            "XS",
+            "S"
+        ]
+    },
+    {
+        "id": "14631",
+        "tienda": "Arredo",
+        "nombre": "Funda de Almohadón Repujado Flores",
+        "genero": "Unisex",
+        "precio_original": 27990.0,
+        "precio_oferta": 14990.0,
+        "descuento": 46.4,
+        "link": "https://www.arredo.com.ar/funda-de-almohadon-repujado-flores-430084580/p",
+        "imagen": "https://arredo.vteximg.com.br/arquivos/ids/1459140/43001A84580-MV_3.webp?v=639100432598700000",
+        "talles": [
+            "Color VISON - 30X60"
+        ]
+    },
+    {
+        "id": "893758",
+        "tienda": "Onsports",
+        "nombre": "Remera Hombre Topper T-shirt Brand",
+        "genero": "Hombre",
+        "precio_original": 34999.0,
+        "precio_oferta": 19249.0,
+        "descuento": 45.0,
+        "link": "https://www.onsports.com.ar/remera-hombre-topper-t-shirt-brand-training-168007-1/p",
+        "imagen": "https://celadasa.vteximg.com.br/arquivos/ids/616884/168007-1.jpg?v=638961494780870000",
+        "talles": [
+            "168007 | S",
+            "168007 | M"
+        ]
+    },
+    {
+        "id": "889509",
+        "tienda": "Onsports",
+        "nombre": "Pelota adidas Starlancer",
+        "genero": "Unisex",
+        "precio_original": 39999.0,
+        "precio_oferta": 21999.0,
+        "descuento": 45.0,
+        "link": "https://www.onsports.com.ar/pelota-adidas-starlancer-futbol-jh3745-1/p",
+        "imagen": "https://celadasa.vteximg.com.br/arquivos/ids/487207/JH3745-1.jpg?v=638889591704570000",
+        "talles": [
+            "JH3745 | 5"
+        ]
+    },
+    {
+        "id": "889603",
+        "tienda": "Onsports",
+        "nombre": "Zapatillas Hombre adidas Vl Court Mercedes Amg",
+        "genero": "Hombre",
+        "precio_original": 99999.0,
+        "precio_oferta": 54999.0,
+        "descuento": 45.0,
+        "link": "https://www.onsports.com.ar/zapatillas-hombre-adidas-vl-court-mercedes-amg-lifestyle-jr1069-1/p",
+        "imagen": "https://celadasa.vteximg.com.br/arquivos/ids/506641/JR1069-1.jpg?v=638810933410770000",
+        "talles": [
+            "JR1069 | UK 10",
+            "JR1069 | UK 9",
+            "JR1069 | UK 8.5",
+            "JR1069 | UK 7.5",
+            "JR1069 | UK 11",
+            "JR1069 | UK 6.5",
+            "JR1069 | UK 10.5"
+        ]
+    },
+    {
+        "id": "889097",
+        "tienda": "Onsports",
+        "nombre": "Remera Hombre adidas Mecanico Mercedes Amg F1",
+        "genero": "Hombre",
+        "precio_original": 149999.0,
+        "precio_oferta": 82499.0,
+        "descuento": 45.0,
+        "link": "https://www.onsports.com.ar/remera-hombre-adidas-mecanico-mercedes-amg-f1-training-jx8245-1/p",
+        "imagen": "https://celadasa.vteximg.com.br/arquivos/ids/476449/JX8245-1.jpg?v=638773153293200000",
+        "talles": [
+            "JX8245 | XXL",
+            "JX8245 | S",
+            "JX8245 | M",
+            "JX8245 | XL",
+            "JX8245 | L"
+        ]
+    },
+    {
+        "id": "26105",
+        "tienda": "Perfumería Pigmento",
+        "nombre": "Oleo Extraordinario Elvive",
+        "genero": "Unisex",
+        "precio_original": 20000.0,
+        "precio_oferta": 11000.0,
+        "descuento": 45.0,
+        "link": "https://www.perfumeriaspigmento.com.ar/oleo-extraordinario-con-oleos-florales-elvive/p",
+        "imagen": "https://perfugroupar.vteximg.com.br/arquivos/ids/188851/7509552874204-1.jpg?v=638213343055600000",
+        "talles": [
+            "100 Ml"
+        ]
+    },
+    {
+        "id": "31638",
+        "tienda": "Perfumería Pigmento",
+        "nombre": "Serum Elvive Dream Liso",
+        "genero": "Unisex",
+        "precio_original": 20000.0,
+        "precio_oferta": 11000.0,
+        "descuento": 45.0,
+        "link": "https://www.perfumeriaspigmento.com.ar/serum-elvive-dream-liso/p",
+        "imagen": "https://perfugroupar.vteximg.com.br/arquivos/ids/227891/7509552979558--1-.jpg?v=638931292464370000",
+        "talles": [
+            "100 Ml"
+        ]
+    },
+    {
+        "id": "103704",
+        "tienda": "Pardo",
+        "nombre": "Set de tazas para Té Paola Tramontina de Porcelana 240 ml 12 piezas",
+        "genero": "Unisex",
+        "precio_original": 174839.0,
+        "precio_oferta": 97129.0,
+        "descuento": 44.4,
+        "link": "https://www.pardo.com.ar/set-de-tazas-para-te-paola-tramontina-de-porcelana-240-ml-12-piezas-103704/p",
+        "imagen": "https://pardohogar.vteximg.com.br/arquivos/ids/893819/image-8cd3dc44a61944478f9ca77fbf497746.jpg?v=639161723253500000",
+        "talles": [
+            "Taza para Té Paola Tramontina de Porcelana 240 ml 12 pzas"
+        ]
+    },
+    {
+        "id": "103825",
+        "tienda": "Pardo",
+        "nombre": "Cacerola Lyon de Aluminio Antiadherente con Tapa Dorado 24 cm, 3,7 L",
+        "genero": "Unisex",
+        "precio_original": 566239.0,
+        "precio_oferta": 314569.0,
+        "descuento": 44.4,
+        "link": "https://www.pardo.com.ar/cacerola-lyon-de-aluminio-antiadherente-con-tapa-dorado-24-cm-37-l-103825/p",
+        "imagen": "https://pardohogar.vteximg.com.br/arquivos/ids/894589/image-375c1182799548148a3eb798d8a81c5c.jpg?v=639161725004570000",
+        "talles": [
+            "Cacerola Lyon de Aluminio Forjado con Revestimiento Interno Antiadherente Starflon High Performance con Tapa Dorado 24 cm, 3,7 L"
+        ]
+    },
+    {
+        "id": "103672",
+        "tienda": "Pardo",
+        "nombre": "Cacerola Lyon de Aluminio con Revestimiento Antiadherente Negro 24 cm 3,7 L",
+        "genero": "Unisex",
+        "precio_original": 566239.0,
+        "precio_oferta": 314569.0,
+        "descuento": 44.4,
+        "link": "https://www.pardo.com.ar/cacerola-lyon-de-aluminio-con-revestimiento-antiadherente-negro-24-cm-37-l-103672/p",
+        "imagen": "https://pardohogar.vteximg.com.br/arquivos/ids/893650/image-0c47f9d0c69143c3871350c59e5f510c.jpg?v=639161722756200000",
+        "talles": [
+            "Cacerola Lyon de Aluminio Forjado con Revestimiento Interno y Externo Antiadherente Starflon High Performance Negro 24 cm 3,7 L"
+        ]
+    },
+    {
+        "id": "103668",
+        "tienda": "Pardo",
+        "nombre": "Cacerola Lyon de Aluminio Forjado con Revestimiento Interno y Externo Antiadherente Starflon High Performance Azul Elemental 24 cm 3,7 L",
+        "genero": "Unisex",
+        "precio_original": 566239.0,
+        "precio_oferta": 314569.0,
+        "descuento": 44.4,
+        "link": "https://www.pardo.com.ar/cacerola-lyon-de-aluminio-forjado-con-revestimiento-interno-y-externo-antiadherente-starflon-high-performance-azul-elemental-24-cm-37-l-103668/p",
+        "imagen": "https://pardohogar.vteximg.com.br/arquivos/ids/893624/image-62594032f869445591833f62d4901861.jpg?v=639161722706670000",
+        "talles": [
+            "Cacerola Lyon de Aluminio Forjado con Revestimiento Interno y Externo Antiadherente Starflon High Performance Azul Elemental 24 cm 3,7 L"
+        ]
+    },
+    {
+        "id": "103809",
+        "tienda": "Pardo",
+        "nombre": "Juego de Plato Playo Churrasco Classic Tramontina de Porcelana 28 cm 6 Piezas",
+        "genero": "Unisex",
+        "precio_original": 148779.0,
+        "precio_oferta": 82659.0,
+        "descuento": 44.4,
+        "link": "https://www.pardo.com.ar/juego-de-plato-playo-churrasco-classic-tramontina-de-porcelana-28-cm-6-piezas-103809/p",
+        "imagen": "https://pardohogar.vteximg.com.br/arquivos/ids/894461/image-1a698100bf9749ebaf8bf4546f152b88.jpg?v=639161724777830000",
+        "talles": [
+            "Juego de Plato Playo Churrasco Classic Tramontina de Porcelana 28 cm 6 Piezas"
+        ]
+    },
+    {
+        "id": "3480",
+        "tienda": "Cetrogar",
+        "nombre": "Ventilador de Techo Codini VTIAB42AB 42\" 5 Aspas con Control Remoto Blanco",
+        "genero": "Unisex",
+        "precio_original": 284999.0,
+        "precio_oferta": 159999.0,
+        "descuento": 43.9,
+        "link": "https://www.cetrogar.com.ar/ventilador-de-techo-blanco-5-aspas-control-remoto-42--codini---vtiab42ab-3480/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/170031/image-5eabbca325c848bb8aa7361540b90222.jpg?v=639137547639900000",
+        "talles": [
+            "Ventilador de Techo Blanco 5 aspas Control Remoto 42\" Codini - VTIAB42AB"
+        ]
+    },
+    {
+        "id": "3479",
+        "tienda": "Cetrogar",
+        "nombre": "Ventilador de Techo Codini VTIAR42MB 42\" Inverter 4 Aspas Metálicas con Control Remoto Blanco",
+        "genero": "Unisex",
+        "precio_original": 259999.0,
+        "precio_oferta": 146999.0,
+        "descuento": 43.5,
+        "link": "https://www.cetrogar.com.ar/ventilador-de-techo-inverter-blanco-4-aspas-metalicas-control-remoto-codini---vtiar42mb-3479/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/171617/image-e1be2ca8edf94ab696b6e1dda56d90b6.jpg?v=639147005544900000",
+        "talles": [
+            "Ventilador de techo Inverter Blanco 4 Aspas metálicas Control Remoto Codini - VTIAR42MB"
+        ]
+    },
+    {
+        "id": "856907157",
+        "tienda": "Electrolux",
+        "nombre": "Combo Jarra eléctrica 1,8L + Tostadora eléctrica + Cafetera de filtro 1,2L (EEK11, ETS11, ECM21)",
+        "genero": "Unisex",
+        "precio_original": 190599.0,
+        "precio_oferta": 107997.0,
+        "descuento": 43.3,
+        "link": "https://www.tienda.electrolux.com.ar/kit-jarra-tostadora-cafetera/p",
+        "imagen": "https://electroluxar.vteximg.com.br/arquivos/ids/164183/Kit-Jarra-electrica-18L-Tostadora-electrica-y-Cafetera-de-filtro-12L--EEK11-ETS11-ECM21-.jpg?v=638881117008730000",
+        "talles": [
+            "Combo Jarra eléctrica 1,8L + Tostadora eléctrica + Cafetera de filtro 1,2L (EEK11, ETS11, ECM21)."
+        ]
+    },
+    {
+        "id": "2065",
+        "tienda": "Sony",
+        "nombre": "Parlantes para Auto de 5,25 pulgadas XS-GTF1339",
+        "genero": "Unisex",
+        "precio_original": 139999.0,
+        "precio_oferta": 79981.43,
+        "descuento": 42.9,
+        "link": "https://store.sony.com.ar/xs-gtf1339/p",
+        "imagen": "https://arsonyb2c.vteximg.com.br/arquivos/ids/362516/01-GENBA-XS-GTF1339-Main-SSO.jpg?v=638230454273800000",
+        "talles": [
+            "| XS-GTF1339/Z E"
+        ]
+    },
+    {
+        "id": "2368",
+        "tienda": "Sony",
+        "nombre": "Auriculares intrauditivos para juegos INZONE E9",
+        "genero": "Unisex",
+        "precio_original": 259999.0,
+        "precio_oferta": 149967.42,
+        "descuento": 42.3,
+        "link": "https://store.sony.com.ar/ier-g900/p",
+        "imagen": "https://arsonyb2c.vteximg.com.br/arquivos/ids/368831/GENBA_IER-G900_01_MainImage_SSO_1000x1000px.jpg?v=638924117047700000",
+        "talles": [
+            "| IER-G900.W",
+            "| IER-G900.SOLA"
+        ]
+    },
+    {
+        "id": "2066",
+        "tienda": "Sony",
+        "nombre": "Parlantes para Auto de 6 x 9 pulgadas XS-GTF6939",
+        "genero": "Unisex",
+        "precio_original": 239999.0,
+        "precio_oferta": 139967.42,
+        "descuento": 41.7,
+        "link": "https://store.sony.com.ar/xs-gtf6939/p",
+        "imagen": "https://arsonyb2c.vteximg.com.br/arquivos/ids/362962/01-GENBA-XS-GTF6939-Main-SSO.jpg?v=638303853626700000",
+        "talles": [
+            "| XS-GTF6939/Z E"
+        ]
+    },
+    {
+        "id": "2192",
+        "tienda": "Sony",
+        "nombre": "PS5 Control Access",
+        "genero": "Unisex",
+        "precio_original": 299999.0,
+        "precio_oferta": 174989.42,
+        "descuento": 41.7,
+        "link": "https://store.sony.com.ar/ps5-access-control/p",
+        "imagen": "https://arsonyb2c.vteximg.com.br/arquivos/ids/364412/Access_05_PR_sRGB.jpg?v=638640126332170000",
+        "talles": [
+            "| Control Access™"
+        ]
+    },
+    {
+        "id": "299331",
+        "tienda": "Fila",
+        "nombre": "ZAPATILLA FILA FLOAT VERVE CLAY HOMBRE",
+        "genero": "Hombre",
+        "precio_original": 139990.0,
+        "precio_oferta": 83994.0,
+        "descuento": 40.0,
+        "link": "https://tienda.fila.com.ar/f01tn005-zapatilla-fila-float-verve-clay-hombre/p",
+        "imagen": "https://filaar.vteximg.com.br/arquivos/ids/6845164/fila_f01tn005_5663_00.jpg?v=638209628563870000",
+        "talles": [
+            "ZAPATILLA FILA FLOAT VERVE CLAY HOMBRE - CORAL/MARINO/LIMA - 38",
+            "ZAPATILLA FILA FLOAT VERVE CLAY HOMBRE - CORAL/MARINO/LIMA - 40",
+            "ZAPATILLA FILA FLOAT VERVE CLAY HOMBRE - MARINO/VERDE/ROJO - 38",
+            "ZAPATILLA FILA FLOAT VERVE CLAY HOMBRE - MARINO/VERDE/ROJO - 39",
+            "ZAPATILLA FILA FLOAT VERVE CLAY HOMBRE - MARINO/VERDE/ROJO - 40",
+            "ZAPATILLA FILA FLOAT VERVE CLAY HOMBRE - MARINO/VERDE/ROJO - 46",
+            "ZAPATILLA FILA FLOAT VERVE CLAY HOMBRE - VERDE/MARINO/ROJO - 38",
+            "ZAPATILLA FILA FLOAT VERVE CLAY HOMBRE - VERDE/MARINO/ROJO - 39",
+            "ZAPATILLA FILA FLOAT VERVE CLAY HOMBRE - VERDE/MARINO/ROJO - 40",
+            "ZAPATILLA FILA FLOAT VERVE CLAY HOMBRE - VERDE/MARINO/ROJO - 45",
+            "ZAPATILLA FILA FLOAT VERVE CLAY HOMBRE - VERDE/MARINO/ROJO - 46"
+        ]
+    },
+    {
+        "id": "887302",
+        "tienda": "Onsports",
+        "nombre": "Ojotas Bebe Rider Drip Slide",
+        "genero": "Unisex",
+        "precio_original": 19199.0,
+        "precio_oferta": 11519.0,
+        "descuento": 40.0,
+        "link": "https://www.onsports.com.ar/ojotas-bebe-rider-drip-slide-1/p",
+        "imagen": "https://celadasa.vteximg.com.br/arquivos/ids/404007/12293-AV555-1.jpg?v=638652936583900000",
+        "talles": [
+            "12293-AV555 | ARG 20",
+            "12293-AV555 | ARG 23",
+            "12293-AV555| ARG 24.5",
+            "112293-AV555 | ARG 26",
+            "12293-AV555 | ARG 18.5"
+        ]
+    },
+    {
+        "id": "25017",
+        "tienda": "XLShop",
+        "nombre": "UTAH CAMPERA",
+        "genero": "Unisex",
+        "precio_original": 104900.0,
+        "precio_oferta": 62900.0,
+        "descuento": 40.0,
+        "link": "https://www.xlshop.com.ar/camperas-utah-campera-xt4wwe01j0147/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/214665/XL-NIGHT--180-.jpg?v=638799014400800000",
+        "talles": [
+            "LILA",
+            "LILA",
+            "LILA"
+        ]
+    },
+    {
+        "id": "23293",
+        "tienda": "XLShop",
+        "nombre": "ADA BANDOLERA MINI",
+        "genero": "Unisex",
+        "precio_original": 26900.0,
+        "precio_oferta": 16140.0,
+        "descuento": 40.0,
+        "link": "https://www.xlshop.com.ar/carteras-ada-bandolera-mini-xt3wli05c0705/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/205849/XT3WLI05C0705.jpg?v=638179358236800000",
+        "talles": []
+    },
+    {
+        "id": "1441",
+        "tienda": "Cetrogar",
+        "nombre": "Cafetera Nespresso Citiz Silver C113",
+        "genero": "Unisex",
+        "precio_original": 619399.0,
+        "precio_oferta": 371599.0,
+        "descuento": 40.0,
+        "link": "https://www.cetrogar.com.ar/cafetera-nespresso-citiz-silver-c113-ed6369/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/182985/CitiZ-Silver.jpg?v=639174904986970000",
+        "talles": [
+            "Cafetera Nespresso Citiz Silver C113"
+        ]
+    },
+    {
+        "id": "681",
+        "tienda": "Cetrogar",
+        "nombre": "Cafetera Nespresso Citiz & Milk Cherry",
+        "genero": "Unisex",
+        "precio_original": 737199.0,
+        "precio_oferta": 442299.0,
+        "descuento": 40.0,
+        "link": "https://www.cetrogar.com.ar/cafetera-nespresso-citiz-milk-cherry-ed4907/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/183016/Citiz_Milk_Cherry.jpg?v=639174906885300000",
+        "talles": [
+            "Cafetera Nespresso Citiz & Milk Cherry"
+        ]
+    },
+    {
+        "id": "4512",
+        "tienda": "Cetrogar",
+        "nombre": "Colchón de resortes Zafiro Iridio de 1 plaza 90x190 cm",
+        "genero": "Unisex",
+        "precio_original": 443332.0,
+        "precio_oferta": 265999.0,
+        "descuento": 40.0,
+        "link": "https://www.cetrogar.com.ar/colchon-de-resortes-zafiro-iridio-de-1-plaza-90x190-cm-4512/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/182845/image-3277e18d89e4488aacb150944c3ee2d1.jpg?v=639173195908600000",
+        "talles": [
+            "Colchón de resortes Zafiro Iridio de 1 plaza 90x190 cm"
+        ]
+    },
+    {
+        "id": "4174",
+        "tienda": "Cetrogar",
+        "nombre": "Colchón de espuma Zafiro Bremen de 1 plaza 80x190 cm",
+        "genero": "Unisex",
+        "precio_original": 488332.0,
+        "precio_oferta": 292999.0,
+        "descuento": 40.0,
+        "link": "https://www.cetrogar.com.ar/colchon-de-espuma-zafiro-bremen-de-1-plaza-80x190-cm-4174/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/179495/image-1f564dbbe6544e2f8cdb59a7ddff726a.jpg?v=639166883845600000",
+        "talles": [
+            "Colchón de espuma Zafiro Bremen de 1 plaza 80x190 cm"
+        ]
+    },
+    {
+        "id": "4169",
+        "tienda": "Cetrogar",
+        "nombre": "Colchón compactado de resortes King Koil G-Hybrid de 1 plaza 80x190 cm",
+        "genero": "Unisex",
+        "precio_original": 498332.0,
+        "precio_oferta": 298999.0,
+        "descuento": 40.0,
+        "link": "https://www.cetrogar.com.ar/colchon-compactado-de-resortes-king-koil-g-hybrid-de-1-plaza-80x190-cm-4169/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/179436/image-ed354d828b164520a8343127e959aa52.jpg?v=639166293421270000",
+        "talles": [
+            "Colchón compactado de resortes King Koil G-Hybrid de 1 plaza 80x190 cm"
+        ]
+    },
+    {
+        "id": "4493",
+        "tienda": "Cetrogar",
+        "nombre": "Colchón compactado de resortes Zafiro Express Hybrid de 1 plaza 90x190 cm",
+        "genero": "Unisex",
+        "precio_original": 548332.0,
+        "precio_oferta": 328999.0,
+        "descuento": 40.0,
+        "link": "https://www.cetrogar.com.ar/colchon-compactado-de-resortes-zafiro-express-hybrid-de-1-plaza-90x190-cm-4493/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/182757/image-25af93840f5e494a9157d7fce94f28ba.jpg?v=639173194588200000",
+        "talles": [
+            "Colchón compactado de resortes Zafiro Express Hybrid de 1 plaza 90x190 cm"
+        ]
+    },
+    {
+        "id": "3714",
+        "tienda": "Cetrogar",
+        "nombre": "Colchón de espuma Zafiro Express Light de 1 1/2 plazas 100x190 cm",
+        "genero": "Unisex",
+        "precio_original": 578332.0,
+        "precio_oferta": 346999.0,
+        "descuento": 40.0,
+        "link": "https://www.cetrogar.com.ar/colchon-de-espuma-zafiro-express-light-de-1-1-2-plazas-100x190-cm-3714/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/171846/image-af35f856f9854a0781f36cf9df1cf3aa.jpg?v=639148756009600000",
+        "talles": [
+            "Colchón de espuma Zafiro Express Light de 1 1/2 plazas 100x190 cm"
+        ]
+    },
+    {
+        "id": "4492",
+        "tienda": "Cetrogar",
+        "nombre": "Colchón compactado de resortes Zafiro Express Hybrid de 1 1/2 plazas 100x190 cm",
+        "genero": "Unisex",
+        "precio_original": 583332.0,
+        "precio_oferta": 349999.0,
+        "descuento": 40.0,
+        "link": "https://www.cetrogar.com.ar/colchon-compactado-de-resortes-zafiro-express-hybrid-de-1-1-2-plazas-100x190-cm-4492/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/182749/image-b4f5a358f95e4765b917c720e795713a.jpg?v=639173194582400000",
+        "talles": [
+            "Colchón compactado de resortes Zafiro Express Hybrid de 1 1/2 plazas 100x190 cm"
+        ]
+    },
+    {
+        "id": "4183",
+        "tienda": "Cetrogar",
+        "nombre": "Colchón de espuma Zafiro Bremen de 1 1/2 plazas 100x190 cm",
+        "genero": "Unisex",
+        "precio_original": 583332.0,
+        "precio_oferta": 349999.0,
+        "descuento": 40.0,
+        "link": "https://www.cetrogar.com.ar/colchon-de-espuma-zafiro-bremen-de-1-1-2-plazas-100x190-cm-4183/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/179547/image-4b550befe2104c779e3564df1f32c514.jpg?v=639166884110330000",
+        "talles": [
+            "Colchón de espuma Zafiro Bremen de 1 1/2 plazas 100x190 cm"
+        ]
+    },
+    {
+        "id": "4592",
+        "tienda": "Cetrogar",
+        "nombre": "Colchón compactado de resortes King Koil G-Hybrid de 1 1/2 plazas 100x200 cm",
+        "genero": "Unisex",
+        "precio_original": 603332.0,
+        "precio_oferta": 361999.0,
+        "descuento": 40.0,
+        "link": "https://www.cetrogar.com.ar/colchon-compactado-de-resortes-king-koil-g-hybrid-de-1-1-2-plazas-100x200-cm-4592/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/183147/image-4b20b747130b4d2994531408546e5fc3.jpg?v=639179009792970000",
+        "talles": [
+            "Colchón compactado de resortes King Koil G-Hybrid de 1 1/2 plazas 100x200 cm"
+        ]
+    },
+    {
+        "id": "3755",
+        "tienda": "Cetrogar",
+        "nombre": "Colchón compactado de resortes King Koil Grand Pocket de 1 plaza 80x190 cm",
+        "genero": "Unisex",
+        "precio_original": 683332.0,
+        "precio_oferta": 409999.0,
+        "descuento": 40.0,
+        "link": "https://www.cetrogar.com.ar/colchon-compactado-de-resortes-king-koil-grand-pocket-de-1-plaza-80x190-cm-3755/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/172356/image-8a0bafbe64774406bb80cfaea7caa69f.jpg?v=639150687629330000",
+        "talles": [
+            "Colchón compactado de resortes King Koil Grand Pocket de 1 plaza 80x190 cm"
+        ]
+    },
+    {
+        "id": "4504",
+        "tienda": "Cetrogar",
+        "nombre": "Colchón de resortes Zafiro Imori de 1 plaza 90x190 cm",
+        "genero": "Unisex",
+        "precio_original": 698332.0,
+        "precio_oferta": 418999.0,
+        "descuento": 40.0,
+        "link": "https://www.cetrogar.com.ar/colchon-de-resortes-zafiro-imori-de-1-plaza-90x190-cm-4504/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/182807/image-4a92ff73cc924369ba0810120cb64c9a.jpg?v=639173195866600000",
+        "talles": [
+            "Colchón de resortes Zafiro Imori de 1 plaza 90x190 cm"
+        ]
+    },
+    {
+        "id": "4454",
+        "tienda": "Cetrogar",
+        "nombre": "Colchón de resortes Zafiro Iridio de 2 plazas 140x190 cm",
+        "genero": "Unisex",
+        "precio_original": 703332.0,
+        "precio_oferta": 421999.0,
+        "descuento": 40.0,
+        "link": "https://www.cetrogar.com.ar/colchon-de-resortes-zafiro-iridio-de-2-plazas-140x190-cm-4454/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/181858/image-34dcdb61692a4cdda49f8feac4cb074b.jpg?v=639172073607100000",
+        "talles": [
+            "Colchón de resortes Zafiro Iridio de 2 plazas 140x190 cm"
+        ]
+    },
+    {
+        "id": "4469",
+        "tienda": "Cetrogar",
+        "nombre": "Colchón compactado de resortes King Koil Grand Pocket de 1 plaza 90x190 cm",
+        "genero": "Unisex",
+        "precio_original": 758332.0,
+        "precio_oferta": 454999.0,
+        "descuento": 40.0,
+        "link": "https://www.cetrogar.com.ar/colchon-compactado-de-resortes-king-koil-grand-pocket-de-1-plaza-90x190-cm-4469/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/181948/image-1b19f87414fb427488c947ab01a0c637.jpg?v=639172076391830000",
+        "talles": [
+            "Colchón compactado de resortes King Koil Grand Pocket de 1 plaza 90x190 cm"
+        ]
+    },
+    {
+        "id": "4464",
+        "tienda": "Cetrogar",
+        "nombre": "Colchón de resortes Inducol Pocket Extra Comfort de 1 plaza 80x190 cm",
+        "genero": "Unisex",
+        "precio_original": 758332.0,
+        "precio_oferta": 454999.0,
+        "descuento": 40.0,
+        "link": "https://www.cetrogar.com.ar/colchon-de-resortes-inducol-pocket-extra-comfort-de-1-plaza-80x190-cm-4464/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/181916/image-d865727653134d1d891b40374986fb3f.jpg?v=639172073654000000",
+        "talles": [
+            "Colchón de resortes Inducol Pocket Extra Comfort de 1 plaza 80x190 cm"
+        ]
+    },
+    {
+        "id": "4509",
+        "tienda": "Cetrogar",
+        "nombre": "Conjunto Sommier y Colchón de espuma Zafiro Iridio de 1 plaza 80x190 cm",
+        "genero": "Unisex",
+        "precio_original": 768332.0,
+        "precio_oferta": 460999.0,
+        "descuento": 40.0,
+        "link": "https://www.cetrogar.com.ar/conjunto-sommier-y-colchon-de-espuma-zafiro-iridio-de-1-plaza-80x190-cm-4509/p",
+        "imagen": "https://cetrogar.vteximg.com.br/arquivos/ids/182833/image-2b18177f8a704ec1bdc5f4a08b97582e.jpg?v=639173195894630000",
+        "talles": [
+            "Conjunto Sommier y Colchón de espuma Zafiro Iridio de 1 plaza 80x190 cm"
+        ]
+    },
+    {
+        "id": "1337",
+        "tienda": "Sony",
+        "nombre": "Estéreo para Auto con Bluetooth®",
+        "genero": "Unisex",
+        "precio_original": 499999.0,
+        "precio_oferta": 299999.4,
+        "descuento": 40.0,
+        "link": "https://store.sony.com.ar/dsx-a410bt/p",
+        "imagen": "https://arsonyb2c.vteximg.com.br/arquivos/ids/174700/47a87681acd5ca7deed1267f09a0317f.jpg?v=638697069713500000",
+        "talles": [
+            "| DSXA410BT/Q1 E"
+        ]
+    },
+    {
+        "id": "9872",
+        "tienda": "Juleriaque",
+        "nombre": "OH MY GLOSS! LIP OIL",
+        "genero": "Unisex",
+        "precio_original": 32291.0,
+        "precio_oferta": 19374.6,
+        "descuento": 40.0,
+        "link": "https://www.juleriaque.com.ar/oh-my-gloss-lip-oil-901852/p",
+        "imagen": "https://juleriaque.vteximg.com.br/arquivos/ids/240080/3009991.jpg?v=638639399072800000",
+        "talles": [
+            "Oh My Gloss! Lip Oil",
+            "Oh My Gloss! Lip Oil",
+            "Oh My Gloss! Lip Oil",
+            "Oh My Gloss! Lip Oil"
+        ]
+    },
+    {
+        "id": "1890",
+        "tienda": "Sony",
+        "nombre": "Auriculares con cable y micrófono INZONE H3 para juegos",
+        "genero": "Unisex",
+        "precio_original": 229999.0,
+        "precio_oferta": 139977.39,
+        "descuento": 39.1,
+        "link": "https://store.sony.com.ar/inzone-h3/p",
+        "imagen": "https://arsonyb2c.vteximg.com.br/arquivos/ids/359879/39bf4d07b80f99034f09db5d7644e036.jpg?v=637920877976900000",
+        "talles": [
+            "| MDR-G300/WZ UC",
+            "| MDR-G300/BZ UC"
+        ]
+    },
+    {
+        "id": "856907529",
+        "tienda": "Electrolux",
+        "nombre": "Combo Heladera (IB7B) + Freidora de Aire Gratis (EAF05)",
+        "genero": "Unisex",
+        "precio_original": 2613554.0,
+        "precio_oferta": 1599999.0,
+        "descuento": 38.8,
+        "link": "https://www.tienda.electrolux.com.ar/kit-heladeraib7b-freidoraeaf05/p",
+        "imagen": "https://electroluxar.vteximg.com.br/arquivos/ids/164282/Kit-HeladeraIB7B-Freidora.jpg?v=638921033630300000",
+        "talles": [
+            "Combo Heladera (IB7B) + Freidora de Aire Gratis (EAF05)"
+        ]
+    },
+    {
+        "id": "1889",
+        "tienda": "Sony",
+        "nombre": "Auriculares inalámbricos con micrófono y noise cancelling para juegos INZONE H9",
+        "genero": "Unisex",
+        "precio_original": 649999.0,
+        "precio_oferta": 399944.38,
+        "descuento": 38.5,
+        "link": "https://store.sony.com.ar/inzone-h9/p",
+        "imagen": "https://arsonyb2c.vteximg.com.br/arquivos/ids/362126/MDR-H9--1000x1000-.jpg?v=638169999900530000",
+        "talles": [
+            "| WH-G900N/WZ UC"
+        ]
+    },
+    {
+        "id": "2401",
+        "tienda": "Sony",
+        "nombre": "Parlante Bluetooth Inalámbrico Portátil Sony SRS-XV500",
+        "genero": "Unisex",
+        "precio_original": 1099999.0,
+        "precio_oferta": 679909.38,
+        "descuento": 38.2,
+        "link": "https://store.sony.com.ar/combo-srs-xv500/p",
+        "imagen": "https://arsonyb2c.vteximg.com.br/arquivos/ids/369617/GENBA_SRS-XV500_01_MainImage_1000x1000px.jpg?v=639002232176670000",
+        "talles": [
+            "SRS-XV500/BCAR2 1 PAGO"
+        ]
+    },
+    {
+        "id": "2417",
+        "tienda": "Sony",
+        "nombre": "Control inalámbrico DualSense® edición limitada de Genshin Impact",
+        "genero": "Unisex",
+        "precio_original": 299998.93,
+        "precio_oferta": 185999.34,
+        "descuento": 38.0,
+        "link": "https://store.sony.com.ar/dualsense-genshin-impact/p",
+        "imagen": "https://arsonyb2c.vteximg.com.br/arquivos/ids/369980/_1.png?v=639058164191200000",
+        "talles": [
+            "DUALSENSE LE Genshin Impact"
+        ]
+    },
+    {
+        "id": "2425",
+        "tienda": "Sony",
+        "nombre": "Control inalámbrico DualSense® - Marathon - para PS5, PC, Mac y móvil",
+        "genero": "Unisex",
+        "precio_original": 299998.93,
+        "precio_oferta": 185999.34,
+        "descuento": 38.0,
+        "link": "https://store.sony.com.ar/dualsense-marathon/p",
+        "imagen": "https://arsonyb2c.vteximg.com.br/arquivos/ids/370331/DualSense-Marathon-1.jpg?v=639089109614600000",
+        "talles": [
+            "PS5 DUALSENSE CFI-ZCT1W MARATHON LE AMER"
+        ]
+    },
+    {
+        "id": "2424",
+        "tienda": "Sony",
+        "nombre": "Control Inalámbrico DualSense™ Rhythm Blue – Hyperpop Collection",
+        "genero": "Unisex",
+        "precio_original": 299998.93,
+        "precio_oferta": 185999.34,
+        "descuento": 38.0,
+        "link": "https://store.sony.com.ar/dualsense-rhythm-blue/p",
+        "imagen": "https://arsonyb2c.vteximg.com.br/arquivos/ids/370326/DualSense-Rhythm-Blue-1.jpg?v=639089121048900000",
+        "talles": [
+            "PS5 DUALSENSE CFI-ZCT2W RHYTM BLUE AMER"
+        ]
+    },
+    {
+        "id": "856907279",
+        "tienda": "Electrolux",
+        "nombre": "Combo Freidora de Aire (EAF170) + Set de Accesorios Gratis",
+        "genero": "Unisex",
+        "precio_original": 222221.0,
+        "precio_oferta": 139999.0,
+        "descuento": 37.0,
+        "link": "https://www.tienda.electrolux.com.ar/kit-freidoradeaireeaf170-setdeaccesorios/p",
+        "imagen": "https://electroluxar.vteximg.com.br/arquivos/ids/164220/EAF170.png?v=638911138951330000",
+        "talles": [
+            "Combo Freidora de Aire + Set de Accesorios (EAF170)"
+        ]
+    },
+    {
+        "id": "29072",
+        "tienda": "XLShop",
+        "nombre": "BECK VASO TERMICO",
+        "genero": "Unisex",
+        "precio_original": 62900.0,
+        "precio_oferta": 39920.0,
+        "descuento": 36.5,
+        "link": "https://www.xlshop.com.ar/accesorios-beck-vaso-termico-xm00yu01v0447/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/237871/XM00YU01V0447.jpg?v=638980247948200000",
+        "talles": [
+            "LILA"
+        ]
+    },
+    {
+        "id": "29071",
+        "tienda": "XLShop",
+        "nombre": "BECK VASO TERMICO",
+        "genero": "Unisex",
+        "precio_original": 62900.0,
+        "precio_oferta": 39920.0,
+        "descuento": 36.5,
+        "link": "https://www.xlshop.com.ar/accesorios-beck-vaso-termico-xm00yu01v0416/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/237936/XM00YU01V0416.jpg?v=638980276225600000",
+        "talles": [
+            "VERDE"
+        ]
+    },
+    {
+        "id": "29070",
+        "tienda": "XLShop",
+        "nombre": "BECK VASO TERMICO",
+        "genero": "Unisex",
+        "precio_original": 62900.0,
+        "precio_oferta": 39920.0,
+        "descuento": 36.5,
+        "link": "https://www.xlshop.com.ar/accesorios-beck-vaso-termico-xm00yu01v0404/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/237940/XM00YU01V0404.jpg?v=638980276702430000",
+        "talles": [
+            "BEIGE"
+        ]
+    },
+    {
+        "id": "14113",
+        "tienda": "Juleriaque",
+        "nombre": "POWER MATTE LIPSTICK",
+        "genero": "Unisex",
+        "precio_original": 55990.0,
+        "precio_oferta": 36393.5,
+        "descuento": 35.0,
+        "link": "https://www.juleriaque.com.ar/power-matte-lipstick-903852/p",
+        "imagen": "https://juleriaque.vteximg.com.br/arquivos/ids/280992/3011478-1.jpg?v=639166442470700000",
+        "talles": [
+            "Mugler Power Matte Lipstick 02 Nude",
+            "Mugler Power Matte Lipstick 1974 Red"
+        ]
+    },
+    {
+        "id": "856907280",
+        "tienda": "Electrolux",
+        "nombre": "Combo Freidora de Aire (EAF180) + Set de Accesorios Gratis",
+        "genero": "Unisex",
+        "precio_original": 377777.0,
+        "precio_oferta": 245999.0,
+        "descuento": 34.9,
+        "link": "https://www.tienda.electrolux.com.ar/kit-freidoradeaireeaf180-setdeaccesorios/p",
+        "imagen": "https://electroluxar.vteximg.com.br/arquivos/ids/164221/Proyecto-nuevo.png?v=638911142749370000",
+        "talles": [
+            "Combo Freidora de Aire + Set de Accesorios (EAF180)"
+        ]
+    },
+    {
+        "id": "2778",
+        "tienda": "Levi's",
+        "nombre": "Everdene Long Puffer",
+        "genero": "Unisex",
+        "precio_original": 369000.0,
+        "precio_oferta": 244300.0,
+        "descuento": 33.8,
+        "link": "https://www.levi.com.ar/everdene-long-puffer-a069565020/p",
+        "imagen": "https://levisarg.vteximg.com.br/arquivos/ids/888275/A069565020_1.jpg.jpg?v=638774062008730000",
+        "talles": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ]
+    },
+    {
+        "id": "16",
+        "tienda": "Whirlpool",
+        "nombre": "Cava de Vinos Whirlpool para 12 Botellas Negra",
+        "genero": "Unisex",
+        "precio_original": 449999.0,
+        "precio_oferta": 299999.0,
+        "descuento": 33.3,
+        "link": "https://www.whirlpool.com.ar/cava-de-vinos-whirlpool-12-botellas-negra-wzc12a/p",
+        "imagen": "https://whirlpoolarg.vteximg.com.br/arquivos/ids/167975/wzc12a-1000px.jpg?v=639026141510870000",
+        "talles": [
+            "WZC12A"
+        ]
+    },
+    {
+        "id": "27091",
+        "tienda": "XLShop",
+        "nombre": "MIEL CANOPLA DE CUERO",
+        "genero": "Unisex",
+        "precio_original": 68000.0,
+        "precio_oferta": 45900.0,
+        "descuento": 32.5,
+        "link": "https://www.xlshop.com.ar/accesorios-miel-canopla-xc5wpl05b1103/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/222716/XC5WPL05B1103.jpg?v=638748754311030000",
+        "talles": [
+            "AZUL"
+        ]
+    },
+    {
+        "id": "27090",
+        "tienda": "XLShop",
+        "nombre": "MIEL CANOPLA DE CUERO",
+        "genero": "Unisex",
+        "precio_original": 68000.0,
+        "precio_oferta": 45900.0,
+        "descuento": 32.5,
+        "link": "https://www.xlshop.com.ar/accesorios-miel-canopla-xc5wpl05b1109/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/222712/XC5WPL05B1109.jpg?v=638748754276870000",
+        "talles": [
+            "CAMEL"
+        ]
+    },
+    {
+        "id": "27089",
+        "tienda": "XLShop",
+        "nombre": "MIEL CANOPLA DE CUERO",
+        "genero": "Unisex",
+        "precio_original": 68000.0,
+        "precio_oferta": 45900.0,
+        "descuento": 32.5,
+        "link": "https://www.xlshop.com.ar/accesorios-miel-canopla-xc5wpl05b1111/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/222710/XC5WPL05B1111.jpg?v=638748754253800000",
+        "talles": [
+            "ROJO"
+        ]
+    },
+    {
+        "id": "856908143",
+        "tienda": "Electrolux",
+        "nombre": "Combo Anafe a Inducción 4 Zonas con Sense Fry Electrolux IE6SF + Campana Electrolux 90cm Experience CE9TF",
+        "genero": "Unisex",
+        "precio_original": 3081109.0,
+        "precio_oferta": 2100000.0,
+        "descuento": 31.8,
+        "link": "https://www.tienda.electrolux.com.ar/comboie6sf-ce9tf/p",
+        "imagen": "https://electroluxar.vteximg.com.br/arquivos/ids/164731/CE9FT---IE6ST.jpg?v=639059894424300000",
+        "talles": [
+            "Combo Anafe a Inducción 4 Zonas con Sense Fry Electrolux IE6SF + Campana Electrolux 90cm Experience CE9TF"
+        ]
+    },
+    {
+        "id": "856908257",
+        "tienda": "Electrolux",
+        "nombre": "Combo Licuadora Electrolux Experience 1,95L 800W EBS30 + Freidora de Aire Electrolux Expert Vision360 EAF170 5,1L",
+        "genero": "Unisex",
+        "precio_original": 388887.0,
+        "precio_oferta": 266473.0,
+        "descuento": 31.5,
+        "link": "https://www.tienda.electrolux.com.ar/combo-licuadora-electrolux-experience-1-95l-800w-ebs30---freidora-de-aire-electrolux-expert-vision360-eaf170-5-1l/p",
+        "imagen": "https://electroluxar.vteximg.com.br/arquivos/ids/164765/New-Project.jpg?v=639082348745430000",
+        "talles": [
+            "Combo Licuadora Electrolux Experience 1,95L 800W EBS30 + Freidora de Aire Electrolux Expert Vision360 EAF170 5,1L"
+        ]
+    },
+    {
+        "id": "25977",
+        "tienda": "XLShop",
+        "nombre": "ELLE MOCHILA",
+        "genero": "Unisex",
+        "precio_original": 71000.0,
+        "precio_oferta": 49500.0,
+        "descuento": 30.3,
+        "link": "https://www.xlshop.com.ar/carteras-elle-mochila-xv4sdc07c0509/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/217477/XV4SDC07C0509.jpg?v=638605332829930000",
+        "talles": [
+            "CAMEL"
+        ]
+    },
+    {
+        "id": "28785",
+        "tienda": "XLShop",
+        "nombre": "LORETTE ZAPATILLA",
+        "genero": "Unisex",
+        "precio_original": 109000.0,
+        "precio_oferta": 76000.0,
+        "descuento": 30.3,
+        "link": "https://www.xlshop.com.ar/calzado-lorette-zapatilla--xt5sbo04z0101/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/234439/XT5SBO04Z0101-D.jpg?v=638944911118000000",
+        "talles": [
+            "NEGRO",
+            "NEGRO",
+            "NEGRO",
+            "NEGRO",
+            "NEGRO",
+            "NEGRO"
+        ]
+    },
+    {
+        "id": "27017",
+        "tienda": "XLShop",
+        "nombre": "BELEN BANDOLERA SOBRE DE CUERO",
+        "genero": "Unisex",
+        "precio_original": 152000.0,
+        "precio_oferta": 106000.0,
+        "descuento": 30.3,
+        "link": "https://www.xlshop.com.ar/carteras-belen-bandolera-sobre-xc5wba08c1520/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/222584/XC5WBA08C1520.jpg?v=638748752857230000",
+        "talles": [
+            "DORADO"
+        ]
+    },
+    {
+        "id": "28824",
+        "tienda": "XLShop",
+        "nombre": "MAIOR BANDOLERA CHICA",
+        "genero": "Unisex",
+        "precio_original": 48000.0,
+        "precio_oferta": 33500.0,
+        "descuento": 30.2,
+        "link": "https://www.xlshop.com.ar/carteras-maior-bandolera-chica-xv5syi23c1919/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/236391/xv5syi23c1919.jpg?v=638959569020230000",
+        "talles": [
+            "PLATEADO"
+        ]
+    },
+    {
+        "id": "29323",
+        "tienda": "XLShop",
+        "nombre": "LUISA MARINERO",
+        "genero": "Unisex",
+        "precio_original": 68000.0,
+        "precio_oferta": 47500.0,
+        "descuento": 30.1,
+        "link": "https://www.xlshop.com.ar/carteras-luisa-marinero-xt5sdc33c1101/p",
+        "imagen": "https://xlshop.vteximg.com.br/arquivos/ids/238680/XT5SDC33C1101.jpg?v=639001981877300000",
+        "talles": [
+            "NEGRO"
+        ]
+    },
+    {
+        "id": "375",
+        "tienda": "Asics",
+        "nombre": "Zapatillas ASICS GEL-Peake 2",
+        "genero": "Unisex",
+        "precio_original": 214900.0,
+        "precio_oferta": 150430.0,
+        "descuento": 30.0,
+        "link": "https://www.asics.com.ar/1113a036-104-zapatillas-asics-gel-peake-2-1/p",
+        "imagen": "https://asicsar.vteximg.com.br/arquivos/ids/162100/asics_1113A036104_104_00.jpg?v=638787699142000000",
+        "talles": [
+            "Zapatillas ASICS GEL-Peake 2 - Blanco - 38,5",
+            "Zapatillas ASICS GEL-Peake 2 - Blanco - 39",
+            "Zapatillas ASICS GEL-Peake 2 - Blanco - 40",
+            "Zapatillas ASICS GEL-Peake 2 - Blanco - 40,5",
+            "Zapatillas ASICS GEL-Peake 2 - Blanco - 41",
+            "Zapatillas ASICS GEL-Peake 2 - Blanco - 42",
+            "Zapatillas ASICS GEL-Peake 2 - Blanco - 42,5",
+            "Zapatillas ASICS GEL-Peake 2 - Blanco - 45"
+        ]
+    },
+    {
+        "id": "371",
+        "tienda": "Asics",
+        "nombre": "Botines ASICS Lethal Flash IT 2",
+        "genero": "Unisex",
+        "precio_original": 249900.0,
+        "precio_oferta": 174930.0,
+        "descuento": 30.0,
+        "link": "https://www.asics.com.ar/1111a206-007-botines-asics-lethal-flash-it-2/p",
+        "imagen": "https://asicsar.vteximg.com.br/arquivos/ids/162030/asics_1111A206007_007_00.jpg?v=638787698875200000",
+        "talles": [
+            "Botines ASICS Lethal Flash IT 2 - Negro - 40",
+            "Botines ASICS Lethal Flash IT 2 - Negro - 40,5",
+            "Botines ASICS Lethal Flash IT 2 - Negro - 41",
+            "Botines ASICS Lethal Flash IT 2 - Negro - 42",
+            "Botines ASICS Lethal Flash IT 2 - Negro - 42,5",
+            "Botines ASICS Lethal Flash IT 2 - Negro - 43",
+            "Botines ASICS Lethal Flash IT 2 - Negro - 44",
+            "Botines ASICS Lethal Flash IT 2 - Negro - 45"
+        ]
+    },
+    {
+        "id": "300902",
+        "tienda": "Fila",
+        "nombre": "CAMPERA DE ROMPEVIENTO HOMBRE FILA RACER RUN",
+        "genero": "Hombre",
+        "precio_original": 98900.0,
+        "precio_oferta": 69230.0,
+        "descuento": 30.0,
+        "link": "https://tienda.fila.com.ar/f11r00081-campera-de-rompeviento-hombre-fila-racer-run/p",
+        "imagen": "https://filaar.vteximg.com.br/arquivos/ids/6916759/fila_F11R00081_3354_00.webp?v=638929305815970000",
+        "talles": [
+            "CAMPERA DE ROMPEVIENTO HOMBRE FILA RACER RUN - VERDE SALVIA CLARO - S",
+            "CAMPERA ROMPEVIENTO MASCULINA FILA RACER RUN - ROYAL - L",
+            "CAMPERA ROMPEVIENTO MASCULINA FILA RACER RUN - ROYAL - M",
+            "CAMPERA ROMPEVIENTO MASCULINA FILA RACER RUN - ROYAL - S",
+            "CAMPERA ROMPEVIENTO MASCULINA FILA RACER RUN - ROYAL - XL",
+            "CAMPERA ROMPEVIENTO MASCULINA FILA RACER RUN - NEGRO/REFLEXIVO - L",
+            "CAMPERA ROMPEVIENTO MASCULINA FILA RACER RUN - NEGRO/REFLEXIVO - M",
+            "CAMPERA ROMPEVIENTO MASCULINA FILA RACER RUN - NEGRO/REFLEXIVO - S",
+            "CAMPERA ROMPEVIENTO MASCULINA FILA RACER RUN - NEGRO/REFLEXIVO - XL"
+        ]
+    },
+    {
+        "id": "889098",
+        "tienda": "Onsports",
+        "nombre": "Remera Hombre adidas Oficial De Piloto Mercedes Amg F1",
+        "genero": "Hombre",
+        "precio_original": 199999.0,
+        "precio_oferta": 139999.0,
+        "descuento": 30.0,
+        "link": "https://www.onsports.com.ar/remera-hombre-adidas-oficial-de-piloto-mercedes-amg-f1-training-jy2607/p",
+        "imagen": "https://celadasa.vteximg.com.br/arquivos/ids/476473/JY2607-1.jpg?v=638757397773570000",
+        "talles": [
+            "JY2607 | S"
         ]
     }
 ]
